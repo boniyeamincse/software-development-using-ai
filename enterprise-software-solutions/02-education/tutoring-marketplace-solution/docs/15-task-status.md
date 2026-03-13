@@ -1,23 +1,33 @@
-# Tutoring Marketplace Solution - Task Status
+# 15 - Tutoring Marketplace Task Status
 
-## 1. Step-by-Step Build Plan
+## Phase 1: Onboarding & Identity
+| Task ID | Task Name | Priority | Status | Assigned To |
+| :--- | :--- | :--- | :--- | :--- |
+| TM-01 | Tutor/Student Schema & Relationships | Critical | ✅ Done | DBA |
+| TM-02 | Multi-Step Tutor Application Workflow | High | 🔄 In Progress | Backend |
+| TM-03 | Background Check API Integration | Medium | ⏳ Pending | Security |
+| TM-04 | Profile Photo & Video Resume Upload | Medium | ⏳ Pending | Frontend |
 
-| Step | Task | Status |
-|---|---|---|
-| 1 | Finalize overview, features, roles, and architecture | Complete |
-| 2 | Expand database schema into detailed tables | Pending |
-| 3 | Expand API design into endpoint-by-endpoint specification | Pending |
-| 4 | Define page-level UI flows for learner, tutor, and admin apps | Pending |
-| 5 | Document workflows with state transitions and edge cases | Pending |
-| 6 | Finalize security, deployment, and observability standards | Pending |
-| 7 | Prepare roadmap, prompts, and implementation backlog | In Progress |
+## Phase 2: Search & Matching
+| Task ID | Task Name | Priority | Status | Assigned To |
+| :--- | :--- | :--- | :--- | :--- |
+| SRC-01 | ElasticSearch Integration for Tutor Discovery | High | ⏳ Pending | DevOps |
+| SRC-02 | Skill & Subject Taxonomy Manager | Medium | ⏳ Pending | Backend |
+| SRC-03 | Availability Sync (Google/Outlook) | Medium | ⏳ Pending | Backend |
+| SRC-04 | Bidding System for Student Requests | High | ⏳ Pending | Backend |
 
-## 2. Delivery Sequence
+## Phase 3: Booking & Payments
+| Task ID | Task Name | Priority | Status | Assigned To |
+| :--- | :--- | :--- | :--- | :--- |
+| PAY-01 | Escrow & Managed Payment Service | Critical | ⏳ Pending | Backend |
+| PAY-02 | Milestone-based Releases | High | ⏳ Pending | Backend |
+| PAY-03 | Tutor Dashboard (Earnings & TAX) | Medium | ⏳ Pending | Frontend |
+| PAY-04 | Dispute Resolution Workflow | Low | ⏳ Pending | Ops |
 
-1. Identity and access
-2. Tutor verification
-3. Discovery and matching
-4. Booking and payments
-5. Sessions and progress tracking
-6. Reviews, disputes, and payouts
-7. Analytics and growth tooling
+## Phase 4: Classroom & Delivery
+| Task ID | Task Name | Priority | Status | Assigned To |
+| :--- | :--- | :--- | :--- | :--- |
+| CLS-01 | WebRTC Virtual Classroom Engine | High | ⏳ Pending | Backend |
+| CLS-02 | Shared Whiteboard & Code Editor | Medium | ⏳ Pending | Frontend |
+| CLS-03 | Session Recording & Playback | Low | ⏳ Pending | DevOps |
+| CLS-04 | Homework & Resource Sharing | Medium | ⏳ Pending | Frontend |
