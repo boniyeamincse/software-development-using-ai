@@ -14,3 +14,6 @@ Handles the logical and physical tracking of assets. Integrates with RFID hardwa
 
 ## Analytics & Insights Engine
 Generates reports on "Circulation Density," "Book Popularity," and "Budget Utilization."
+
+---
+[← Previous: Core Features](02-features.md) | [Back to Index](README.md) | [Next: User Roles & Permissions →](04-user-roles.md)

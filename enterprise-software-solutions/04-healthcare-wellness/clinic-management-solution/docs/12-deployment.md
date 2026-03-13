@@ -12,3 +12,6 @@
 - **E2E Booking Tests**: Automated scripts simulating the patient booking journey every hour.
 - **Claim Scrubbing Simulation**: Testing the billing engine against thousands of known "Rejection Scenarios" to ensure accuracy.
 - **UI Performance**: Ensuring the clinical chart loads in <500ms even for patients with years of history.
+
+---
+[← Previous: Security & Compliance](11-security.md) | [Back to Index](README.md) | [Next: Roadmap & Future Enhancements →](13-future-features.md)

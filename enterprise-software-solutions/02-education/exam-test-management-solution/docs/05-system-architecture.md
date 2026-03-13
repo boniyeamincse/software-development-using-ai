@@ -13,3 +13,6 @@ The system is built on a **Stateless API Architecture** with optimized heavy-loa
 - **Encrypted Blob Storage**: For storing sensitive question papers.
 - **In-Memory Cache (Redis)**: Store active exam states for ultra-fast recovery if a student's session breaks.
 - **Primary Database**: ACID-compliant RDBMS for final grades and student records.
+
+---
+[← Previous: User Roles & Permissions](04-user-roles.md) | [Back to Index](README.md) | [Next: Database Design →](06-database-design.md)

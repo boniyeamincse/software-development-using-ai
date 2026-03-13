@@ -8,3 +8,6 @@
 | **AP Clerk** | Expense Access | Processing vendor bills, preparing payments, expense review. |
 | **Staff Accountant** | Operational | Journal entries, bank reconciliation, fixed asset tracking. |
 | **External Auditor** | Read-Only | Periodic review of ledger history and compliance logs. |
+
+---
+[← Previous: System Modules](03-modules.md) | [Back to Index](README.md) | [Next: System Architecture →](05-system-architecture.md)

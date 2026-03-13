@@ -15,3 +15,6 @@
 ## Security
 - **OAuth 2.0**: For authorizing 3rd-party integrations (e.g., Gmail/Outlook).
 - **Scope-Based Access**: Ensuring API keys only have access to relevant modules (e.g., Marketing-only).
+
+---
+[← Previous: Database Design](06-database-design.md) | [Back to Index](README.md) | [Next: UI Pages →](08-ui-pages.md)

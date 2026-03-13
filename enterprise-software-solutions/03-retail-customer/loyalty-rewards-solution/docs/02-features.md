@@ -25,3 +25,6 @@
 ## 6. Surprise & Delight
 - AI-triggered "One-Time" rewards for high-value customers showing signs of churn.
 - Personalized anniversary and birthday greetings with exclusive offers.
+
+---
+[← Previous: System Overview](01-overview.md) | [Back to Index](README.md) | [Next: System Modules →](03-modules.md)

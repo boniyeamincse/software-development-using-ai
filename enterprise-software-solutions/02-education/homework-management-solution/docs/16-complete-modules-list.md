@@ -32,3 +32,6 @@
 - **Proactive Deadline Manager**: SMS/Email/Push alerts for upcoming tasks.
 - **Teacher-Student Chat**: Contextual messaging around specific assignments.
 - **Grade Release Control**: Managing when and how students see their scores.
+
+---
+[← Previous: Task Status](15-task-status.md) | [Back to Index](README.md)

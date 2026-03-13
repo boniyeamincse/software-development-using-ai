@@ -18,3 +18,6 @@ An enterprise-grade behavioral health ecosystem that combines secure teletherapy
 - **Outcomes-Based Care**: Empowering providers with data-driven insights into patient progress over time.
 - **Crisis Connectivity**: Ensuring that patients always have a clear, immediate path to support during emergencies.
 - **Clinical Efficiency**: Reducing documentation time through specialized behavioral health templates and AI-assisted transcription.
+
+---
+[Back to Index](README.md) | [Next: Core Features →](02-features.md)

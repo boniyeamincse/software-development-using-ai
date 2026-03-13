@@ -16,3 +16,6 @@
 
 ## 5. Rich Quote Editor
 - Real-time co-editing of product tables and pricing for professional proposals.
+
+---
+[← Previous: API Design](07-api-design.md) | [Back to Index](README.md) | [Next: System Workflows →](09-workflow.md)

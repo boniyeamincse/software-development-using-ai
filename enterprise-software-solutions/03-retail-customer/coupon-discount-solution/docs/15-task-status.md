@@ -31,3 +31,6 @@
 | SEC-02 | Multi-Account Abuse Detector | High | ⏳ Pending | AI Team |
 | ANL-01 | Campaign ROI & Margin Impact Dashboard| High | ⏳ Pending | Data Team |
 | AI-01 | ML-based 'Minimum Effective Discount' AI| Low | ⏳ Pending | Data Team |
+
+---
+[← Previous: Development Prompts](14-development-prompts.md) | [Back to Index](README.md) | [Next: Complete Modules List →](16-complete-modules-list.md)

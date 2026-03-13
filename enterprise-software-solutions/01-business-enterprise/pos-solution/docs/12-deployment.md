@@ -12,3 +12,6 @@
 - **Device Lab Testing**: Automated tests against specific hardware models (Epson printers, Verifone terminals).
 - **Simulated Offline Tests**: Forcing network loss during a transaction to verify SQLite state-recovery.
 - **Visual Regression**: Ensuring the "Touch-Zones" are accurate across different tablet and terminal screen sizes.
+
+---
+[← Previous: Security & Compliance](11-security.md) | [Back to Index](README.md) | [Next: Roadmap & Future Enhancements →](13-future-features.md)

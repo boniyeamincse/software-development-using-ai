@@ -16,3 +16,6 @@
 - **OAuth 2.0 Scopes**: `time:read`, `time:write`, `time:approve` for granular system access.
 - **Idempotency**: Ensuring timer stop/start requests don't duplicate on network retry.
 - **Rate Limiting**: Protecting against high-frequency pulse updates from desktop clients.
+
+---
+[← Previous: Database Design](06-database-design.md) | [Back to Index](README.md) | [Next: UI Pages →](08-ui-pages.md)

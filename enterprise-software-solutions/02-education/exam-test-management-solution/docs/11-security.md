@@ -8,3 +8,6 @@
 ## Infrastructure Security
 - **Encryption at Rest**: PGP-encrypted question papers until 10 minutes before the exam starts.
 - **Session Stickiness**: Ensuring a student stays connected to the same server node to prevent data race conditions during sync.
+
+---
+[← Previous: Technology Stack](10-tech-stack.md) | [Back to Index](README.md) | [Next: Deployment Strategy →](12-deployment.md)

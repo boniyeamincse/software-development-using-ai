@@ -18,3 +18,6 @@ A lightweight, cloud-native Practice Management System (PMS) that combines sched
 - **Patient Retention**: Automated engagement cycles and easy access to personal health records.
 - **Simplified Billing**: Instant insurance eligibility verification and automated invoice generation.
 - **Agile Growth**: Scalable architecture to support clinic expansion into multiple branches or specialties.
+
+---
+[Back to Index](README.md) | [Next: Core Features →](02-features.md)

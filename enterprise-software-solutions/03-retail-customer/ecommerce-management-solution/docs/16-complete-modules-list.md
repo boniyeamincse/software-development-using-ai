@@ -35,3 +35,6 @@
 - **AI Fraud Shield**: Protecting against payment and account abuse.
 - **Security & Privacy Guard**: GDPR/CCPA and PCI-DSS compliance modules.
 - **Personalization Engine**: AI-driven product and content recommendations.
+
+---
+[← Previous: Task Status](15-task-status.md) | [Back to Index](README.md)

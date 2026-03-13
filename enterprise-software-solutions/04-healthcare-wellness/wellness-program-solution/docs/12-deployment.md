@@ -11,3 +11,6 @@
 ## Verification
 - **Wearable API Mocking**: Testing the normalization engine against thousands of different device-data formats.
 - **Incentive Logic Audit**: Automated verification that "Points Earned" always matches the challenge rules and history.
+
+---
+[← Previous: Security & Compliance](11-security.md) | [Back to Index](README.md) | [Next: Roadmap & Future Enhancements →](13-future-features.md)

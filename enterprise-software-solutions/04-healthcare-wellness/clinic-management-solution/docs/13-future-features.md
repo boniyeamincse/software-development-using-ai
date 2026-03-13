@@ -12,3 +12,6 @@
 ## Modern Experiences
 - **Wearable Data Ingestion**: Doctors viewing real-time Apple Health/Fitbit data on the clinical chart.
 - **One-Click Telehealth**: Transitioning an in-person visit to video with a single tap if the patient is stuck in traffic.
+
+---
+[← Previous: Deployment Strategy](12-deployment.md) | [Back to Index](README.md) | [Next: Development Prompts →](14-development-prompts.md)

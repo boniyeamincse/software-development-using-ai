@@ -21,3 +21,6 @@
 3. Card processing shifts to "Store & Forward" (Offline Tokenization).
 4. Internet restores; Background worker initiates "Reconciliation Handshake."
 5. Sales merged into cloud master; Inventory audit check performed.
+
+---
+[← Previous: UI Pages](08-ui-pages.md) | [Back to Index](README.md) | [Next: Technology Stack →](10-tech-stack.md)

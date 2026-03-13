@@ -20,3 +20,6 @@ The social module for challenges, updates, and direct student-teacher messaging.
 
 ## Studio Growth Analytics
 The reporting layer for monitoring revenue, attendance, and member retention.
+
+---
+[← Previous: Core Features](02-features.md) | [Back to Index](README.md) | [Next: User Roles & Permissions →](04-user-roles.md)

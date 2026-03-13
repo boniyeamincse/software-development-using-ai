@@ -20,3 +20,6 @@
 ## 5. Store Insights Dashboard
 - Glancable charts: "Top Selling Items," "Hourly Sales Trends," and "Average Basket Size."
 - Real-time "Stock Low" priority list.
+
+---
+[← Previous: API Design](07-api-design.md) | [Back to Index](README.md) | [Next: System Workflows →](09-workflow.md)

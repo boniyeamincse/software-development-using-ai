@@ -17,3 +17,6 @@ Ticketing system for handling returns, refunds, and customer inquiries. Includes
 
 ## Marketing & SEO Engine
 Tools for managing meta-tags, sitemaps, and promotional banners. Includes integration with email marketing platforms.
+
+---
+[← Previous: Core Features](02-features.md) | [Back to Index](README.md) | [Next: User Roles & Permissions →](04-user-roles.md)

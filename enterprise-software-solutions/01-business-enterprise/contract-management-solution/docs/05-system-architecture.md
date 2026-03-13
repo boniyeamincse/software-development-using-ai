@@ -13,3 +13,6 @@ The system uses a **Durable Document Workflow Architecture** designed to manage 
 - **Relational DB (PostgreSQL)**: Storing contract metadata, workflow states, and user permissions.
 - **Vector DB (Optional)**: For semantic search and clause similarity matching.
 - **Secure File Storage (S3)**: Version-enabled object storage with server-side encryption and strict access logging.
+
+---
+[← Previous: User Roles & Permissions](04-user-roles.md) | [Back to Index](README.md) | [Next: Database Design →](06-database-design.md)

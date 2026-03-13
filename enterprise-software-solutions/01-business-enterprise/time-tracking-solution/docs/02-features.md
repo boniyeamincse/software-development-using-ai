@@ -30,3 +30,6 @@
 - Visual heatmaps showing "Productive vs. Administrative" time across teams.
 - Project "Burn-Down" charts based on actual tracked hours vs. estimates.
 - Export-ready reports for client billing and executive review.
+
+---
+[← Previous: System Overview](01-overview.md) | [Back to Index](README.md) | [Next: System Modules →](03-modules.md)

@@ -17,3 +17,6 @@
 ## Data Relationships
 - **One-to-Many**: One Assignment can have many Submissions (one per student).
 - **One-to-Many**: One Assignment can have multiple associated Resources.
+
+---
+[← Previous: System Architecture](05-system-architecture.md) | [Back to Index](README.md) | [Next: API Design →](07-api-design.md)

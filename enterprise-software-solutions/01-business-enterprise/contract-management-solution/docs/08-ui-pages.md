@@ -19,3 +19,6 @@
 ## 5. Intelligent Global Search
 - Amazon-style facets for filtering by Value, Date, Party, or Legal Term.
 - Highlighted text snippets within search results for quick verification.
+
+---
+[← Previous: API Design](07-api-design.md) | [Back to Index](README.md) | [Next: System Workflows →](09-workflow.md)

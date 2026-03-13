@@ -12,3 +12,6 @@ The system is built on a **Modular Subscription Architecture** designed for high
 ## Performance Tier
 - **State Store (Redis)**: For sub-second access-token verification at the entry point.
 - **Relational DB (PostgreSQL)**: Storing the core member database and plan history.
+
+---
+[← Previous: User Roles & Permissions](04-user-roles.md) | [Back to Index](README.md) | [Next: Database Design →](06-database-design.md)

@@ -17,3 +17,6 @@ Specialized logic for handling complex tax calculations and long-term asset depr
 
 ## Reporting & BI Suite
 The visualization layer for generating compliant financial statements and management dashboards.
+
+---
+[← Previous: Core Features](02-features.md) | [Back to Index](README.md) | [Next: User Roles & Permissions →](04-user-roles.md)

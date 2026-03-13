@@ -7,3 +7,6 @@
 | **Service Provider** | Personal | Managing own schedule, viewing assigned client notes. |
 | **Receptionist** | Front-Desk | Handling walk-ins, phone bookings, and client check-ins. |
 | **Customer** | Self-Service | Booking, rescheduling, and paying for services. |
+
+---
+[← Previous: System Modules](03-modules.md) | [Back to Index](README.md) | [Next: System Architecture →](05-system-architecture.md)

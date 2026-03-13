@@ -27,3 +27,6 @@
 - **Many-to-Many**: Patients can be part of multiple Therapy Groups.
 - **One-to-One**: One High-Scoring Assessment may trigger one Priority Crisis Incident.
 - **Many-to-One**: Many Appointments are governed by one Insurance Authorization.
+
+---
+[← Previous: System Architecture](05-system-architecture.md) | [Back to Index](README.md) | [Next: API Design →](07-api-design.md)

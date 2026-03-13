@@ -9,3 +9,6 @@
 | **Support Agent** | Limited Access | Technical help for patients having trouble with digital surveys. |
 | **Patient** | Submit Only | Anonymized or identified feedback submission. |
 | **Compliance Auditor** | Read-Only | Auditing feedback records for regulatory accuracy. |
+
+---
+[← Previous: System Modules](03-modules.md) | [Back to Index](README.md) | [Next: System Architecture →](05-system-architecture.md)

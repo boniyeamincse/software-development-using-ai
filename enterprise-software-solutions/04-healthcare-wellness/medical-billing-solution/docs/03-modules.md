@@ -20,3 +20,6 @@ Stores reimbursement rates and contract rules for different insurance networks.
 
 ## Executive Financial Intelligence
 The reporting and analytics suite for monitoring the total health of the revenue cycle.
+
+---
+[← Previous: Core Features](02-features.md) | [Back to Index](README.md) | [Next: User Roles & Permissions →](04-user-roles.md)

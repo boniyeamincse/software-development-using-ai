@@ -8,3 +8,6 @@
 | **Purchasing Agent** | Procurement | Issuing POs, managing vendor deliveries. |
 | **Inventory Clerk** | Functional | Logging stock arrivals, cycle counting, picking orders. |
 | **System Admin** | Configuration | User management, security patching, integration setup. |
+
+---
+[← Previous: System Modules](03-modules.md) | [Back to Index](README.md) | [Next: System Architecture →](05-system-architecture.md)

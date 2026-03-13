@@ -17,3 +17,6 @@ Manages employee compliance training, policy attestations, and certification tra
 
 ## Ethics & Incident Manager
 The secure module for reporting, investigating, and remediating compliance or ethical breaches.
+
+---
+[← Previous: Core Features](02-features.md) | [Back to Index](README.md) | [Next: User Roles & Permissions →](04-user-roles.md)

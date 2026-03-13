@@ -14,3 +14,6 @@ The Wellness Solution utilizes a **Scale-on-Demand Microservices Architecture** 
 - **Time-Series DB (TimescaleDB)**: Storing the high-velocity stream of step counts, heart rates, and sleep data.
 - **Real-Time Layer**: Redis for leaderboard caching and challenge status synchronization.
 - **Object Store (S3)**: Highly secure storage for HRA reports and medical evidence uploads.
+
+---
+[← Previous: User Roles & Permissions](04-user-roles.md) | [Back to Index](README.md) | [Next: Database Design →](06-database-design.md)

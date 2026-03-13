@@ -18,3 +18,6 @@ An API-first, "headless" commerce platform that decouples the frontend experienc
 - **Uniform Experience**: Single source of truth for product data and orders.
 - **Secure Payments**: PCI-DSS compliant integration with global gateways.
 - **Data-Driven Growth**: Advanced analytics for customer behavior and sales trends.
+
+---
+[Back to Index](README.md) | [Next: Core Features →](02-features.md)

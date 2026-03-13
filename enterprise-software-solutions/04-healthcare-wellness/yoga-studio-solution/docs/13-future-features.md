@@ -13,3 +13,6 @@
 - **AR Studio Assistant**: Allowing students to see the "Room Layout" and select their mat spot in augmented reality before arriving.
 - **Mindfulness Metaverse Hubs**: High-fidelity, multi-user VR sound-baths and meditation sessions for remote students.
 - **Voice-Activated Zen**: "Alexa, book my usual Yin Yoga class for tonight at 7 PM."
+
+---
+[← Previous: Deployment Strategy](12-deployment.md) | [Back to Index](README.md) | [Next: Development Prompts →](14-development-prompts.md)

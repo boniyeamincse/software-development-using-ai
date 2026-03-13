@@ -8,3 +8,6 @@
 | **Marketing Manager** | Collaborative | Monitoring lead quality, campaign attribution, syncing data. |
 | **Sales Ops / Admin** | System Access | Configuring workflows, managing integrations, data cleaning. |
 | **Customer Success** | Read-Only | Viewing deal history to prepare for post-sale onboarding. |
+
+---
+[← Previous: System Modules](03-modules.md) | [Back to Index](README.md) | [Next: System Architecture →](05-system-architecture.md)

@@ -18,3 +18,6 @@ A robust, cloud-native POS ecosystem that functions seamlessly both online and o
 - **Omnichannel Accuracy**: Unified inventory across physical stores and e-commerce.
 - **Secure Payments**: PCI-compliant processing for EMV, NFC, and mobile wallets.
 - **Business Intelligence**: Real-time sales analytics and stock alerts for store managers.
+
+---
+[Back to Index](README.md) | [Next: Core Features →](02-features.md)

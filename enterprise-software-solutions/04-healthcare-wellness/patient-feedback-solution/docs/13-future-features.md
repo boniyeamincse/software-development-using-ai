@@ -13,3 +13,6 @@
 - **AR Bedside Feedback**: "Pointing" at a hospital board to leave instant, location-specific feedback.
 - **Voice-Activated Hospital Room**: "Alexa, tell the nurse manager I found the breakfast too cold."
 - **Metaverse Quality Tours**: Using feedback to build "Digital Twins" of hospital facilities for virtual design testing.
+
+---
+[← Previous: Deployment Strategy](12-deployment.md) | [Back to Index](README.md) | [Next: Development Prompts →](14-development-prompts.md)

@@ -21,3 +21,6 @@
 3. Both users see a side-by-side comparison of the two versions.
 4. Lead negotiator selects the winning text or drafts a new compromise.
 5. History log notes the resolution detail for future audit.
+
+---
+[← Previous: UI Pages](08-ui-pages.md) | [Back to Index](README.md) | [Next: Technology Stack →](10-tech-stack.md)

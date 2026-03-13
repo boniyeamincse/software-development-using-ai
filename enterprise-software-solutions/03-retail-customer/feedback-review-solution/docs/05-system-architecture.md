@@ -13,3 +13,6 @@ The system follows a **Separation of Concerns** between the high-volume review i
 - **Primary DB (PostgreSQL)**: Storing structured review data, user roles, and business metadata.
 - **Object Storage (S3)**: For storing user-uploaded review photos and videos.
 - **BigQuery / Snowflake**: For long-term historical sentiment trend analysis across years.
+
+---
+[← Previous: User Roles & Permissions](04-user-roles.md) | [Back to Index](README.md) | [Next: Database Design →](06-database-design.md)

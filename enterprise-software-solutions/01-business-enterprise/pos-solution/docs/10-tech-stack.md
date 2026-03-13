@@ -17,3 +17,6 @@
 ## Infrastructure
 - **Deployment**: Multi-region AWS for the cloud; Edge-computing for local store servers.
 - **Monitoring**: Datadog (Cloud) + Local health checks for physical hardware.
+
+---
+[← Previous: System Workflows](09-workflow.md) | [Back to Index](README.md) | [Next: Security & Compliance →](11-security.md)

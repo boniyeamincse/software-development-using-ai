@@ -13,3 +13,6 @@ The HRMS utilizes a **Microservices-Based Architecture** with enhanced security 
 - **Encryption-at-Rest Database (PostgreSQL)**: Storing core employee records with transparent data encryption.
 - **NoSQL Store (MongoDB)**: For storing flexible documents and activity logs that don't fit into relational schemas.
 - **Secure File Storage (Managed S3)**: For non-db assets like signed contracts and ID scans, featuring strict object-level permissions.
+
+---
+[← Previous: User Roles & Permissions](04-user-roles.md) | [Back to Index](README.md) | [Next: Database Design →](06-database-design.md)

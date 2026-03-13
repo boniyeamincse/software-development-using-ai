@@ -26,3 +26,6 @@
 - **One-to-One**: One Response has one Sentiment Analysis document.
 - **One-to-Many**: One Response may trigger one or more Case Management workflows.
 - **One-to-Many**: One Facility has many Departments, which have many Staff members.
+
+---
+[← Previous: System Architecture](05-system-architecture.md) | [Back to Index](README.md) | [Next: API Design →](07-api-design.md)

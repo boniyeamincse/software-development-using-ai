@@ -9,3 +9,6 @@
 
 ## Monitoring
 - **Hardware Health**: Real-time monitoring of RFID gates and scanner connectivity status via Prometheus/Grafana.
+
+---
+[← Previous: Security & Compliance](11-security.md) | [Back to Index](README.md) | [Next: Roadmap & Future Enhancements →](13-future-features.md)

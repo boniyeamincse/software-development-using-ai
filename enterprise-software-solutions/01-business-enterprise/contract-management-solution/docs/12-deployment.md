@@ -12,3 +12,6 @@
 - **Stress-Testing Redlining**: Simulated 100 concurrent users editing different clauses in a 200-page document.
 - **Legal Fidelity Checks**: Ensuring PDF rendering remains accurate down to the pixel across all modern browser versions.
 - **E2E Signature Flow**: Automated testing of the full DocuSign -> Callback -> Archive loop.
+
+---
+[← Previous: Security & Compliance](11-security.md) | [Back to Index](README.md) | [Next: Roadmap & Future Enhancements →](13-future-features.md)

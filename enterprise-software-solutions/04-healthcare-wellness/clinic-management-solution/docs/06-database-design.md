@@ -24,3 +24,6 @@
 - **One-to-Many**: One Patient has multiple Appointments and Encounters.
 - **Many-to-One**: Many Appointments link to one Doctor/Provider.
 - **One-to-One**: One Encounter usually has one associated Bill (in a clinic setting).
+
+---
+[← Previous: System Architecture](05-system-architecture.md) | [Back to Index](README.md) | [Next: API Design →](07-api-design.md)

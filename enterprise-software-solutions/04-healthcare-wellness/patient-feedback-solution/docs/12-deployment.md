@@ -12,3 +12,6 @@
 - **E2E Trigger Tests**: Simulating a clinical discharge and verifying that the SMS survey is triggered, received, and ingested correctly.
 - **Cross-Browser Lab**: Testing survey rendering on 50+ different mobile device/browser combinations for universal accessibility.
 - **Benchmark Consistency**: Verifying that calculated scores (NPS/CSAT) match raw database counts.
+
+---
+[← Previous: Security & Compliance](11-security.md) | [Back to Index](README.md) | [Next: Roadmap & Future Enhancements →](13-future-features.md)

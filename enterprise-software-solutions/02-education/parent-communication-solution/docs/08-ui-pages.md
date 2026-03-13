@@ -16,3 +16,6 @@
 
 ## 5. Daily Log (Early Years)
 - Visual icons showing a child's day (Happy face for good mood, bottle icon for meals).
+
+---
+[← Previous: API Design](07-api-design.md) | [Back to Index](README.md) | [Next: System Workflows →](09-workflow.md)

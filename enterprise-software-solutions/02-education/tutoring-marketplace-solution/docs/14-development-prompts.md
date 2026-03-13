@@ -34,3 +34,6 @@
 
 ### Prompt 10: Tutor Availability Optimizer
 "Create a UI component using React Big Calendar or similar that allows tutors to quickly set recurring availability and sync it with external calendars (Google, Outlook) using the Cronofy or Cal.com API."
+
+---
+[← Previous: Roadmap & Future Enhancements](13-future-features.md) | [Back to Index](README.md) | [Next: Task Status →](15-task-status.md)

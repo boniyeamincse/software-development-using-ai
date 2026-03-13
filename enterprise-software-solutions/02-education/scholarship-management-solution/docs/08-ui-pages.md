@@ -16,3 +16,6 @@
 ## 5. Donor Impact Dashboard
 - Map showing geographic distribution of scholarship recipients.
 - Video testimonial gallery.
+
+---
+[← Previous: API Design](07-api-design.md) | [Back to Index](README.md) | [Next: System Workflows →](09-workflow.md)

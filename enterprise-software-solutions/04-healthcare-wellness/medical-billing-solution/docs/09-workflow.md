@@ -22,3 +22,6 @@
 3. System validates the credit card and schedules the first installment.
 4. Monthly auto-charges occur; Receipt sent via Email.
 5. Final payment received; Claim status moved to "Settled/Paid in Full."
+
+---
+[← Previous: UI Pages](08-ui-pages.md) | [Back to Index](README.md) | [Next: Technology Stack →](10-tech-stack.md)

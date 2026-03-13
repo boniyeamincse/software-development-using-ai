@@ -8,3 +8,6 @@
 | **Auditor** | Read-Only | Reviewing usage patterns for potential fraud or abuse. |
 | **Customer** | End-User | Redeeming codes at checkout. |
 | **E-commerce System** | Machine-Access | Executing real-time rule evaluations during checkout. |
+
+---
+[← Previous: System Modules](03-modules.md) | [Back to Index](README.md) | [Next: System Architecture →](05-system-architecture.md)

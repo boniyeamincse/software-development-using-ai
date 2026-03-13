@@ -12,3 +12,6 @@ The system uses a **Distributed Transactional Architecture** to ensure that poin
 ## Data Tier
 - **Relational DB (PostgreSQL)**: To maintain the "Source of Truth" for point ledgers and user tiers.
 - **Write-Through Cache**: To ensure sub-millisecond point-balance lookups at the POS.
+
+---
+[← Previous: User Roles & Permissions](04-user-roles.md) | [Back to Index](README.md) | [Next: Database Design →](06-database-design.md)

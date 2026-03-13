@@ -19,3 +19,6 @@
 ## Key Relationships
 - **Many-to-Many**: Users to Message Threads.
 - **One-to-Many**: One User to multiple Device Tokens (for push delivery).
+
+---
+[← Previous: System Architecture](05-system-architecture.md) | [Back to Index](README.md) | [Next: API Design →](07-api-design.md)

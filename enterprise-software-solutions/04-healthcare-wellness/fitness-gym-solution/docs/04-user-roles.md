@@ -9,3 +9,6 @@
 | **Member** | Mobile Access | Booking classes, gym entry, tracking workouts, managing billing. |
 | **Cleaner / Maintenance**| Limited App | Receiving maintenance tasks and reporting equipment issues. |
 | **System Integrator** | API Only | Syncing with access hardware and financial systems. |
+
+---
+[← Previous: System Modules](03-modules.md) | [Back to Index](README.md) | [Next: System Architecture →](05-system-architecture.md)

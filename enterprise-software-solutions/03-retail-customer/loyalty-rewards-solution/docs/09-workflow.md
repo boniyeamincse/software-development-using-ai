@@ -18,3 +18,6 @@
 1. Monthly CRON job evaluates total spend or point count for each member.
 2. If criteria for next tier is met, member record is updated.
 3. "Welcome to Gold Tier" sequence triggered (Email, Physical card, Bonus points).
+
+---
+[← Previous: UI Pages](08-ui-pages.md) | [Back to Index](README.md) | [Next: Technology Stack →](10-tech-stack.md)

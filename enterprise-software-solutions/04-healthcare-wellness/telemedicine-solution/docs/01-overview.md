@@ -18,3 +18,6 @@ A secure, cloud-native virtual care ecosystem that combines low-latency HD video
 - **Clinical Integrity**: Providing providers with high-fidelity tools to perform accurate remote assessments.
 - **Security by Design**: Implementing military-grade encryption for all media and data streams.
 - **Operational Efficiency**: Seamless integration into existing hospital and clinic appointment workflows.
+
+---
+[Back to Index](README.md) | [Next: Core Features →](02-features.md)

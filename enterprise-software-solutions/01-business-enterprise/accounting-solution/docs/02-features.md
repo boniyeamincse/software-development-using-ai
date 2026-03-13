@@ -29,3 +29,6 @@
 - Budget creation with "Budget vs. Actual" variance analysis.
 - Multi-dimensional reporting (by department, project, or location).
 - Predictive cash-flow forecasting based on AR/AP trends.
+
+---
+[← Previous: System Overview](01-overview.md) | [Back to Index](README.md) | [Next: System Modules →](03-modules.md)

@@ -14,3 +14,6 @@
 - **Serverless**: AWS Lambda for handling computationally heavy OCR tasks.
 - **Monitoring**: Datadog (Error rates) and Sentry (Mobile crash logs).
 - **Security**: Auth0 or Okta for Enterprise-grade identity management.
+
+---
+[← Previous: System Workflows](09-workflow.md) | [Back to Index](README.md) | [Next: Security & Compliance →](11-security.md)

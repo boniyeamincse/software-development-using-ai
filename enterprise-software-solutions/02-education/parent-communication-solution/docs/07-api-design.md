@@ -16,3 +16,6 @@
 ## Security
 - **HMAC Signatures**: For validating translation callback responses.
 - **Rate-Limiting**: Strict limits on institutional broadcast messages to prevent spam.
+
+---
+[← Previous: Database Design](06-database-design.md) | [Back to Index](README.md) | [Next: UI Pages →](08-ui-pages.md)

@@ -18,3 +18,6 @@ A unified mobile-first ecosystem that centralizes all institutional communicatio
 - **Bridge Language Gaps**: Real-time translation of messages and notices.
 - **Automate Alerts**: Instant push notifications for attendance and emergencies.
 - **Streamline Scheduling**: Digital tools for parent-teacher interviews and school events.
+
+---
+[Back to Index](README.md) | [Next: Core Features →](02-features.md)

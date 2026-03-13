@@ -15,3 +15,6 @@
 - **Strict Role-Based Scoping**: Auditors have strictly Read-Only access to specific `evidence_id` buckets.
 - **HMAC Verification**: For all incoming signals from infrastructure monitoring tools.
 - **Audit-Trail Logging**: Every API call within the compliance module is itself a logged compliance event.
+
+---
+[← Previous: Database Design](06-database-design.md) | [Back to Index](README.md) | [Next: UI Pages →](08-ui-pages.md)

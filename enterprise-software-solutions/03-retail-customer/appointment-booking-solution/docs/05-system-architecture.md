@@ -12,3 +12,6 @@ The system is built on an **Event-Driven Distributed Architecture** to prevent d
 ## Integration Layer
 - **CalDav / iCal**: For external calendar synchronization.
 - **Webhook Engine**: To notify downstream systems (CRM, ERP) of new bookings.
+
+---
+[← Previous: User Roles & Permissions](04-user-roles.md) | [Back to Index](README.md) | [Next: Database Design →](06-database-design.md)

@@ -14,3 +14,6 @@
 - **HIPAA/HITECH Compliance**: Strict adherence to the Privacy, Security, and Breach Notification rules.
 - **Ethical AI guardrails**: Ensuring AI-assisted transcriptions are purged from temporary memory immediately after the note is finalized.
 - **Right-to-be-Forgotten**: Secure, permanent data shredding policies for patients who end their care relationship.
+
+---
+[← Previous: Technology Stack](10-tech-stack.md) | [Back to Index](README.md) | [Next: Deployment Strategy →](12-deployment.md)

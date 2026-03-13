@@ -23,3 +23,6 @@
 - **One-to-Many**: One Transaction contains at least two Journal Entries (Total Debits = Total Credits).
 - **One-to-Many**: One Customer has multiple Invoices.
 - **Hierarchical**: The Chart of Accounts uses a recursive relationship for nested sub-accounts.
+
+---
+[← Previous: System Architecture](05-system-architecture.md) | [Back to Index](README.md) | [Next: API Design →](07-api-design.md)

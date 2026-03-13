@@ -17,3 +17,6 @@
 1. App sends metered event via API (e.g., "Customer A used 5MB of bandwidth").
 2. Event is validated and written to high-speed time-series storage.
 3. At the end of the month, the Billing Engine aggregates all events and calculates the final total based on tiered pricing rules.
+
+---
+[← Previous: UI Pages](08-ui-pages.md) | [Back to Index](README.md) | [Next: Technology Stack →](10-tech-stack.md)

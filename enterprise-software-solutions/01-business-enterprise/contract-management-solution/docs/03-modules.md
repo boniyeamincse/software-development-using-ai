@@ -17,3 +17,6 @@ The background logic that extracts data from documents and identifies legal risk
 
 ## Milestone & Obligation Engine
 The proactive logic layer that monitors contract dates and triggers notifications.
+
+---
+[← Previous: Core Features](02-features.md) | [Back to Index](README.md) | [Next: User Roles & Permissions →](04-user-roles.md)

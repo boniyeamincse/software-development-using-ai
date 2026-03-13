@@ -16,3 +16,6 @@
 ## Security
 - **OAuth 2.0**: For agent authentication.
 - **API Scopes**: `tickets.read`, `tickets.admin`, `settings.write`.
+
+---
+[← Previous: Database Design](06-database-design.md) | [Back to Index](README.md) | [Next: UI Pages →](08-ui-pages.md)

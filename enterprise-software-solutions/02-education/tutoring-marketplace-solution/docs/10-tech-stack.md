@@ -22,3 +22,6 @@
 - Strong support for payments and integrations
 - Good event-driven extension path
 - Reliable search and analytics support
+
+---
+[← Previous: System Workflows](09-workflow.md) | [Back to Index](README.md) | [Next: Security & Compliance →](11-security.md)

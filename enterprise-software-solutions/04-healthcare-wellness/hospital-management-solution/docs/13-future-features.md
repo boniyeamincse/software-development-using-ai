@@ -13,3 +13,6 @@
 ## Global Interoperability
 - **Universal Patient Identity**: Cross-hospital identity resolution using biometric and cryptographic keys.
 - **Blockchain Health Ledger**: Allowing patients to "Own and Carry" their records between different health systems globally.
+
+---
+[← Previous: Deployment Strategy](12-deployment.md) | [Back to Index](README.md) | [Next: Development Prompts →](14-development-prompts.md)

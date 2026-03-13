@@ -15,3 +15,6 @@
 
 ## 5. Live Chat Widget
 - Customizable floating bubble for customer websites with pre-chat forms.
+
+---
+[← Previous: API Design](07-api-design.md) | [Back to Index](README.md) | [Next: System Workflows →](09-workflow.md)

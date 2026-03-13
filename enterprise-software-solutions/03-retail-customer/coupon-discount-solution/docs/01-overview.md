@@ -18,3 +18,6 @@ A high-speed, rules-based engine that evaluates discounts in real-time. It suppo
 - **Prevention of Abuse**: Intelligent tracking of code usage and IP-based restrictions.
 - **Real-Time Performance**: Sub-millisecond discount calculations even during peak sales.
 - **Actionable Insights**: Tracking ROI and conversion rates for every active campaign.
+
+---
+[Back to Index](README.md) | [Next: Core Features →](02-features.md)

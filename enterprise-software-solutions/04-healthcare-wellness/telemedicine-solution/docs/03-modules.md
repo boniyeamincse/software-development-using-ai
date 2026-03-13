@@ -20,3 +20,6 @@ Manages the synchronization between virtual visits and physical provider schedul
 
 ## Compliance & Audit Vault
 The high-security repository for session metadata, consent forms, and encrypted logs.
+
+---
+[← Previous: Core Features](02-features.md) | [Back to Index](README.md) | [Next: User Roles & Permissions →](04-user-roles.md)

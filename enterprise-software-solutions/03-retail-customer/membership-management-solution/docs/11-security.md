@@ -11,3 +11,6 @@
 ## Privacy
 - **GDPR**: Tools for members to download their billing and attendance history.
 - **Encryption**: sensitive info like addresses and agreement PDFs are encrypted at rest.
+
+---
+[← Previous: Technology Stack](10-tech-stack.md) | [Back to Index](README.md) | [Next: Deployment Strategy →](12-deployment.md)

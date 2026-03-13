@@ -13,3 +13,6 @@ The Accounting Solution is built on a **Transactional Integrity Architecture** d
 - **Relational DB (PostgreSQL)**: Configured for Strictly Serializable transactions to prevent race conditions in balancing.
 - **Audit Store**: A secondary, immutable log stored in a high-security environment for forensic reconstruction if needed.
 - **Document Store (S3)**: For storing digital copies of invoices, receipts, and bank statements.
+
+---
+[← Previous: User Roles & Permissions](04-user-roles.md) | [Back to Index](README.md) | [Next: Database Design →](06-database-design.md)

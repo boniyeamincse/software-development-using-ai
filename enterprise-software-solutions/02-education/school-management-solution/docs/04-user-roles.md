@@ -389,3 +389,5 @@ The School Management System implements a Role-Based Access Control (RBAC) syste
 
 The School Management System implements a comprehensive RBAC model with 6 primary roles, each with specific permissions and responsibilities. The permission matrix ensures secure data access while enabling efficient operations across different user types. All access is logged and audited for compliance and security purposes.
 
+---
+[← Previous: System Modules](03-modules.md) | [Back to Index](README.md) | [Next: System Architecture →](05-system-architecture.md)

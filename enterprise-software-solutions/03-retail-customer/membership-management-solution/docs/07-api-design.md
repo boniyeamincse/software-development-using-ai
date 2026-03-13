@@ -16,3 +16,6 @@
 ## Security
 - **Dynamic QR Codes**: Tokens that rotate every 60 seconds to prevent screenshot sharing.
 - **OAuth 2.0**: For staff and member portal authentication.
+
+---
+[← Previous: Database Design](06-database-design.md) | [Back to Index](README.md) | [Next: UI Pages →](08-ui-pages.md)

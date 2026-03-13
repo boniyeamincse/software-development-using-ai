@@ -9,3 +9,6 @@
 | **Interpreter** | Restricted Media | Audio/Video participation only; no direct EHR access. |
 | **Compliance Officer** | Audit Only | Reviewing session metadata and security logs for privacy. |
 | **System Integrator** | API Only | Managing EHR sync and data push from RPM devices. |
+
+---
+[← Previous: System Modules](03-modules.md) | [Back to Index](README.md) | [Next: System Architecture →](05-system-architecture.md)

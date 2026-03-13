@@ -29,3 +29,6 @@
 - **Digital Requisitions**: Electronic orders sent directly to partner laboratories.
 - **Automatic Result Ingestion**: Reports flow directly into the patient's digital chart with "Abnormal" flags.
 - **Imaging Integration**: Basic viewer for X-rays and ultrasounds received from diagnostic centers.
+
+---
+[← Previous: System Overview](01-overview.md) | [Back to Index](README.md) | [Next: System Modules →](03-modules.md)

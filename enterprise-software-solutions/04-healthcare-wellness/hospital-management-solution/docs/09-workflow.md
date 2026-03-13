@@ -22,3 +22,6 @@
 4. Discharge summary (PDF/FHIR) sent to the patient's primary care physician.
 5. Bed status flips to "Cleaning Required" for housekeeping module.
 6. Patient receives automated follow-up appointment invite via SMS.
+
+---
+[← Previous: UI Pages](08-ui-pages.md) | [Back to Index](README.md) | [Next: Technology Stack →](10-tech-stack.md)

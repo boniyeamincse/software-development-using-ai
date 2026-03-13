@@ -11,3 +11,6 @@
 ## Automated Verification
 - **Financial Regression Tests**: Automated "Self-Audit" scripts that run after every deployment to verify ledger integrity.
 - **Integration Sandbox**: Virtualized environments to test connections with external 3PL (3rd-Party Logistics) partners.
+
+---
+[← Previous: Security & Compliance](11-security.md) | [Back to Index](README.md) | [Next: Roadmap & Future Enhancements →](13-future-features.md)

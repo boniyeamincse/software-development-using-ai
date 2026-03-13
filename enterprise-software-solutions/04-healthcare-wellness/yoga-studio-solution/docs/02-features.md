@@ -29,3 +29,6 @@
 - **Utilization Heatmaps**: Identifying which classes are over-capacity and which need rebranding.
 - **Churn Alerting**: Identifying students who haven't visited in 2 weeks for proactive outreach.
 - **Reconciliation Dashboard**: Clean views of revenue across memberships, retail, and workshops.
+
+---
+[← Previous: System Overview](01-overview.md) | [Back to Index](README.md) | [Next: System Modules →](03-modules.md)

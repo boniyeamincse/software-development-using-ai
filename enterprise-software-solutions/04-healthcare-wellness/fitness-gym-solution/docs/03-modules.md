@@ -20,3 +20,6 @@ Manages the gym's pro-shop and physical merchandise stock.
 
 ## Financial & Growth Analytics
 The reporting suite for revenue trends, churn analysis, and instructor performance.
+
+---
+[← Previous: Core Features](02-features.md) | [Back to Index](README.md) | [Next: User Roles & Permissions →](04-user-roles.md)

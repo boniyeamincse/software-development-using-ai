@@ -16,3 +16,6 @@
 
 ## 5. Automated Outreach Builder
 - Interface for creating email/SMS templates with dynamic tags (e.g., {{member_name}}).
+
+---
+[← Previous: API Design](07-api-design.md) | [Back to Index](README.md) | [Next: System Workflows →](09-workflow.md)

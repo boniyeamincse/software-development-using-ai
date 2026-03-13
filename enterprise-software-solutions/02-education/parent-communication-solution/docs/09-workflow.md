@@ -14,3 +14,6 @@
 3. Parent selects a slot via the mobile app.
 4. System confirms booking and adds it to the calendars of both parties.
 5. Automatic reminder sent 1 hour before the meeting.
+
+---
+[← Previous: UI Pages](08-ui-pages.md) | [Back to Index](README.md) | [Next: Technology Stack →](10-tech-stack.md)

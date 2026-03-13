@@ -22,3 +22,6 @@
 - **One-to-Many**: One Customer can have multiple Subscriptions (e.g., Add-ons).
 - **One-to-Many**: One Subscription generates multiple Invoices over time.
 - **Many-to-One**: Many Invoices can use one Coupon.
+
+---
+[← Previous: System Architecture](05-system-architecture.md) | [Back to Index](README.md) | [Next: API Design →](07-api-design.md)

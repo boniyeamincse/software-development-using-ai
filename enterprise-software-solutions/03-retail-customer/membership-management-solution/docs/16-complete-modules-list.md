@@ -35,3 +35,6 @@
 - **Cohort Performance Reports**: analyzing retention based on sign-up time.
 - **Personalized Offer Engine**: targeting members with upgrades or save-offers.
 - **Strategic Growth AI**: predicting future revenue based on current trends.
+
+---
+[← Previous: Task Status](15-task-status.md) | [Back to Index](README.md)

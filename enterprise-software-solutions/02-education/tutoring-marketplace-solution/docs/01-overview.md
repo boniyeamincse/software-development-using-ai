@@ -178,3 +178,6 @@ Refer to the next documents in this order:
 2. **04-user-roles.md** for role boundaries and permissions.
 3. **05-system-architecture.md** for service-level design.
 4. **15-task-status.md** for step-by-step implementation order.
+
+---
+[Back to Index](README.md) | [Next: Core Features →](02-features.md)

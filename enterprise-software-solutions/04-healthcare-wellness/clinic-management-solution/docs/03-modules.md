@@ -20,3 +20,6 @@ Integrates with external labs and imaging centers for automated result retrieval
 
 ## Financial & Performance Insights
 The reporting layer for practice owners to monitor growth and staff productivity.
+
+---
+[← Previous: Core Features](02-features.md) | [Back to Index](README.md) | [Next: User Roles & Permissions →](04-user-roles.md)

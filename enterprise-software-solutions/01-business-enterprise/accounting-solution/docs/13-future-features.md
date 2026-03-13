@@ -12,3 +12,6 @@
 ## Modern Experiences
 - **Real-Time Global Consolidation**: Dynamic, per-second financial statements for massive multinational corporations.
 - **Environmental Ledgering**: Tracking carbon credits and sustainability metrics alongside financial items as a "Sustainability Ledger."
+
+---
+[← Previous: Deployment Strategy](12-deployment.md) | [Back to Index](README.md) | [Next: Development Prompts →](14-development-prompts.md)

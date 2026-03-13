@@ -12,3 +12,6 @@
 - **SSO Integration**: Employees use corporate credentials to login (SAML/OpenID).
 - **Granular RBAC**: Distinguishing between "Direct Manager" access vs. "General HR" access.
 - **Geofencing**: Optionally restricting HR-admin access to specific corporate IP ranges.
+
+---
+[← Previous: Technology Stack](10-tech-stack.md) | [Back to Index](README.md) | [Next: Deployment Strategy →](12-deployment.md)

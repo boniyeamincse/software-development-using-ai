@@ -8,3 +8,6 @@
 | **Knowledge Base Editor**| Content-Specific| Writing and maintaining FAQs and tutorials. |
 | **Customer** | Limited Access | Creating tickets, viewing own history, reading public Help Center. |
 | **Technical Specialist**| Cross-Team | Responding to technical tickets, collaborating with dev team. |
+
+---
+[← Previous: System Modules](03-modules.md) | [Back to Index](README.md) | [Next: System Architecture →](05-system-architecture.md)

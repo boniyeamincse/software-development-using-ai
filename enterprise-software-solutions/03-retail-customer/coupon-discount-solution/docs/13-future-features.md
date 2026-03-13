@@ -11,3 +11,6 @@
 ## Modern Experiences
 - **Single-Use QR Scans**: Unique QR codes for physical stores that are instantly revoked upon scanning to prevent re-use.
 - **Voice-Assistant Discounts**: "Alexa, check for my exclusive daily deal."
+
+---
+[← Previous: Deployment Strategy](12-deployment.md) | [Back to Index](README.md) | [Next: Development Prompts →](14-development-prompts.md)

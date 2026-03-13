@@ -11,3 +11,6 @@
 ## Sustainability
 - **Eco-Fulfillment**: Algorithms to minimize carbon footprint by optimizing shipping distances.
 - **Circular Economy**: Built-in "Resale" or "Trade-in" modules for pre-owned items.
+
+---
+[← Previous: Deployment Strategy](12-deployment.md) | [Back to Index](README.md) | [Next: Development Prompts →](14-development-prompts.md)

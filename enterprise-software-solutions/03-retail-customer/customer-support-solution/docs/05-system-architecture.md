@@ -12,3 +12,6 @@ The system uses a **Stateless Microservices Architecture** coupled with a robust
 ## Data Tier
 - **Relational DB (PostgreSQL)**: To maintain ticket state, customer relationships, and audit logs.
 - **NoSQL (Redis)**: For real-time session management and agent presence tracking.
+
+---
+[← Previous: User Roles & Permissions](04-user-roles.md) | [Back to Index](README.md) | [Next: Database Design →](06-database-design.md)

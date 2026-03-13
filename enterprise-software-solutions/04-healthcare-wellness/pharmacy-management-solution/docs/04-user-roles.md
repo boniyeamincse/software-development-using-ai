@@ -9,3 +9,6 @@
 | **Billing Specialist** | Financial Access| Insurance reconciliation, claim adjustments, financial audits. |
 | **Compliance Auditor** | Read-Only | Reviewing narcotics logs and PII access history for regulators. |
 | **Patient (Mobile)** | Personal Access | Requesting refills, viewing history, paying co-pays. |
+
+---
+[← Previous: System Modules](03-modules.md) | [Back to Index](README.md) | [Next: System Architecture →](05-system-architecture.md)

@@ -14,3 +14,6 @@ The Telemedicine Solution utilizes a **Geographically Distributed Media Architec
 - **NoSQL (Elasticsearch)**: Searchable chat history and clinical audit logs.
 - **Media Store (S3)**: Temporary, encrypted storage for file transfers (e.g., dermatology photos).
 - **Time-Series DB (InfluxDB)**: High-resolution storage for RPM vital signals (heart rate, SpO2).
+
+---
+[← Previous: User Roles & Permissions](04-user-roles.md) | [Back to Index](README.md) | [Next: Database Design →](06-database-design.md)

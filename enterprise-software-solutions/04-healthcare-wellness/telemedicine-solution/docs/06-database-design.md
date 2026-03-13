@@ -27,3 +27,6 @@
 - **One-to-Many**: One Session can have multiple Participants.
 - **One-to-Many**: One Patient has a historical stream of RPM Metrics.
 - **Many-to-One**: Many logical Messages belong to one Virtual Session/Encounter.
+
+---
+[← Previous: System Architecture](05-system-architecture.md) | [Back to Index](README.md) | [Next: API Design →](07-api-design.md)

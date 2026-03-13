@@ -13,3 +13,6 @@
 ## Networking
 - **WebSocket (WSS)**: For real-time proctoring alerts.
 - **Cloudflare Warp**: For secure tunnel routing from test centers.
+
+---
+[← Previous: System Workflows](09-workflow.md) | [Back to Index](README.md) | [Next: Security & Compliance →](11-security.md)

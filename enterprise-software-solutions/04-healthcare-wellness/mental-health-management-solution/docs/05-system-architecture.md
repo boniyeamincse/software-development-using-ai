@@ -14,3 +14,6 @@ The Mental Health Solution utilizes a **Privacy-First Architecture** where clini
 - **Encrypted Document Store**: Specialized vault for clinical notes and assessment responses.
 - **Audit Vault (WORM)**: Immutable logs of every access event for sensitive records.
 - **Identity Service**: Zero-trust authentication with mandatory hardware-based MFA for clinicians.
+
+---
+[← Previous: User Roles & Permissions](04-user-roles.md) | [Back to Index](README.md) | [Next: Database Design →](06-database-design.md)

@@ -12,3 +12,6 @@ Billing is a critical path; failure means lost revenue.
 ## Automated Verification
 - **Billing Sandbox**: A full replica of the billing engine where new pricing rules are tested against anonymized real-world data before production launch.
 - **Shadow Billing**: Running the new engine in "Read-Only" mode alongside the old one to verify 1:1 financial accuracy.
+
+---
+[← Previous: Security & Compliance](11-security.md) | [Back to Index](README.md) | [Next: Roadmap & Future Enhancements →](13-future-features.md)

@@ -34,3 +34,6 @@
 
 ### Prompt 10: AI Demand Forecasting for Fleet Scaling
 "Develop a machine learning model that predicts future delivery volume based on historical trends and upcoming local events. Provide recommendations for temporary fleet scaling (e.g., hiring 20% more third-party couriers) for the upcoming weekend."
+
+---
+[← Previous: Roadmap & Future Enhancements](13-future-features.md) | [Back to Index](README.md) | [Next: Task Status →](15-task-status.md)

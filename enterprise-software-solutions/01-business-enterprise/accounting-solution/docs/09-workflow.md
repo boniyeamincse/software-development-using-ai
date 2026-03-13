@@ -20,3 +20,6 @@
 2. System fetches real-time spot rate from Integrated Forex Provider.
 3. Ledger tracks both "Transaction Currency" (EUR) and "Base Currency" (USD).
 4. At period-end, system calculates Unrealized Gain/Loss based on current rates.
+
+---
+[← Previous: UI Pages](08-ui-pages.md) | [Back to Index](README.md) | [Next: Technology Stack →](10-tech-stack.md)

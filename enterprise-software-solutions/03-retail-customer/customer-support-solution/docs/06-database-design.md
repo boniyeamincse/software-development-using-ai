@@ -19,3 +19,6 @@
 - **One-to-Many**: One Ticket contains multiple Messages.
 - **Many-to-One**: Many Tickets belong to one Customer.
 - **One-to-Many**: One SLA Policy applies to many Tickets of the same priority.
+
+---
+[← Previous: System Architecture](05-system-architecture.md) | [Back to Index](README.md) | [Next: API Design →](07-api-design.md)

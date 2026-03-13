@@ -12,3 +12,6 @@
 - **Clinical Safety Simulations**: Running millions of "Interaction Scenarios" against the engine before every major release.
 - **Load Testing**: Simulating "Flu-Season Spikes" with 1,000% increase in prescription ingestion volume.
 - **Hardware Interop Lab**: Automated testing against 50+ different label printer and pill-counter models.
+
+---
+[← Previous: Security & Compliance](11-security.md) | [Back to Index](README.md) | [Next: Roadmap & Future Enhancements →](13-future-features.md)

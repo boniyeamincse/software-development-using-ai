@@ -122,3 +122,6 @@
 ---
 
 **15 modules for complete hostel management! 🏗️**
+
+---
+[← Previous: Task Status](15-task-status.md) | [Back to Index](README.md)

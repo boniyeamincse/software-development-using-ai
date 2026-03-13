@@ -17,3 +17,6 @@
 - **Anonymity Tokens**: Unique, short-lived tokens for survey links that do not expose the patient's ID in the URL.
 - **Strict Data Siloing**: Clinical management staff CANNOT view the `patient_identity` field if the survey was marked "Anonymous."
 - **WAF Protection**: Shielding the survey submission endpoint from bot-driven "Review Bombing."
+
+---
+[← Previous: Database Design](06-database-design.md) | [Back to Index](README.md) | [Next: UI Pages →](08-ui-pages.md)

@@ -18,3 +18,6 @@
 
 ## 5. Audit & Compliance Log
 - Searchable history of every system-wide transaction and user modification.
+
+---
+[← Previous: API Design](07-api-design.md) | [Back to Index](README.md) | [Next: System Workflows →](09-workflow.md)

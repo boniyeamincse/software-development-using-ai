@@ -519,3 +519,5 @@
 - `platform_settings`
 - `licenses`
 
+---
+[← Previous: Core Features](02-features.md) | [Back to Index](README.md) | [Next: User Roles & Permissions →](04-user-roles.md)

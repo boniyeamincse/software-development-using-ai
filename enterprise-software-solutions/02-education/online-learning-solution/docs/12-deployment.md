@@ -586,3 +586,5 @@ SELECT count(*) FROM pg_stat_activity;
 - Create appropriate indexes
 - Consider query optimization
 
+---
+[← Previous: Security & Compliance](11-security.md) | [Back to Index](README.md) | [Next: Roadmap & Future Enhancements →](13-future-features.md)

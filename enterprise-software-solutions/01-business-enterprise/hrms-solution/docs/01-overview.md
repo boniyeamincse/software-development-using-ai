@@ -18,3 +18,6 @@ A secure, cloud-native HR ecosystem that automates core administrative tasks whi
 - **Lifecycle Automation**: Streamlined workflows for hiring, onboarding, promotion, and exit.
 - **Employee Empowerment**: High-utility self-service tools for leave management, benefit enrollment, and payslip access.
 - **Compliance & Privacy**: Ensuring data protection (GDPR/SOC2) and automated adherence to local labor regulations.
+
+---
+[Back to Index](README.md) | [Next: Core Features →](02-features.md)

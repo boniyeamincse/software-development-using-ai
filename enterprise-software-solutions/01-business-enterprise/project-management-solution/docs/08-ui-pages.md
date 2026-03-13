@@ -19,3 +19,6 @@
 ## 5. Rich Document Collaboration
 - Markdown-powered task descriptions and project wikis.
 - Side-by-side file viewer for comparing deliverable versions.
+
+---
+[← Previous: API Design](07-api-design.md) | [Back to Index](README.md) | [Next: System Workflows →](09-workflow.md)

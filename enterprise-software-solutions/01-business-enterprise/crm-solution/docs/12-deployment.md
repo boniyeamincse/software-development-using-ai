@@ -11,3 +11,6 @@
 ## Monitoring
 - **Funnel Latency Monitoring**: Real-time tracking of lead ingestion time to ensure marketing dollars aren't wasted.
 - **Integration Heartbeats**: Continuous monitoring of connections to external services like Gmail or Slack.
+
+---
+[← Previous: Security & Compliance](11-security.md) | [Back to Index](README.md) | [Next: Roadmap & Future Enhancements →](13-future-features.md)

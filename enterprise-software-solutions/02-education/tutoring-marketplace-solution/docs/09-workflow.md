@@ -18,3 +18,6 @@
 - Minor learners should require guardian approval for payments and communications where policy demands it.
 - Refund rules should vary by cancellation window and tutor no-show scenarios.
 - Payout eligibility should depend on session completion, review state, and fraud checks.
+
+---
+[← Previous: UI Pages](08-ui-pages.md) | [Back to Index](README.md) | [Next: Technology Stack →](10-tech-stack.md)

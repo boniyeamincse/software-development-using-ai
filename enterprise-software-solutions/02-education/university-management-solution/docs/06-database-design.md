@@ -18,3 +18,6 @@
 - **Self-Referencing**: Course table links to itself for prerequisite chains.
 - **Many-to-Many**: Faculty to Research Projects (Collaborative researchers).
 - **Polymorphic**: Financial transactions that can be "Tuition," "Grant Refund," or "Fines."
+
+---
+[← Previous: System Architecture](05-system-architecture.md) | [Back to Index](README.md) | [Next: API Design →](07-api-design.md)

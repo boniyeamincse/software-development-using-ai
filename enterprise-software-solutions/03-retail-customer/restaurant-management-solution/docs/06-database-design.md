@@ -21,3 +21,6 @@
 - **One-to-Many**: One Order has multiple Order Items.
 - **Many-to-Many**: Items use multiple Raw Ingredients.
 - **One-to-One**: One Order Item has one KDS Task mapping.
+
+---
+[← Previous: System Architecture](05-system-architecture.md) | [Back to Index](README.md) | [Next: API Design →](07-api-design.md)

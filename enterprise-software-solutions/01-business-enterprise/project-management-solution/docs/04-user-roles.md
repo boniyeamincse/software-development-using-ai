@@ -8,3 +8,6 @@
 | **Team Member** | Operational | Executing assigned tasks, logging time, updating status. |
 | **External Client** | Restricted Access| Viewing progress on milestones, approving deliverables, commenting. |
 | **Viewer / Stakeholder**| Read-Only | Monitoring overall project health and timeline status. |
+
+---
+[← Previous: System Modules](03-modules.md) | [Back to Index](README.md) | [Next: System Architecture →](05-system-architecture.md)

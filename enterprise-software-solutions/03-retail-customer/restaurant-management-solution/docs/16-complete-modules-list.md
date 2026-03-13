@@ -35,3 +35,6 @@
 - **Accounting software Sync**: (Optional) syncing daily totals with Quickbooks.
 - **IoT Facility Monitor**: (Optional) tracking fridge temps and power usage.
 - **AI Inventory Predictor**: forecasting ingredient needs to reduce waste.
+
+---
+[← Previous: Task Status](15-task-status.md) | [Back to Index](README.md)

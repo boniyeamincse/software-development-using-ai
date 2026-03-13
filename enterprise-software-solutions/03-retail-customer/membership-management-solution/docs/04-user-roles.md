@@ -8,3 +8,6 @@
 | **Accountant** | Financial-Only | Reconciling payments, managing taxes, viewing invoices. |
 | **Member** | Self-Service | Updating info, paying dues, viewing digital card. |
 | **Access Control System**| Machine-Access | Verifying QR/RFID tokens for entry. |
+
+---
+[← Previous: System Modules](03-modules.md) | [Back to Index](README.md) | [Next: System Architecture →](05-system-architecture.md)

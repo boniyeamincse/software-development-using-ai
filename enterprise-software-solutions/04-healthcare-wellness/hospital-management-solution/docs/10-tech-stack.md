@@ -19,3 +19,6 @@
 - **Platform**: Multi-zone AWS or Hybrid-Cloud (on-premise local cache for ER continuity).
 - **Connectivity**: SD-WAN with redundant 5G/Satellite backup for hospital-wide internet.
 - **Monitoring**: Datadog (Application health) + specialized Medical Network monitoring (ICMP/SNMP for devices).
+
+---
+[← Previous: System Workflows](09-workflow.md) | [Back to Index](README.md) | [Next: Security & Compliance →](11-security.md)

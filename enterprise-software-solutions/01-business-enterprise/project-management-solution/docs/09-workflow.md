@@ -20,3 +20,6 @@
 2. AI summarizes the "Risk Level" based on velocity trends.
 3. Professional PDF report is drafted and sent to the PM for review.
 4. Once approved, it is automatically distributed to the Stakeholder list.
+
+---
+[← Previous: UI Pages](08-ui-pages.md) | [Back to Index](README.md) | [Next: Technology Stack →](10-tech-stack.md)

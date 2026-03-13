@@ -13,3 +13,6 @@
 ## Infrastructure
 - **Serverless (Optional)**: Evaluation engine deployed on AWS Lambda or Cloudflare Workers for global low-latency.
 - **CDN**: Fastly for edge-caching of public (non-unique) promotion metadata.
+
+---
+[← Previous: System Workflows](09-workflow.md) | [Back to Index](README.md) | [Next: Security & Compliance →](11-security.md)

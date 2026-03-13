@@ -14,3 +14,6 @@
 3. Invigilator receives alert; views live feed.
 4. Invigilator gives a "Warning" or "Suspends" the exam.
 5. COE reviews the recording for final disciplinary action.
+
+---
+[← Previous: UI Pages](08-ui-pages.md) | [Back to Index](README.md) | [Next: Technology Stack →](10-tech-stack.md)

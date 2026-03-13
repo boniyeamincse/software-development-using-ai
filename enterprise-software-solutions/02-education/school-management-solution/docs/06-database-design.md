@@ -698,3 +698,5 @@ The database design follows relational database best practices with:
 - ENUM types for status fields
 - Proper data types for financial and date information
 
+---
+[← Previous: System Architecture](05-system-architecture.md) | [Back to Index](README.md) | [Next: API Design →](07-api-design.md)

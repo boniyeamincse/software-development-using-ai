@@ -15,3 +15,6 @@
 
 ## 5. Fraud Investigation Inbox
 - AI-summarized list of suspicious patterns (e.g., "10 redemptions of one-time code from same IP").
+
+---
+[← Previous: API Design](07-api-design.md) | [Back to Index](README.md) | [Next: System Workflows →](09-workflow.md)

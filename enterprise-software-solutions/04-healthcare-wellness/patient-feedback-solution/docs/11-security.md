@@ -14,3 +14,6 @@
 - **HIPAA/GDPR Compliance**: Ensuring the platform meets the highest standards for patient privacy and health data sovereignty.
 - **Staff Access Logging**: Immutable audit logs showing exactly who viewed which piece of feedback (and why).
 - **Compliance Reporting**: Standardized exports for regulatory quality audits and benchmark verification.
+
+---
+[← Previous: Technology Stack](10-tech-stack.md) | [Back to Index](README.md) | [Next: Deployment Strategy →](12-deployment.md)

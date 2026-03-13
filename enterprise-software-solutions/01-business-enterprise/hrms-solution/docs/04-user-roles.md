@@ -8,3 +8,6 @@
 | **Payroll Specialist** | Financial Access | Salary calculations, tax compliance, benefits disbursement. |
 | **Team Manager** | Managerial Access | Approving leave, conducting reviews for their direct reports. |
 | **Employee** | Self-Service | Viewing payslips, requesting leave, participating in reviews. |
+
+---
+[← Previous: System Modules](03-modules.md) | [Back to Index](README.md) | [Next: System Architecture →](05-system-architecture.md)

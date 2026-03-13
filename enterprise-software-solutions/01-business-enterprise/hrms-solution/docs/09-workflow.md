@@ -20,3 +20,6 @@
 3. Peer feedback requested and collected anonymously.
 4. Manager writes final evaluation based on 360-degree data.
 5. Final meeting held; ratings synced to compensation module for potential bonus logic.
+
+---
+[← Previous: UI Pages](08-ui-pages.md) | [Back to Index](README.md) | [Next: Technology Stack →](10-tech-stack.md)

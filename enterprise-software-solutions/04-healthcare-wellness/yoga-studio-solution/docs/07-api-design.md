@@ -18,3 +18,6 @@
 - **Strict PII Redaction**: Karma/Front Desk staff only see "Names" and "Active Passes"—no home addresses or phone numbers.
 - **Biometric App Lock**: Optional Fingerprint/FaceID for the student app.
 - **JWT Authentication**: Secure, short-lived session management for mobile and web.
+
+---
+[← Previous: Database Design](06-database-design.md) | [Back to Index](README.md) | [Next: UI Pages →](08-ui-pages.md)

@@ -11,3 +11,6 @@
 ## Privacy
 - **GDPR / CCPA**: Tools to anonymize customer billing history and delete payment methods upon request.
 - **Encryption**: AES-256 encryption for all PII and sensitive financial metadata at rest.
+
+---
+[← Previous: Technology Stack](10-tech-stack.md) | [Back to Index](README.md) | [Next: Deployment Strategy →](12-deployment.md)

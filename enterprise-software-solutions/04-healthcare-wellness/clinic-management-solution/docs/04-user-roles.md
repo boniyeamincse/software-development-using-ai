@@ -10,3 +10,6 @@
 | **Billing Specialist** | Financial Access| Claim submission, reconciliation, aging report management. |
 | **Patient** | Portal Only | Accessing personal records, booking, paying bills. |
 | **Lab Interface** | API Only | Automated result submission and status updates. |
+
+---
+[← Previous: System Modules](03-modules.md) | [Back to Index](README.md) | [Next: System Architecture →](05-system-architecture.md)

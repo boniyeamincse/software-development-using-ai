@@ -21,3 +21,6 @@
 ## 5. Revenue & Billing Dashboard
 - Real-time "Unbilled Revenue" tracker and insurance denial heatmap.
 - Patient-facing self-service kiosk for check-in and payment.
+
+---
+[← Previous: API Design](07-api-design.md) | [Back to Index](README.md) | [Next: System Workflows →](09-workflow.md)

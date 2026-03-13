@@ -14,3 +14,6 @@ The Medical Billing Solution utilizes a **State-Machine Driven Architecture** to
 - **Audit Vault (WORM Storage)**: Immutable storage for all raw EDI files sent and received.
 - **Integration Layer**: Secure VPN or dedicated tunnels for direct clearinghouse connectivity.
 - **Identity**: Azure AD or Okta with RBAC and session auditing.
+
+---
+[← Previous: User Roles & Permissions](04-user-roles.md) | [Back to Index](README.md) | [Next: Database Design →](06-database-design.md)

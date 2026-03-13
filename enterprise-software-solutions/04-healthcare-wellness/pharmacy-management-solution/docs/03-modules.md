@@ -20,3 +20,6 @@ Facilitates bulk ordering, price-tracking, and vendor performance analytics.
 
 ## Clinical Intelligence Service
 The background engine for drug-interaction checks and population health alerts.
+
+---
+[← Previous: Core Features](02-features.md) | [Back to Index](README.md) | [Next: User Roles & Permissions →](04-user-roles.md)

@@ -11,3 +11,6 @@
 
 ## Compliance
 - **GDPR / CCPA**: Tools for exporting user data or managing cookie consents.
+
+---
+[← Previous: Technology Stack](10-tech-stack.md) | [Back to Index](README.md) | [Next: Deployment Strategy →](12-deployment.md)

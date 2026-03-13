@@ -23,3 +23,6 @@
 - **Compliance Reviewers**: Approve or reject verification evidence and risk flags.
 - **Finance Officers**: Reconcile settlements, monitor payout batches, export reports.
 - **Institution Coordinators**: Assign learners, approve tutors, monitor service delivery.
+
+---
+[← Previous: System Modules](03-modules.md) | [Back to Index](README.md) | [Next: System Architecture →](05-system-architecture.md)

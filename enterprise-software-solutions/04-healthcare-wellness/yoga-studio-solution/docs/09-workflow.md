@@ -21,3 +21,6 @@
 3. Target list receives a personalized in-app invite and early-bird discount code.
 4. Student books; System sends a digital syllabus and preparatory material.
 5. Workshop finishes; Participants receive a digital "Certificate of Completion."
+
+---
+[← Previous: UI Pages](08-ui-pages.md) | [Back to Index](README.md) | [Next: Technology Stack →](10-tech-stack.md)

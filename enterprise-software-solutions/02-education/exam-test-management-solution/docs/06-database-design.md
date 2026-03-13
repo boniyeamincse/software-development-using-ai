@@ -17,3 +17,6 @@
 ## Data Relationships
 - **Composite Pattern**: For complex questions with sub-parts.
 - **Audit Table**: Tracking every keystroke and system action during the exam window.
+
+---
+[← Previous: System Architecture](05-system-architecture.md) | [Back to Index](README.md) | [Next: API Design →](07-api-design.md)

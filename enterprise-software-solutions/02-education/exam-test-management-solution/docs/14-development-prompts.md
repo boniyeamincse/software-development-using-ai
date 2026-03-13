@@ -34,3 +34,6 @@
 
 ### Prompt 10: Institutional Performance Report
 "Create a summary report for school administrators that compares performance across different subjects, classes, and teachers. Identify 'Outlier' questions where the majority of high-performing students failed, indicating a potential issue with question clarity or curriculum alignment."
+
+---
+[← Previous: Roadmap & Future Enhancements](13-future-features.md) | [Back to Index](README.md) | [Next: Task Status →](15-task-status.md)

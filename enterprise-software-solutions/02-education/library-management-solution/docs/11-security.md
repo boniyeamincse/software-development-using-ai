@@ -11,3 +11,6 @@
 ## Privacy
 - **Anonymous Search**: Search history is encrypted and not linked to student PII unless requested by the user.
 - **GDPR Compliance**: Tools for students to view or wipe their borrowing history records.
+
+---
+[← Previous: Technology Stack](10-tech-stack.md) | [Back to Index](README.md) | [Next: Deployment Strategy →](12-deployment.md)

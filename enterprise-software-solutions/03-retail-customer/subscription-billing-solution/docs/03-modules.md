@@ -14,3 +14,6 @@ A self-service area where customers can upgrade plans, view invoice history, and
 
 ## Revenue Analytics Suite
 Generates critical SaaS metrics: MRR (Monthly Recurring Revenue), ARR, Churn Rate, and LTV (Lifetime Value).
+
+---
+[← Previous: Core Features](02-features.md) | [Back to Index](README.md) | [Next: User Roles & Permissions →](04-user-roles.md)

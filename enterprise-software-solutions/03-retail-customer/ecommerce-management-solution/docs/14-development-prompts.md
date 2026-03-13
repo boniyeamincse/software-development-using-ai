@@ -34,3 +34,6 @@
 
 ### Prompt 10: Product Recommendation Engine (RAG-based)
 "Develop a recommendation service that uses vector search (e.g., Pinecone or pgvector) to suggest products based on a user's browsing history and past purchases. Implement 'Complete the Look' logic for fashion-based ecommerce."
+
+---
+[← Previous: Roadmap & Future Enhancements](13-future-features.md) | [Back to Index](README.md) | [Next: Task Status →](15-task-status.md)

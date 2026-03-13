@@ -575,3 +575,5 @@ Reporting Module
 
 The School Management System is divided into 17 interconnected modules, each with specific responsibilities. Modules are designed to be cohesive yet loosely coupled, allowing independent development and testing while maintaining system integrity. The authentication module is central to all operations, ensuring that every action is authorized and logged.
 
+---
+[← Previous: Core Features](02-features.md) | [Back to Index](README.md) | [Next: User Roles & Permissions →](04-user-roles.md)

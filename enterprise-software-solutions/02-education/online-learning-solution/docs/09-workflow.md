@@ -389,3 +389,5 @@
 5. Log technical issue
 6. Notify instructor if needed
 
+---
+[← Previous: UI Pages](08-ui-pages.md) | [Back to Index](README.md) | [Next: Technology Stack →](10-tech-stack.md)

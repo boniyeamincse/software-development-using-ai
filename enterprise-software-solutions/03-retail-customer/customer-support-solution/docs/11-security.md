@@ -11,3 +11,6 @@
 ## Compliance
 - **SOC2 Type II**: Regular audits of internal data handling procedures.
 - **DLP (Data Loss Prevention)**: Automatic masking of credit card numbers or sensitive IDs in ticket descriptions.
+
+---
+[← Previous: Technology Stack](10-tech-stack.md) | [Back to Index](README.md) | [Next: Deployment Strategy →](12-deployment.md)

@@ -24,3 +24,6 @@
 ## 6. Family & Group Accounts
 - Ability for a primary member to manage multiple sub-accounts (e.g., Family plans).
 - Shared or individual resource allotments.
+
+---
+[← Previous: System Overview](01-overview.md) | [Back to Index](README.md) | [Next: System Modules →](03-modules.md)

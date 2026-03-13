@@ -13,3 +13,6 @@ The Expense Management Solution follows a **Serverless-First Microservices Archi
 - **Relational DB (PostgreSQL)**: The source of truth for all structured expense reports, logs, and audit trails.
 - **Object Storage (S3)**: Highly secure, encrypted storage for raw receipt images and generated PDF reports.
 - **Cache (Redis)**: Managing user sessions and temporary receipt processing states.
+
+---
+[← Previous: User Roles & Permissions](04-user-roles.md) | [Back to Index](README.md) | [Next: Database Design →](06-database-design.md)

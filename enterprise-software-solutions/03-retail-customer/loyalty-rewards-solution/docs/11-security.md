@@ -11,3 +11,6 @@
 ## Privacy & Compliance
 - **GDPR**: Allowing users to export their loyalty data or delete their profile.
 - **Encryption**: sensitive PII (emails/phones) hashed during storage for analytics.
+
+---
+[← Previous: Technology Stack](10-tech-stack.md) | [Back to Index](README.md) | [Next: Deployment Strategy →](12-deployment.md)

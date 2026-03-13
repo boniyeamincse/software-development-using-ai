@@ -12,3 +12,6 @@
 - **RBAC**: Ensuring managers can only see their direct reports' expenses.
 - **Signed URLs**: Receipt access links are short-lived and tied to specific user sessions.
 - **Audit Logging**: Tracking every instance of a receipt being viewed, downloaded, or modified.
+
+---
+[← Previous: Technology Stack](10-tech-stack.md) | [Back to Index](README.md) | [Next: Deployment Strategy →](12-deployment.md)

@@ -459,3 +459,5 @@ The School Management System uses a modern, scalable tech stack with:
 
 The choice of specific technologies depends on team expertise, project requirements, and scalability needs.
 
+---
+[← Previous: System Workflows](09-workflow.md) | [Back to Index](README.md) | [Next: Security & Compliance →](11-security.md)

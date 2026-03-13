@@ -20,3 +20,6 @@ The financial hub for billing, payments, and multi-payer insurance claims.
 
 ## Facility & Bed Manager
 The administrative layer for housekeeping, bed allocation, and ward oversight.
+
+---
+[← Previous: Core Features](02-features.md) | [Back to Index](README.md) | [Next: User Roles & Permissions →](04-user-roles.md)

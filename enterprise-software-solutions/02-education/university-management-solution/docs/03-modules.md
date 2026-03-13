@@ -17,3 +17,6 @@ Focuses on non-academic aspects: Clubs, sports, residential (Dorm) management, a
 
 ## Alumni & Development
 Tools for fundraising campaigns, alumni networks, and career tracking of graduates.
+
+---
+[← Previous: Core Features](02-features.md) | [Back to Index](README.md) | [Next: User Roles & Permissions →](04-user-roles.md)

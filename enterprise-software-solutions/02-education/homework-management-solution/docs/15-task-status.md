@@ -30,3 +30,6 @@
 | REP-02 | Weekly Parent Homework Digest | Medium | ⏳ Pending | Backend |
 | REP-03 | Gradebook Export & SIS Sync | High | ⏳ Pending | Backend |
 | REP-04 | Mobile Submission Scanner (OCR) | Low | ⏳ Pending | Mobile Team |
+
+---
+[← Previous: Development Prompts](14-development-prompts.md) | [Back to Index](README.md) | [Next: Complete Modules List →](16-complete-modules-list.md)

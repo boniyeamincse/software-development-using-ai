@@ -34,3 +34,6 @@
 
 ### Prompt 10: AI-Powered Schedule Optimizer
 "Develop a service that suggests 'Optimal Shift Patterns' for providers based on historical booking density. Identify 'Peak Times' and recommend bridge shifts to maximize ROI during high-demand periods."
+
+---
+[← Previous: Roadmap & Future Enhancements](13-future-features.md) | [Back to Index](README.md) | [Next: Task Status →](15-task-status.md)

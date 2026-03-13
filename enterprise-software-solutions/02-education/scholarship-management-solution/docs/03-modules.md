@@ -14,3 +14,6 @@ An isolated view for scholarship donors to track the distribution of their funds
 
 ## Compliance & Reporting Engine
 Generates government and institutional reports regarding fund allocation, demographic distribution, and merit audits.
+
+---
+[← Previous: Core Features](02-features.md) | [Back to Index](README.md) | [Next: User Roles & Permissions →](04-user-roles.md)

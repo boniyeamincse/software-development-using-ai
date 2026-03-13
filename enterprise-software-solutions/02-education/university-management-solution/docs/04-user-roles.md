@@ -9,3 +9,6 @@
 | **Accountant** | Financial Access | Tuition collection and research grant disbursement. |
 | **Student** | Personal Portal | Course registration, viewing grades, and bursary status. |
 | **Alumni** | Networking | Career updates and donation management. |
+
+---
+[← Previous: System Modules](03-modules.md) | [Back to Index](README.md) | [Next: System Architecture →](05-system-architecture.md)

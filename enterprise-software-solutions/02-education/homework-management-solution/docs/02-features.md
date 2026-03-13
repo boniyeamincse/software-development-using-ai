@@ -23,3 +23,6 @@
 ## 6. Smart Notifications
 - Push notifications to students 24 hours before a deadline.
 - Weekly summary emails to parents regarding completion rates.
+
+---
+[← Previous: System Overview](01-overview.md) | [Back to Index](README.md) | [Next: System Modules →](03-modules.md)

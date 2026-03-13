@@ -21,3 +21,6 @@
 - **One-to-Many**: One Expense Report contains multiple Line Items.
 - **Many-to-One**: Many Line Items can refer to one Spend Category.
 - **One-to-One**: One approved Expense Report results in one Reimbursement event.
+
+---
+[← Previous: System Architecture](05-system-architecture.md) | [Back to Index](README.md) | [Next: API Design →](07-api-design.md)

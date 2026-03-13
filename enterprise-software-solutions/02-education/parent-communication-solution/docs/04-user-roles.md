@@ -6,3 +6,6 @@
 | **Teacher** | Class-Level | Class updates, direct parent messaging, scheduling. |
 | **Parent** | Ward-Specific | Viewing child's info, replying to chats, RSVP to events. |
 | **Institutional Staff** | Departmental | Sports scores, club updates, library notices. |
+
+---
+[← Previous: System Modules](03-modules.md) | [Back to Index](README.md) | [Next: System Architecture →](05-system-architecture.md)

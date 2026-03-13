@@ -14,3 +14,6 @@
 - **HIPAA/GDPR Compliance**: Ensuring the platform meets international standards for personal health data management.
 - **Right to be Forgotten**: One-click "Data Deletion" for employees leaving the company or program.
 - **Immutable Audit Trail**: Non-destructive logging of who accessed which aggregated data set.
+
+---
+[← Previous: Technology Stack](10-tech-stack.md) | [Back to Index](README.md) | [Next: Deployment Strategy →](12-deployment.md)

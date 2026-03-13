@@ -14,3 +14,6 @@
 2. System looks up linked recipe: 200g Beef, 1 Bun, 20g Sauce.
 3. Theoretical inventory decremented in the DB for those 3 SKUs.
 4. If Beef falls below 5kg, an automated "Low Stock Alert" sent to Manager.
+
+---
+[← Previous: UI Pages](08-ui-pages.md) | [Back to Index](README.md) | [Next: Technology Stack →](10-tech-stack.md)

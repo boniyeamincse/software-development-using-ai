@@ -13,3 +13,6 @@
 ## Ecosystem Expansion
 - **Connected Kitchen Integration**: Syncing with smart fridges and ovens for automated nutritional tracking.
 - **Family Wellness Plans**: Extending corporate benefits to the employee's entire household for a holistic health culture.
+
+---
+[← Previous: Deployment Strategy](12-deployment.md) | [Back to Index](README.md) | [Next: Development Prompts →](14-development-prompts.md)

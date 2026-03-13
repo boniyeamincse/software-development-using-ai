@@ -40,3 +40,6 @@ The recommended architecture is a modular monolith or service-oriented backend w
 - Idempotent payment and refund operations
 - Strong auditability for disputes and moderation
 - Privacy controls for minors and guardian-linked accounts
+
+---
+[← Previous: User Roles & Permissions](04-user-roles.md) | [Back to Index](README.md) | [Next: Database Design →](06-database-design.md)

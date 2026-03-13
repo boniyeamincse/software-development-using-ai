@@ -31,3 +31,6 @@ The platform can be divided into 18 core modules.
 - Payouts depend on completed sessions, finance rules, and compliance checks.
 - Reviews depend on completed sessions and fraud controls.
 - Analytics consumes events from discovery, booking, sessions, and revenue modules.
+
+---
+[← Previous: Core Features](02-features.md) | [Back to Index](README.md) | [Next: User Roles & Permissions →](04-user-roles.md)

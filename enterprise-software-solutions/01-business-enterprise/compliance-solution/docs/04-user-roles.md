@@ -8,3 +8,6 @@
 | **External Auditor** | Restricted Access| Reviewing scoped evidence folders and provided log historicals. |
 | **Employee** | Training Access | Completing assigned training, signing policies, reporting incidents. |
 | **Risk Owner** | Operational | Managing remediation tasks for their specific department. |
+
+---
+[← Previous: System Modules](03-modules.md) | [Back to Index](README.md) | [Next: System Architecture →](05-system-architecture.md)

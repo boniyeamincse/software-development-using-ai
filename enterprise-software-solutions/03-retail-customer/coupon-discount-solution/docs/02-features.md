@@ -26,3 +26,6 @@
 
 ## 6. Real-Time Tracking & ROI
 - Dashboards showing "Redemption Count," "Average Order Value (AOV) with Discount," and "Generated Revenue."
+
+---
+[← Previous: System Overview](01-overview.md) | [Back to Index](README.md) | [Next: System Modules →](03-modules.md)

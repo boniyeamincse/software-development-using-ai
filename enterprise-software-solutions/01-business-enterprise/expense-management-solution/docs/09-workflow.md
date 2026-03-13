@@ -21,3 +21,6 @@
 2. Reports automatically flagged as "Potential Duplicate."
 3. Notification sent to Finance Auditor for manual review.
 4. If fraud confirmed, users notified and incident logged in the Audit Trail.
+
+---
+[← Previous: UI Pages](08-ui-pages.md) | [Back to Index](README.md) | [Next: Technology Stack →](10-tech-stack.md)

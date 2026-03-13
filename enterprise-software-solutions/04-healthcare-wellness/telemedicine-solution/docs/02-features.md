@@ -29,3 +29,6 @@
 - **Insurance Verification**: Automated check for telemedicine-specific coverage and co-pays.
 - **Integrated Payments**: Secure processing of credit cards and digital wallets before the visit starts.
 - **Compliance Logging**: Comprehensive session audit logs for HIPAA/GDPR regulatory proof.
+
+---
+[← Previous: System Overview](01-overview.md) | [Back to Index](README.md) | [Next: System Modules →](03-modules.md)

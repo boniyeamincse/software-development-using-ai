@@ -14,3 +14,6 @@ A real-time listener that syncs digital membership status with physical gate/doo
 
 ## Marketing & Engagement Engine
 Automates the delivery of "Retention Campaigns" based on member behavior (e.g., "We miss you" emails if they haven't visited in 14 days).
+
+---
+[← Previous: Core Features](02-features.md) | [Back to Index](README.md) | [Next: User Roles & Permissions →](04-user-roles.md)

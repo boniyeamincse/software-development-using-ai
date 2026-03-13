@@ -22,3 +22,6 @@
 3. 21 days: Personal Trainer notified to send a 1-on-1 motivational message.
 4. 30 days: System flags for "Retention Call" by the Front Desk manager.
 5. Successful outcome: Member checks in; "Ghost" flag cleared; Loyalty points awarded.
+
+---
+[← Previous: UI Pages](08-ui-pages.md) | [Back to Index](README.md) | [Next: Technology Stack →](10-tech-stack.md)

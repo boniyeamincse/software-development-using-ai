@@ -12,3 +12,6 @@
 ## Ecosystem Expansion
 - **One-Click ERP Sync**: Deep, bi-directional sync with production and shipping systems for real-time delivery updates in the CRM.
 - **Marketplace App Store**: Allowing partners to build custom widgets and plugins for the contact sidebar.
+
+---
+[← Previous: Deployment Strategy](12-deployment.md) | [Back to Index](README.md) | [Next: Development Prompts →](14-development-prompts.md)

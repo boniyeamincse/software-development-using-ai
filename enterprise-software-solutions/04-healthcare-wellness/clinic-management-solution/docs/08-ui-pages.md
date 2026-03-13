@@ -20,3 +20,6 @@
 ## 5. Billing & Claims Bench
 - Table view of all "Pending Claims" with one-click resubmission for denials.
 - Patient checkout modal with integrated card processing and email-receipt options.
+
+---
+[← Previous: API Design](07-api-design.md) | [Back to Index](README.md) | [Next: System Workflows →](09-workflow.md)

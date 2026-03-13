@@ -8,3 +8,6 @@
 | **Customer Support** | Support Access | Handling returns, refunds, and customer tickets. |
 | **Logistics Partner** | Fulfillment Access | Updating shipping status and delivery tracking. |
 | **Customer** | Frontend Access | Buying products, writing reviews, managing profile. |
+
+---
+[← Previous: System Modules](03-modules.md) | [Back to Index](README.md) | [Next: System Architecture →](05-system-architecture.md)

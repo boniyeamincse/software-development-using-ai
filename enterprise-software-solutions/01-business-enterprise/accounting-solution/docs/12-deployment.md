@@ -12,3 +12,6 @@
 ## Performance Management
 - **Database Partitioning**: By fiscal year and entity to ensure that legacy data doesn't slow down current-period performance.
 - **Read-Replicas**: Distributing the heavy "Reporting" load away from the primary "Transactional" ledger database.
+
+---
+[← Previous: Security & Compliance](11-security.md) | [Back to Index](README.md) | [Next: Roadmap & Future Enhancements →](13-future-features.md)

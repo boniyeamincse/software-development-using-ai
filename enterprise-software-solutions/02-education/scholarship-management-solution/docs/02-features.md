@@ -24,3 +24,6 @@
 ## 6. Renewal & Multi-Year Support
 - Automated renewal reminders for multi-year grants.
 - "Probation" handling for students who dip below required performance metrics.
+
+---
+[← Previous: System Overview](01-overview.md) | [Back to Index](README.md) | [Next: System Modules →](03-modules.md)

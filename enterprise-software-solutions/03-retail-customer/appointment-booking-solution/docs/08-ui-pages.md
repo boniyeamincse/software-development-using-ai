@@ -15,3 +15,6 @@
 
 ## 5. Daily Ops Ticker
 - A dashboard widget showing "Next Client Arriving" and "Today's Total Revenue."
+
+---
+[← Previous: API Design](07-api-design.md) | [Back to Index](README.md) | [Next: System Workflows →](09-workflow.md)

@@ -8,3 +8,6 @@
 | **Employee (Submitter)**| Operational | Capturing receipts, creating reports, viewing reimbursement status. |
 | **Auditor** | Read-Only | Reviewing historical spend records for compliance and fraud detection. |
 | **System Admin** | Configuration | User management, security patching, API integration management. |
+
+---
+[← Previous: System Modules](03-modules.md) | [Back to Index](README.md) | [Next: System Architecture →](05-system-architecture.md)

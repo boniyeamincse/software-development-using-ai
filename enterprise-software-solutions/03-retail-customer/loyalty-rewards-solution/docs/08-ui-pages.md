@@ -16,3 +16,6 @@
 
 ## 5. Merchant Search & Adjustment Tool
 - Internal tool for store staff to look up members by phone/email and view their history.
+
+---
+[← Previous: API Design](07-api-design.md) | [Back to Index](README.md) | [Next: System Workflows →](09-workflow.md)

@@ -13,3 +13,6 @@ The system is built on a **Transactional Multi-Tenant Architecture** designed to
 - **Relational DB (PostgreSQL)**: Storing the "Source of Truth" for ledgers, subscriptions, and plans.
 - **Read-Only Analytics**: Snowflake or BigQuery for performing complex MRR/ARR calculations over millions of records.
 - **Vault (PCI-Compliant)**: Tokenized storage of payment methods (e.g., Stripe/Braintree vaulting).
+
+---
+[← Previous: User Roles & Permissions](04-user-roles.md) | [Back to Index](README.md) | [Next: Database Design →](06-database-design.md)

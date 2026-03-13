@@ -17,3 +17,6 @@ Manages the real-time feeds from corporate credit cards and external financial i
 
 ## Analytics & BI Portal
 The executive-level dashboard for monitoring company-wide spending trends and budget health.
+
+---
+[← Previous: Core Features](02-features.md) | [Back to Index](README.md) | [Next: User Roles & Permissions →](04-user-roles.md)

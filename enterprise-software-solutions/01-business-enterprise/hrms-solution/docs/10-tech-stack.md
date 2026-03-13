@@ -14,3 +14,6 @@
 - **Hosting**: Cloud-Managed (AWS/Azure) with VPC (Virtual Private Cloud) isolation.
 - **Auth**: Okta or Azure AD (Active Directory) for SSO (Single Sign-On).
 - **E-Signature**: DocuSign or HelloSign API.
+
+---
+[← Previous: System Workflows](09-workflow.md) | [Back to Index](README.md) | [Next: Security & Compliance →](11-security.md)

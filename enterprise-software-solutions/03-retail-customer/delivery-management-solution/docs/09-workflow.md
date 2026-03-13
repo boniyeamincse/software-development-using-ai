@@ -12,3 +12,6 @@
 1. Driver flags a stop as "Undeliverable" (e.g., No access/Customer not home).
 2. Dispatcher receives real-time alert with driver comments/photo.
 3. System automatically attempts to reschedule or returns order to warehouse hub.
+
+---
+[← Previous: UI Pages](08-ui-pages.md) | [Back to Index](README.md) | [Next: Technology Stack →](10-tech-stack.md)

@@ -13,3 +13,6 @@ The system uses a **Local-Cloud Hybrid Architecture** to ensure that the restaur
 - **Relational DB (PostgreSQL)**: Storing the master source of truth for orders, inventory, and users.
 - **Document DB (MongoDB)**: For storing complex, fast-changing menu structures and modifiers.
 - **Distributed Cache (Redis)**: For real-time state management of the KDS and Floor map.
+
+---
+[← Previous: User Roles & Permissions](04-user-roles.md) | [Back to Index](README.md) | [Next: Database Design →](06-database-design.md)

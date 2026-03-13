@@ -17,3 +17,6 @@
 
 ## 5. ePOD Capture Interface
 - Canvas for digital signatures and camera integration for photo proof.
+
+---
+[← Previous: API Design](07-api-design.md) | [Back to Index](README.md) | [Next: System Workflows →](09-workflow.md)

@@ -22,3 +22,6 @@
 3. Claim sent to Clearinghouse; Status tracked in real-time.
 4. Approval received; Payment auto-reconciled against the patient's bill.
 5. If denied, system flags "Correction Needed" with suggested fixes.
+
+---
+[← Previous: UI Pages](08-ui-pages.md) | [Back to Index](README.md) | [Next: Technology Stack →](10-tech-stack.md)

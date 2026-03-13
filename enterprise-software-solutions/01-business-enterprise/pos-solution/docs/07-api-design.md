@@ -16,3 +16,6 @@
 - **Offline Tokens**: Cryptographically signed local sales that the cloud can verify later.
 - **EMV Pass-Through**: Secure, encrypted communication between POS and Payment Terminal (P2PE).
 - **MFA (Multi-Factor Authentication)**: Mandatory for manager-only price overrides and closures.
+
+---
+[← Previous: Database Design](06-database-design.md) | [Back to Index](README.md) | [Next: UI Pages →](08-ui-pages.md)

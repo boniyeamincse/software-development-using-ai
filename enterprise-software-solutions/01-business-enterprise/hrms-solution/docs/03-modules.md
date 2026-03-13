@@ -17,3 +17,6 @@ The secure module that handles salary disbursement, tax filing, and integration 
 
 ## Employee Self-Service (ESS) Portal
 The end-user interface where employees manage their own data, requests, and benefits.
+
+---
+[← Previous: Core Features](02-features.md) | [Back to Index](README.md) | [Next: User Roles & Permissions →](04-user-roles.md)

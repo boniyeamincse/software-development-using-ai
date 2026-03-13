@@ -27,3 +27,6 @@
 - **One-to-Many**: One Member has a continuous stream of Check-in Logs.
 - **Many-to-Many**: Members can book many Classes; Classes have many Members.
 - **One-to-Many**: One Trainer manages many personal training Client plans.
+
+---
+[← Previous: System Architecture](05-system-architecture.md) | [Back to Index](README.md) | [Next: API Design →](07-api-design.md)

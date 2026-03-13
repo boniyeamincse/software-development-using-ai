@@ -12,3 +12,6 @@
 ## Modern Payments
 - **Crypto-Tab**: Allowing guests to settle checks with stablecoins.
 - **Pay-by-Face**: Biometric payment integration for frequent VIP members.
+
+---
+[← Previous: Deployment Strategy](12-deployment.md) | [Back to Index](README.md) | [Next: Development Prompts →](14-development-prompts.md)

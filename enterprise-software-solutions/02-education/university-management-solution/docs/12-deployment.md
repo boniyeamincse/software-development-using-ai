@@ -8,3 +8,6 @@ To support international campuses and ensure reliability:
 ## Zero-Downtime Updates
 - **Canary Releases**: Deploying new registrar logic to 5% of users first to monitor for errors.
 - **Database Migrations**: Performed using staggered, non-locking scripts.
+
+---
+[← Previous: Security & Compliance](11-security.md) | [Back to Index](README.md) | [Next: Roadmap & Future Enhancements →](13-future-features.md)

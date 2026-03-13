@@ -65,3 +65,6 @@ This document groups the tutoring marketplace into the main business capabilitie
 - Minor safety controls and guardian approvals
 - Data privacy controls and consent management
 - Qualification expiry monitoring
+
+---
+[← Previous: System Overview](01-overview.md) | [Back to Index](README.md) | [Next: System Modules →](03-modules.md)

@@ -32,3 +32,6 @@
 - **applicant Identity Verification**: Ensuring valid student status.
 - **External Data Bridge**: Checking third-party financial records if available.
 - **applicant Support Helpdesk**: dedicated queue for scholarship questions.
+
+---
+[← Previous: Task Status](15-task-status.md) | [Back to Index](README.md)

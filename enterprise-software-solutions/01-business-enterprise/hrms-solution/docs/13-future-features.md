@@ -12,3 +12,6 @@
 ## Ecosystem Growth
 - **Universal Employee Identity**: A portable professional ID that carries verified certifications and performance scores.
 - **Automated Tax Filing Logic**: Direct integration with government tax portals for real-time withholding and reporting.
+
+---
+[← Previous: Deployment Strategy](12-deployment.md) | [Back to Index](README.md) | [Next: Development Prompts →](14-development-prompts.md)

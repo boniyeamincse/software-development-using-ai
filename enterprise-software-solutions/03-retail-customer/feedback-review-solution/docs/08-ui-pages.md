@@ -16,3 +16,6 @@
 
 ## 5. Dispute Resolution Portal
 - Clean interface for managers to review flagged content against company policy.
+
+---
+[← Previous: API Design](07-api-design.md) | [Back to Index](README.md) | [Next: System Workflows →](09-workflow.md)

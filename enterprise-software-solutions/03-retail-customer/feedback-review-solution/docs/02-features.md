@@ -23,3 +23,6 @@
 ## 6. Incentivized Feedback
 - Integration with Loyalty & Rewards systems to offer points for verified reviews.
 - "Verified Buyer" badges to combat fake feedback.
+
+---
+[← Previous: System Overview](01-overview.md) | [Back to Index](README.md) | [Next: System Modules →](03-modules.md)

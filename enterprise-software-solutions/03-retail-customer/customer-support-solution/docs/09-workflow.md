@@ -13,3 +13,6 @@
 1. SLA timer for "First Response" expires.
 2. System automatically flags the ticket in RED and pings the Manager via internal channel (e.g., Slack).
 3. Manager re-assigns the ticket to a Senior Agent.
+
+---
+[← Previous: UI Pages](08-ui-pages.md) | [Back to Index](README.md) | [Next: Technology Stack →](10-tech-stack.md)

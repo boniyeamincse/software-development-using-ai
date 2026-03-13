@@ -18,3 +18,6 @@ A next-generation loyalty engine that supports multi-tier memberships, gamified 
 - **Omnichannel Unified Profile**: A single loyalty wallet used across all brand touchpoints.
 - **Gamified Engagement**: Challenges, streaks, and badges to boost user interaction.
 - **Data-Driven Personalization**: Delivering the right reward at the right time based on spending habits.
+
+---
+[Back to Index](README.md) | [Next: Core Features →](02-features.md)

@@ -19,3 +19,6 @@
 - **One-to-Many**: One Driver can have multiple Routes (over time).
 - **One-to-Many**: One Route contains multiple Tasks/Stops.
 - **One-to-One**: One Shipment has one ePOD record.
+
+---
+[← Previous: System Architecture](05-system-architecture.md) | [Back to Index](README.md) | [Next: API Design →](07-api-design.md)

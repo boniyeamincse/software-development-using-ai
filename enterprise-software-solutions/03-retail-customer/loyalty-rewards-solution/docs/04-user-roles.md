@@ -8,3 +8,6 @@
 | **Customer Support** | Operational | Manual point adjustments for customer disputes. |
 | **Customer** | Account-Only | Viewing status, earning points, redeeming rewards. |
 | **POS Terminal** | Machine-Access | Executing redemption and logging points during checkout. |
+
+---
+[← Previous: System Modules](03-modules.md) | [Back to Index](README.md) | [Next: System Architecture →](05-system-architecture.md)

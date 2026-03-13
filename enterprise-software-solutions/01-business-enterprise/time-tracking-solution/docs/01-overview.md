@@ -18,3 +18,6 @@ A flexible, multi-interface time capture engine that works where the employees w
 - **Real-Time Data**: Instant visibility into project burn rates and team capacity.
 - **Financial Integrity**: Seamless sync with billing and payroll modules to prevent data entry errors.
 - **Operational Excellence**: Transforming time data into actionable insights for productivity optimization.
+
+---
+[Back to Index](README.md) | [Next: Core Features →](02-features.md)

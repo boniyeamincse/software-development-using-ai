@@ -18,3 +18,6 @@
 2. Financial office flags any outstanding debts.
 3. System confirms all credit requirements met.
 4. "Ready for Graduation" list generated for the Chancellor's office.
+
+---
+[← Previous: UI Pages](08-ui-pages.md) | [Back to Index](README.md) | [Next: Technology Stack →](10-tech-stack.md)

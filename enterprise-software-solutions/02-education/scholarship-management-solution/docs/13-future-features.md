@@ -11,3 +11,6 @@
 ## Modern Payments
 - **Crypto Disbursement**: Support for stablecoin payments for international scholarships.
 - **Micro-Grants**: Tools for "Emergency Grants" (fast-tracked grants for students in immediate crisis).
+
+---
+[← Previous: Deployment Strategy](12-deployment.md) | [Back to Index](README.md) | [Next: Development Prompts →](14-development-prompts.md)

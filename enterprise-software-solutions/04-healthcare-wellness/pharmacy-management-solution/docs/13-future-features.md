@@ -13,3 +13,6 @@
 ## Global Logistics
 - **Blockchain Track-and-Trace**: Verifying the total provenance of a drug from factory to patient to prevent counterfeits.
 - **Universal Multi-Payer API**: One-click integration with every insurance and government payer globally.
+
+---
+[← Previous: Deployment Strategy](12-deployment.md) | [Back to Index](README.md) | [Next: Development Prompts →](14-development-prompts.md)

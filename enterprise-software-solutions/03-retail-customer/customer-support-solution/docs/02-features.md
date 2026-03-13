@@ -23,3 +23,6 @@
 ## 6. AI-Powered Support (Copilot)
 - Automated ticket summarization for quick agent catch-up.
 - Suggestion engine for canned responses and knowledge base articles.
+
+---
+[← Previous: System Overview](01-overview.md) | [Back to Index](README.md) | [Next: System Modules →](03-modules.md)

@@ -18,3 +18,6 @@
 ## Key Relationships
 - **Many-to-Many**: Staff to Services (Services they are qualified to perform).
 - **One-to-Many**: One Booking can have multiple Status History records.
+
+---
+[← Previous: System Architecture](05-system-architecture.md) | [Back to Index](README.md) | [Next: API Design →](07-api-design.md)

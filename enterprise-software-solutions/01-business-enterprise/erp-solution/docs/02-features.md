@@ -27,3 +27,6 @@
 ## 6. Business Intelligence & Reporting
 - Cross-departmental dashboards (e.g., "Profitability by Product Line").
 - Automated month-end closing and financial statement generation.
+
+---
+[← Previous: System Overview](01-overview.md) | [Back to Index](README.md) | [Next: System Modules →](03-modules.md)

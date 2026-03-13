@@ -23,3 +23,6 @@
 ## 6. Staff Management & Rostering
 - Define working hours, breaks, and vacations for each staff member.
 - Skills-based routing to ensure the right staff is booked for the right service.
+
+---
+[← Previous: System Overview](01-overview.md) | [Back to Index](README.md) | [Next: System Modules →](03-modules.md)

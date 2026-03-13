@@ -29,3 +29,6 @@
 - **Specialist Roster**: Management of on-call schedules across multiple departments.
 - **Shift Handover Logic**: Digital summaries for nursing shifts to ensure continuity of care.
 - **Skills Tracking**: Ensuring only certified staff are assigned to specialized equipment or wards.
+
+---
+[← Previous: System Overview](01-overview.md) | [Back to Index](README.md) | [Next: System Modules →](03-modules.md)

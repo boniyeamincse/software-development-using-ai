@@ -31,3 +31,6 @@
 | ANL-02 | Closed-Loop Resolution Tracker | Medium | ⏳ Pending | Backend |
 | AI-02 | Strategic Product Improvement AI | Low | ⏳ Pending | Data Team |
 | SYS-01 | Exportable Brand Sentiment Reports | Low | ⏳ Pending | Data Team |
+
+---
+[← Previous: Development Prompts](14-development-prompts.md) | [Back to Index](README.md) | [Next: Complete Modules List →](16-complete-modules-list.md)

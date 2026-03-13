@@ -24,3 +24,6 @@
 ## 6. Executive Growth Dashboard
 - Key Charts: "Retention Rate by Teacher," "Intro Pass Conversion," and "Revenue per Mat Space."
 - "Churn Risk" roster identifying students who haven't visited in 14 days.
+
+---
+[← Previous: API Design](07-api-design.md) | [Back to Index](README.md) | [Next: System Workflows →](09-workflow.md)

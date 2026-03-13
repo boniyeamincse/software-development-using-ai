@@ -179,3 +179,5 @@
 - **Resource Suggestions**: Recommend supplementary resources based on performance
 - **Learning Style Adaptation**: Adapt content based on learning style preferences
 
+---
+[← Previous: System Overview](01-overview.md) | [Back to Index](README.md) | [Next: System Modules →](03-modules.md)

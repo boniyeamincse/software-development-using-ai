@@ -19,3 +19,6 @@
 ## 5. Report Builder
 - Drag-and-drop tool to create custom Profit & Loss (P&L) views.
 - Export options for PDF, CSV, and XLSX (formatted for Excel).
+
+---
+[← Previous: API Design](07-api-design.md) | [Back to Index](README.md) | [Next: System Workflows →](09-workflow.md)

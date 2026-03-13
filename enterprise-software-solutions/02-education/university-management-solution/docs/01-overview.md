@@ -18,3 +18,6 @@ A distributed, high-capacity platform that automates the entire academic lifecyc
 - **Student Success**: Real-time tracking of graduation requirements and credit progression.
 - **Operational Scalability**: Multi-tenancy support for different departments or campuses.
 - **Global Compliance**: Support for international accreditation standards (e.g., ABET, EQUIS).
+
+---
+[Back to Index](README.md) | [Next: Core Features →](02-features.md)

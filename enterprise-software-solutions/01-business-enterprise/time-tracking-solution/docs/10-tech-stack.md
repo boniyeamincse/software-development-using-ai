@@ -15,3 +15,6 @@
 - **Hosting**: AWS with Lambda for cost-effective report generation.
 - **Monitoring**: Datadog (for tracking timer heartbeat latency).
 - **Security**: AWS Secrets Manager for managing 3rd-party banking/HR credentials.
+
+---
+[← Previous: System Workflows](09-workflow.md) | [Back to Index](README.md) | [Next: Security & Compliance →](11-security.md)

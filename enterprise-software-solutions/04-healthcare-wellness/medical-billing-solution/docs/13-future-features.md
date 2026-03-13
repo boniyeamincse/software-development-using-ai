@@ -13,3 +13,6 @@
 - **Voice-Activated AR Billing Dashboards**: "Alexa, show me my highest-value denials from Blue Cross today."
 - **Crypto-Collect Integrated Gateway**: Allowing patients to settle balances using regulated medical-currency stablecoins.
 - **Self-Healing Scrubbing Rules**: A system that automatically updates its own rules based on new payer rejection patterns.
+
+---
+[← Previous: Deployment Strategy](12-deployment.md) | [Back to Index](README.md) | [Next: Development Prompts →](14-development-prompts.md)

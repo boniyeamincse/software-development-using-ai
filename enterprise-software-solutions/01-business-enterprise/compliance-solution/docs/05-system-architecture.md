@@ -13,3 +13,6 @@ The Compliance Solution utilizes a **Synchronous Monitoring Architecture** desig
 - **Relational DB (PostgreSQL)**: The master store for policy versioning, control mappings, and risk data.
 - **Immutable Log Store**: WORM (Write Once, Read Many) storage for audit-critical logs and evidence.
 - **Secure Document Store (S3)**: Highly restricted object storage for evidence artifacts with rigorous access logging.
+
+---
+[← Previous: User Roles & Permissions](04-user-roles.md) | [Back to Index](README.md) | [Next: Database Design →](06-database-design.md)

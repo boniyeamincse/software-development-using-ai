@@ -14,3 +14,6 @@ A searchable database of past assignments, instructional videos, and reference m
 
 ## Grading & Analytics Module
 Centralized interface for high-speed grading across multiple sections. Generates "Average Score" and "On-Time Ratio" reports.
+
+---
+[← Previous: Core Features](02-features.md) | [Back to Index](README.md) | [Next: User Roles & Permissions →](04-user-roles.md)

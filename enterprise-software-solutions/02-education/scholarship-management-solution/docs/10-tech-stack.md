@@ -14,3 +14,6 @@
 - **Cloud**: AWS or Azure.
 - **Vault**: HashiCorp Vault for sensitive student records.
 - **Compliance**: Vanta for continuous security monitoring.
+
+---
+[← Previous: System Workflows](09-workflow.md) | [Back to Index](README.md) | [Next: Security & Compliance →](11-security.md)

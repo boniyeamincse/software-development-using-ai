@@ -13,3 +13,6 @@
 - **AR Grounding Tools**: In-app augmented reality "Calm Spaces" for patients during panic attacks.
 - **Bio-Feedback Integration**: Real-time mirroring of heart rate and HRV durante therapy sessions to help clinicians teach regulation.
 - **Voice-Activated Safety Plan**: "Alexa, I'm feeling overwhelmed - start my safety plan."
+
+---
+[← Previous: Deployment Strategy](12-deployment.md) | [Back to Index](README.md) | [Next: Development Prompts →](14-development-prompts.md)

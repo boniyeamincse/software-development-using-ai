@@ -17,3 +17,6 @@ The centralized repository for all project-related files, proposals, and design 
 
 ## Portfolio Dashboard (PPM)
 The executive-level view of all active and upcoming projects across the organization.
+
+---
+[← Previous: Core Features](02-features.md) | [Back to Index](README.md) | [Next: User Roles & Permissions →](04-user-roles.md)

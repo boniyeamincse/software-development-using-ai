@@ -15,3 +15,6 @@
 ## Security
 - **Websocket Authentication**: Signed tokens for secure real-time connections.
 - **Scoped API Keys**: For integrating with CI/CD or other external automation tools.
+
+---
+[← Previous: Database Design](06-database-design.md) | [Back to Index](README.md) | [Next: UI Pages →](08-ui-pages.md)

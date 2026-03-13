@@ -19,3 +19,6 @@
 - **One-to-Many**: One Customer has many Ledger entries.
 - **Many-to-One**: Many Customers belong to one Tier.
 - **One-to-Many**: One Reward can have many Redemption records.
+
+---
+[← Previous: System Architecture](05-system-architecture.md) | [Back to Index](README.md) | [Next: API Design →](07-api-design.md)

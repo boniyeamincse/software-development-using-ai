@@ -32,3 +32,6 @@
 - **Digital Hall Ticket System**: Issuing secure entry permits with biometric verification.
 - **Special Accommodations Hub**: Managing time extensions or assistive tools for students.
 - **Public Results Portal**: Secure publication of final grades to students and parents.
+
+---
+[← Previous: Task Status](15-task-status.md) | [Back to Index](README.md)

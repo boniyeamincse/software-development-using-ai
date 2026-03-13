@@ -14,3 +14,6 @@ The Pharmacy Solution utilizes a **Synchronous Consistency Architecture** to ens
 - **Immutable Ledger**: WORM storage or private blockchain for narcotics logs.
 - **Cache Layer (Redis)**: Active dispensing queues and real-time stock session locks.
 - **Identity**: Multi-factor biometric (fingerprint) for narcotics cabinet access.
+
+---
+[← Previous: User Roles & Permissions](04-user-roles.md) | [Back to Index](README.md) | [Next: Database Design →](06-database-design.md)

@@ -32,3 +32,6 @@
 - **Dispute Resolution Manager**: Facilitated mediation for session issues.
 - **Loyalty & Referrals**: Rewarding students and tutors for platform growth.
 - **AI Content Guard**: Monitoring communications for safety and policy compliance.
+
+---
+[← Previous: Task Status](15-task-status.md) | [Back to Index](README.md)

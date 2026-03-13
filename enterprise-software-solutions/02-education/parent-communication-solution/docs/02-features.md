@@ -24,3 +24,6 @@
 ## 6. Daily Performance Logs
 - Digital "Daily Diary" for early childhood education (meals, naps, activities).
 - High-level progress snapshots for K-12 students.
+
+---
+[← Previous: System Overview](01-overview.md) | [Back to Index](README.md) | [Next: System Modules →](03-modules.md)

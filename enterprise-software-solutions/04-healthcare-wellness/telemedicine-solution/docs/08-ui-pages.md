@@ -21,3 +21,6 @@
 ## 5. Virtual Provider Cockpit
 - Daily schedule view merging virtual and physical encounters.
 - "Revenue Recap" showing processed co-pays and telemedicine claim statuses.
+
+---
+[← Previous: API Design](07-api-design.md) | [Back to Index](README.md) | [Next: System Workflows →](09-workflow.md)

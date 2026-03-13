@@ -8,3 +8,6 @@
 | **Evaluator** | Grading Access | Scoring descriptive answers, applying rubrics. |
 | **Student** | Assessment Only | Taking exams, viewing personal results/feedback. |
 | **IT Staff** | Infrastructure Access | Server maintenance, secure browser configuration. |
+
+---
+[← Previous: System Modules](03-modules.md) | [Back to Index](README.md) | [Next: System Architecture →](05-system-architecture.md)

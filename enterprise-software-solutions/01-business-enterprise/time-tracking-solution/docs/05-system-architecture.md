@@ -13,3 +13,6 @@ The system uses a **Stateful Tracking Architecture** to ensure that active timer
 - **Relational DB (PostgreSQL)**: The source of truth for all "Committed" and "Approved" time logs.
 - **In-Memory Store (Redis)**: Managing active "Running" timers and session data.
 - **Time-Series DB (Optional)**: For high-frequency activity mapping (active vs. idle).
+
+---
+[← Previous: User Roles & Permissions](04-user-roles.md) | [Back to Index](README.md) | [Next: Database Design →](06-database-design.md)

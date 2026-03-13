@@ -13,3 +13,6 @@
 ## Global Expansion
 - **Universal Tax Engine**: Real-time, geo-aware tax calculations for every sovereign territory globally.
 - **Local Payment Method SDKs**: Rapid integration with hundreds of local payment wallets worldwide.
+
+---
+[← Previous: Deployment Strategy](12-deployment.md) | [Back to Index](README.md) | [Next: Development Prompts →](14-development-prompts.md)

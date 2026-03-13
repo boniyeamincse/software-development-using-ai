@@ -23,3 +23,6 @@
 ## 5. Procurement Planning Hive
 - Predictive Stock view: "Recommended Reorder" based on historical trends.
 - Vendor comparison grid showing current prices and historical delivery speed.
+
+---
+[← Previous: API Design](07-api-design.md) | [Back to Index](README.md) | [Next: System Workflows →](09-workflow.md)

@@ -17,3 +17,6 @@ Interface for manual grading of descriptive answers with built-in plagiarism che
 
 ## Analytics & Insights
 Generates performance reports, class-wise averages, and psychometric analysis of questions (validity/reliability).
+
+---
+[← Previous: Core Features](02-features.md) | [Back to Index](README.md) | [Next: User Roles & Permissions →](04-user-roles.md)

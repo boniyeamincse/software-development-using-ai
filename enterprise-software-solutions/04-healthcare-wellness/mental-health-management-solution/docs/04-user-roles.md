@@ -9,3 +9,6 @@
 | **Billing Specialist** | Financial High | Managing claims, authorizations, and patient payments. |
 | **Intake Coordinator** | Limited Ops | Onboarding new patients, insurance verification, initial screening. |
 | **Patient** | Personal App | Viewing safety plans, mood tracking, secure messaging, paying bills. |
+
+---
+[← Previous: System Modules](03-modules.md) | [Back to Index](README.md) | [Next: System Architecture →](05-system-architecture.md)

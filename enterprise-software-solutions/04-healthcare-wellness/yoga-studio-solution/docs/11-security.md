@@ -14,3 +14,6 @@
 - **PCI-DSS Compliance**: Ensuring global standards for secure credit card processing into the boutique retail and pass engines.
 - **Right-to-be-Forgotten**: One-click data deletion for students who leave the community, ensuring adherence to GDPR/CCPA.
 - **Audit Logs**: Transparent logging of which staff member modified which student account.
+
+---
+[← Previous: Technology Stack](10-tech-stack.md) | [Back to Index](README.md) | [Next: Deployment Strategy →](12-deployment.md)

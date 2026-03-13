@@ -19,3 +19,6 @@
 2. Timer paused; Notification appears: "You've been idle for 10 minutes."
 3. User selects: "Keep Time," "Discard Time," or "Assign to Different Task."
 4. Timer resumes based on user selection.
+
+---
+[← Previous: UI Pages](08-ui-pages.md) | [Back to Index](README.md) | [Next: Technology Stack →](10-tech-stack.md)

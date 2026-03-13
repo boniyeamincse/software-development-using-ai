@@ -26,3 +26,6 @@
 ## 6. Executive Operations Panel
 - Key Charts: "Peak Usage Times," "Annual Churn Rate," "Revenue per Sq Foot."
 - Marketing dashboard for tracking "Trial Pass" conversion rates.
+
+---
+[← Previous: API Design](07-api-design.md) | [Back to Index](README.md) | [Next: System Workflows →](09-workflow.md)

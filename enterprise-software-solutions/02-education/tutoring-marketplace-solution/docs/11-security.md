@@ -23,3 +23,6 @@
 - Credential fraud detection for tutor verification
 - Review manipulation detection
 - Session privacy and meeting access restrictions
+
+---
+[← Previous: Technology Stack](10-tech-stack.md) | [Back to Index](README.md) | [Next: Deployment Strategy →](12-deployment.md)

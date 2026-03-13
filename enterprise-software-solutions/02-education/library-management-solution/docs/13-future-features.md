@@ -11,3 +11,6 @@
 ## Community & Open Science
 - **Inter-Library Loan (ILL)**: API integration for sharing assets across multiple institutional libraries.
 - **Open Access Repository**: Automated tools for publishing faculty research directly to the library’s digital vault.
+
+---
+[← Previous: Deployment Strategy](12-deployment.md) | [Back to Index](README.md) | [Next: Development Prompts →](14-development-prompts.md)

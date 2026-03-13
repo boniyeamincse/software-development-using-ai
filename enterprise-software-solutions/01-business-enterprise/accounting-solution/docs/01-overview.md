@@ -18,3 +18,6 @@ A secure, cloud-native accounting engine that automates the entire "Record-to-Re
 - **Reporting Excellence**: Instant generation of Balance Sheets, P&L, and Cash Flow statements.
 - **Global Compliance**: Built-in support for multi-currency, multi-tax jurisdiction (VAT/GST/Sales Tax).
 - **Security & Integrity**: Immutable audit logs and granular role-based access to financial data.
+
+---
+[Back to Index](README.md) | [Next: Core Features →](02-features.md)

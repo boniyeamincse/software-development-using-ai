@@ -18,3 +18,6 @@ An automated, transparent portal that handles everything from donor fund managem
 - **Ensure Fairness**: Blinded review workflows and merit-based ranking algorithms.
 - **Track Disbursements**: Real-time integration with student accounts and accounting systems.
 - **Donor Engagement**: Reporting tools to show donors the direct impact of their contributions.
+
+---
+[Back to Index](README.md) | [Next: Core Features →](02-features.md)

@@ -17,3 +17,6 @@
 ## The Churn Prevention Flow
 1. Automated tracker identifies a member hasn't scanned into the facility for 14 days.
 2. System triggers a "We miss you" email with a small incentive (e.g., Free juice bar credit).
+
+---
+[← Previous: UI Pages](08-ui-pages.md) | [Back to Index](README.md) | [Next: Technology Stack →](10-tech-stack.md)

@@ -27,3 +27,6 @@
 - **Many-to-Many**: Students can book many Classes; Classes have many Student attendees.
 - **Many-to-One**: Many Classes are taught by one specific Teacher.
 - **One-to-Many**: One Studio can manage multiple physical Rooms/Zones.
+
+---
+[← Previous: System Architecture](05-system-architecture.md) | [Back to Index](README.md) | [Next: API Design →](07-api-design.md)

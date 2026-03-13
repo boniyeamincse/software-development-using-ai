@@ -18,3 +18,6 @@ An integrated Patient-Centric platform that automates the entire lifecycle of ca
 *   **Operational Transparency**: Live visibility into bed occupancy, staff allocation, and medical inventory.
 - **Financial Integrity**: Seamless integration between clinical activity and automated billing.
 - **Enhanced Patient Experience**: Faster check-ins, transparent results, and personalized care portals.
+
+---
+[Back to Index](README.md) | [Next: Core Features →](02-features.md)

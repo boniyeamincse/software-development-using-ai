@@ -14,3 +14,6 @@ The HMS uses a **Mission-Critical Microservices Architecture** designed for 99.9
 - **NoSQL / FHIR Data Store**: Storing semi-structured Electronic Health Records for interoperability.
 - **Object Store (S3)**: High-security storage for images and document attachments.
 - **Real-Time Data**: Redis for active vital-sign stream caching.
+
+---
+[← Previous: User Roles & Permissions](04-user-roles.md) | [Back to Index](README.md) | [Next: Database Design →](06-database-design.md)

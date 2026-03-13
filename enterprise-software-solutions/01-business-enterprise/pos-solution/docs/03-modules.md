@@ -17,3 +17,6 @@ The background worker that communicates sales data to the central ERP/Warehouse.
 
 ## Store Manager Portal
 The administrative layer for closing shifts, analyzing local sales, and managing staff permissions.
+
+---
+[← Previous: Core Features](02-features.md) | [Back to Index](README.md) | [Next: User Roles & Permissions →](04-user-roles.md)

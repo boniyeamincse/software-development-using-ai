@@ -18,3 +18,6 @@
 - **One-to-Many**: One Review can have multiple Media items.
 - **One-to-One**: One Review has one Sentiment profile record.
 - **One-to-One**: One Staff Response per Review (standard business rule).
+
+---
+[← Previous: System Architecture](05-system-architecture.md) | [Back to Index](README.md) | [Next: API Design →](07-api-design.md)

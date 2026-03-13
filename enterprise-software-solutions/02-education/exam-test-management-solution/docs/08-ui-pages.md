@@ -16,3 +16,6 @@
 ## 4. Result Dashboard
 - Graphic breakdown of performance (Pie charts of grade distribution).
 - "Topper List" and "Subject-wise Analytics."
+
+---
+[← Previous: API Design](07-api-design.md) | [Back to Index](README.md) | [Next: System Workflows →](09-workflow.md)

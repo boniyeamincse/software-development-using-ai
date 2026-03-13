@@ -25,3 +25,6 @@
 ## 6. Outcome Visualization Suite
 - Heatmaps of patient progress across different modalities (CBT vs. DBT).
 - Comparative data for Clinical Directors to see treatment efficacy per team.
+
+---
+[← Previous: API Design](07-api-design.md) | [Back to Index](README.md) | [Next: System Workflows →](09-workflow.md)

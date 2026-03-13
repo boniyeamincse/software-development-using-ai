@@ -18,3 +18,6 @@ A comprehensive, modular ERP engine that centralizes data from every corner of t
 - **Process Automation**: Automating workflows across departments (e.g., Procurement-to-Pay).
 - **Real-Time Visibility**: Instant insights into inventory levels, cash flow, and production status.
 - **Scalability & Compliance**: Built-in support for multiple currencies, languages, and global tax regulations.
+
+---
+[Back to Index](README.md) | [Next: Core Features →](02-features.md)

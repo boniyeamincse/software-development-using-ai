@@ -14,3 +14,6 @@
 - **Trauma-Offline Mode**: ER registers can continue clinical documentation using local edge databases if the main cloud or data-center connectivity is lost.
 - **Strict Identity Scoping**: Ensuring a Radiologist can see the "Lungs" but perhaps not the patient's "Psychiatric History" unless relevant.
 - **Data Disposal Policies**: Automated enforcement of medical record retention laws (e.g., permanent deletion after 20 years).
+
+---
+[← Previous: Technology Stack](10-tech-stack.md) | [Back to Index](README.md) | [Next: Deployment Strategy →](12-deployment.md)

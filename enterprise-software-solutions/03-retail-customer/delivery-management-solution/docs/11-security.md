@@ -11,3 +11,6 @@
 ## Compliance
 - **GDPR**: Tools for managing recipient address data deletion.
 - **E-Signature Laws**: Ensuring digital signatures meet local legal standards (e.g., eIDAS).
+
+---
+[← Previous: Technology Stack](10-tech-stack.md) | [Back to Index](README.md) | [Next: Deployment Strategy →](12-deployment.md)

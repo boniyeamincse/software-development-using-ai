@@ -35,3 +35,6 @@
 - **Competitor Sentiment Comparison**: (Optional) analyzing market-wide feedback.
 - **Executive Performance Digest**: summarizing brand health for leadership.
 - **Voice of the Customer (VoC) Reports**: transforming feedback into product roadmap tasks.
+
+---
+[← Previous: Task Status](15-task-status.md) | [Back to Index](README.md)

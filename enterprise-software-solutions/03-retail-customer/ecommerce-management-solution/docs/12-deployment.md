@@ -13,3 +13,6 @@ Retail is defined by "Peaks" (Black Friday, Cyber Monday).
 
 ## Global Consistency
 - **Multi-Region Database**: Using Global Tables (e.g., DynamoDB) for low-latency writes across continents.
+
+---
+[← Previous: Security & Compliance](11-security.md) | [Back to Index](README.md) | [Next: Roadmap & Future Enhancements →](13-future-features.md)

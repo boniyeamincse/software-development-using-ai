@@ -16,3 +16,6 @@
 - **HL7 v2 / FHIR R4**: Standardized endpoints for sharing data with external providers.
 - **DICOM Web**: Secure API for retrieving and viewing medical imaging.
 - **HIPAA Audit Log**: Every GET request on patient data is logged with `user_id` and `purpose_code`.
+
+---
+[← Previous: Database Design](06-database-design.md) | [Back to Index](README.md) | [Next: UI Pages →](08-ui-pages.md)

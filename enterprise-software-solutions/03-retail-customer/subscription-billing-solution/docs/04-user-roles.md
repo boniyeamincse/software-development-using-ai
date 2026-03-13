@@ -8,3 +8,6 @@
 | **Customer Success** | Read-Only | Viewing subscription status to assist with support tickets. |
 | **Customer** | Self-Service | Managing their own payment info and plan selection. |
 | **Automated System** | Machine-Access | Executing recurring charges and revenue recognition logic. |
+
+---
+[← Previous: System Modules](03-modules.md) | [Back to Index](README.md) | [Next: System Architecture →](05-system-architecture.md)

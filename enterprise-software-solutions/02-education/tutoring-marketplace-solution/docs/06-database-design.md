@@ -57,3 +57,6 @@
 - One tutor can teach many subjects and have many time slots.
 - One booking can generate one or many sessions.
 - One completed session can create one review window and one payout eligibility event.
+
+---
+[← Previous: System Architecture](05-system-architecture.md) | [Back to Index](README.md) | [Next: API Design →](07-api-design.md)

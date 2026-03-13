@@ -8,3 +8,6 @@
 - **Blockchain for Credentials**: Digital diplomas verified on a private ledger to prevent forgery.
 - **WAF (Web Application Firewall)**: Mitigating DDoS attacks during high-traffic registration windows.
 - **Vulnerability Scanning**: Weekly scans of all endpoint dependencies.
+
+---
+[← Previous: Technology Stack](10-tech-stack.md) | [Back to Index](README.md) | [Next: Deployment Strategy →](12-deployment.md)

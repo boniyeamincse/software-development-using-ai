@@ -23,3 +23,6 @@
 ## 6. Secure Incident Reporter
 - Minimalist, high-security interface for anonymous breach reporting.
 - Encrypted document upload for evidence of compliance failures.
+
+---
+[← Previous: API Design](07-api-design.md) | [Back to Index](README.md) | [Next: System Workflows →](09-workflow.md)

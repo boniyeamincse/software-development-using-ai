@@ -9,3 +9,6 @@
 
 ## Immersive Learning
 - Integrated Lab booking system for VR/AR research facilities.
+
+---
+[← Previous: Deployment Strategy](12-deployment.md) | [Back to Index](README.md) | [Next: Development Prompts →](14-development-prompts.md)

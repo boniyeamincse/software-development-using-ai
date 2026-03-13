@@ -14,3 +14,6 @@
 - **WAF & DDoS Protection**: Shielding the virtual clinic from downtime and malicious bot activity.
 - **HIPAA Data Sovereignty**: Ensuring medical data remains within the patient's country/region for legal compliance.
 - **Regular Penetration Testing**: Quarterly third-party security audits of the media and EHR-sync layers.
+
+---
+[← Previous: Technology Stack](10-tech-stack.md) | [Back to Index](README.md) | [Next: Deployment Strategy →](12-deployment.md)

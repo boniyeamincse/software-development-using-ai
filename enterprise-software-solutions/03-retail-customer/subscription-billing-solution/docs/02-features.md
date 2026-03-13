@@ -25,3 +25,6 @@
 ## 6. Revenue Recognition (GAAP/IFRS)
 - Automated splitting of revenue into recognized and deferred categories.
 - Integration with accounting software like NetSuite, QuickBooks, or Xero.
+
+---
+[← Previous: System Overview](01-overview.md) | [Back to Index](README.md) | [Next: System Modules →](03-modules.md)

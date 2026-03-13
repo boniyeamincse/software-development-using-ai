@@ -14,3 +14,6 @@ A high-level dashboard offering real-time visibility into the organization’s o
 
 ## System Administration & Security
 The central point for managing user access, system configurations, and integration webhooks.
+
+---
+[← Previous: Core Features](02-features.md) | [Back to Index](README.md) | [Next: User Roles & Permissions →](04-user-roles.md)

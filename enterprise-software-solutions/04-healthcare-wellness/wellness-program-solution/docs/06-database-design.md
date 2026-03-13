@@ -25,3 +25,6 @@
 - **Many-to-Many**: Users can participate in multiple concurrent Challenges.
 - **One-to-Many**: One User has a continuous stream of Wearable Ingestion points.
 - **One-to-Many**: One User has multiple historical Health Assessments.
+
+---
+[← Previous: System Architecture](05-system-architecture.md) | [Back to Index](README.md) | [Next: API Design →](07-api-design.md)

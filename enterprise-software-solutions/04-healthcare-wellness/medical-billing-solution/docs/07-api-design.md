@@ -16,3 +16,6 @@
 - **Strict PII Scoping**: Billing APIs only expose financial-relevant data; sensitive clinical SOAP notes are not transmitted.
 - **HMAC + JWE**: For all EDI payloads to ensure integrity and privacy during transmission.
 - **IP Whitelisting**: Restricting API access to authorized EHR and Clearinghouse endpoints.
+
+---
+[← Previous: Database Design](06-database-design.md) | [Back to Index](README.md) | [Next: UI Pages →](08-ui-pages.md)

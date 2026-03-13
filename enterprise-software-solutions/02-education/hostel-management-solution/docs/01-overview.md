@@ -396,3 +396,6 @@ This project represents best practices in:
 ---
 
 **Ready to transform hostel management! 🚀**
+
+---
+[Back to Index](README.md) | [Next: Core Features →](02-features.md)

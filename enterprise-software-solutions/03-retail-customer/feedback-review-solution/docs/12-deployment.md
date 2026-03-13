@@ -11,3 +11,6 @@
 ## Automated Testing
 - **NLP Accuracy Tests**: Regularly checking the model against "Gold Standard" datasets to prevent sentiment drift.
 - **Widget Compatibility**: Automated browser-testing on multiple e-commerce themes.
+
+---
+[← Previous: Security & Compliance](11-security.md) | [Back to Index](README.md) | [Next: Roadmap & Future Enhancements →](13-future-features.md)

@@ -34,3 +34,6 @@
 
 ### Prompt 10: AI-Powered Membership Personalization
 "Develop a service that recommends the 'Next Best Plan' to a user based on their usage patterns (e.g., if they are using 90% of their current tier's limits, suggest an upgrade). Provide personalized content recommendations for members."
+
+---
+[← Previous: Roadmap & Future Enhancements](13-future-features.md) | [Back to Index](README.md) | [Next: Task Status →](15-task-status.md)

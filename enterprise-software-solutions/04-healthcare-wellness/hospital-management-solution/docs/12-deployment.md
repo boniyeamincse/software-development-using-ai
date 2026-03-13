@@ -12,3 +12,6 @@
 - **Med-Device Interop Tests**: Automated suites simulating HL7 signals from dozens of different device manufacturers.
 - **Trauma Load Testing**: Simulating a steady-state 5,000 active encounters with spikes of 500 "Trauma Admits" in 10 minutes.
 - **Usability Validation**: Ensuring the "Red Notification" targets are reachable and clear on tablets used in high-glare environments.
+
+---
+[← Previous: Security & Compliance](11-security.md) | [Back to Index](README.md) | [Next: Roadmap & Future Enhancements →](13-future-features.md)

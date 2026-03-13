@@ -14,3 +14,6 @@ The Yoga Studio Solution utilizes a **Lightweight Cloud-First Architecture** des
 - **Cache Layer (Redis)**: Storing active class availability and session tokens for the mobile app.
 - **Object Store (S3)**: Highly secure storage for teacher-training manuals and educational videos.
 - **CMS Layer**: Contentful or Sanity for managing studio newsletters and healthy-lifestyle blogs.
+
+---
+[← Previous: User Roles & Permissions](04-user-roles.md) | [Back to Index](README.md) | [Next: Database Design →](06-database-design.md)

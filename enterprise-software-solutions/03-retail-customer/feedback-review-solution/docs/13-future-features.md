@@ -11,3 +11,6 @@
 ## Marketplace & Social
 - **Shoppable Reviews**: Turning customer photos directly into buyable product links within the widget.
 - **Social Media Auto-Poster**: AI that identifies high-quality reviews and automatically crops them into Instagram Stories or TikTok templates.
+
+---
+[← Previous: Deployment Strategy](12-deployment.md) | [Back to Index](README.md) | [Next: Development Prompts →](14-development-prompts.md)

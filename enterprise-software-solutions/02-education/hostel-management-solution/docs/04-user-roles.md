@@ -349,3 +349,6 @@ The system supports 8 distinct user roles, each with specific permissions and re
 ---
 
 **8 roles ensuring secure and organized access! 🔐**
+
+---
+[← Previous: System Modules](03-modules.md) | [Back to Index](README.md) | [Next: System Architecture →](05-system-architecture.md)

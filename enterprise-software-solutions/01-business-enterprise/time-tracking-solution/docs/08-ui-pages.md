@@ -18,3 +18,6 @@
 ## 5. Mobile Companion App
 - Simplified "Tap-to-Track" interface with location-aware project suggestions.
 - Push notification center for submission reminders.
+
+---
+[← Previous: API Design](07-api-design.md) | [Back to Index](README.md) | [Next: System Workflows →](09-workflow.md)

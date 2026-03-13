@@ -13,3 +13,6 @@
 2. System daily increments a fine (e.g., $1.00/day).
 3. Student's borrowing privileges are "Suspended" if fine exceeds $10.00.
 4. On return, student prompted to pay fine via integrated portal.
+
+---
+[← Previous: UI Pages](08-ui-pages.md) | [Back to Index](README.md) | [Next: Technology Stack →](10-tech-stack.md)

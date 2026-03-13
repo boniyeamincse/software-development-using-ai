@@ -9,3 +9,6 @@
 | **Compliance Officer** | Audit Access | Reviewing billing logs for fraudulent patterns or HIPAA violations. |
 | **Clearinghouse Agent** | API Only | Automated machine-to-machine data exchange. |
 | **Patient** | Portal Only | Viewing statements, paying bills, updating insurance info. |
+
+---
+[← Previous: System Modules](03-modules.md) | [Back to Index](README.md) | [Next: System Architecture →](05-system-architecture.md)

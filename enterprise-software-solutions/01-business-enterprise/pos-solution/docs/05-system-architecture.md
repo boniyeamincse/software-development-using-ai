@@ -13,3 +13,6 @@ The POS Solution utilizes a **Distributed Edge Architecture** to ensure that phy
 - **Local DB (SQLite/IndexedDB)**: Storing active catalog and last-24h transaction data for offline support.
 - **Cloud DB (PostgreSQL)**: The master repository for all historical sales and global inventory data.
 - **Hardware Bridge**: A specialized low-level layer to interface via USB, Bluetooth, or IP with printers and terminals.
+
+---
+[← Previous: User Roles & Permissions](04-user-roles.md) | [Back to Index](README.md) | [Next: Database Design →](06-database-design.md)

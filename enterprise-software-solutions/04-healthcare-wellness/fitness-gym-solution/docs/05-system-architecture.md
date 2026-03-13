@@ -14,3 +14,6 @@ The Fitness Solution utilizes a **High-Availability Cloud Engine** paired with *
 - **Cache Layer (Redis)**: Real-time class availability and session state for the member app.
 - **Edge Cache**: Localized copy of active member IDs at the physical gym location for offline entry.
 - **Stream Processing**: Apache Kafka or RabbitMQ for processing high-volume check-in events and alerts.
+
+---
+[← Previous: User Roles & Permissions](04-user-roles.md) | [Back to Index](README.md) | [Next: Database Design →](06-database-design.md)

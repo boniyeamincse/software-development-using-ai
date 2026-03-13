@@ -29,3 +29,6 @@
 | SYNC-01| Campus SIS & Identity Integration | High | ⏳ Pending | Backend |
 | SYNC-02| Digital Subscription (LTI) Manager | Medium | ⏳ Pending | Backend |
 | SYNC-03| Resource Engagement & Dead Stock Analytics| Low | ⏳ Pending | Data Team |
+
+---
+[← Previous: Development Prompts](14-development-prompts.md) | [Back to Index](README.md) | [Next: Complete Modules List →](16-complete-modules-list.md)

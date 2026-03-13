@@ -12,3 +12,6 @@ The system is built on a **High-Throughput Geo-Spatial Architecture** to handle 
 ## Performance Tier
 - **Optimization Engine**: C++ or Rust based microservice for solving the Vehicle Routing Problem (VRP).
 - **Cache**: Redis for storing current "Last Known Position" of all drivers.
+
+---
+[← Previous: User Roles & Permissions](04-user-roles.md) | [Back to Index](README.md) | [Next: Database Design →](06-database-design.md)

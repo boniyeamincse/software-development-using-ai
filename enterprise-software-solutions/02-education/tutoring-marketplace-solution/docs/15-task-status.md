@@ -31,3 +31,6 @@
 | CLS-02 | Shared Whiteboard & Code Editor | Medium | ⏳ Pending | Frontend |
 | CLS-03 | Session Recording & Playback | Low | ⏳ Pending | DevOps |
 | CLS-04 | Homework & Resource Sharing | Medium | ⏳ Pending | Frontend |
+
+---
+[← Previous: Development Prompts](14-development-prompts.md) | [Back to Index](README.md) | [Next: Complete Modules List →](16-complete-modules-list.md)

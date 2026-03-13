@@ -28,3 +28,6 @@
 | AWD-02 | Financial Aid (SIS) Integration Sync | Critical | ⏳ Pending | Backend |
 | AWD-03 | Donor Management & Impact Reporting | Low | ⏳ Pending | Frontend |
 | AWD-04 | Renewal & Compliance Monitor | Medium | ⏳ Pending | Backend |
+
+---
+[← Previous: Development Prompts](14-development-prompts.md) | [Back to Index](README.md) | [Next: Complete Modules List →](16-complete-modules-list.md)

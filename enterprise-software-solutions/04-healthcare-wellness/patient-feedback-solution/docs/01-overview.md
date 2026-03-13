@@ -18,3 +18,6 @@ An agile, multi-channel feedback ecosystem that reaches patients at the "Moment 
 - **Real-Time Recovery**: Instant alerts for negative feedback allowing clinical managers to intervene immediately.
 - **Transparent Quality**: Providing departments with clear, comparative data on staff performance and patient satisfaction.
 - **Compliance Alignment**: Automating the collection and reporting of mandatory regulatory satisfaction metrics.
+
+---
+[Back to Index](README.md) | [Next: Core Features →](02-features.md)

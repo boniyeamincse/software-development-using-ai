@@ -9,3 +9,6 @@
 | **Front Desk Karma** | Limited Ops | Student check-in, selling passes, basic retail sales. |
 | **Student** | Personal App | Booking classes, buying passes, tracking practice journey. |
 | **Brand Partner** | Limited API | Access for external tea or gear vendors to track sales. |
+
+---
+[← Previous: System Modules](03-modules.md) | [Back to Index](README.md) | [Next: System Architecture →](05-system-architecture.md)

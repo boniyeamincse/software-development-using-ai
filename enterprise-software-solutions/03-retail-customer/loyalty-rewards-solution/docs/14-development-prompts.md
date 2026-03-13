@@ -34,3 +34,6 @@
 
 ### Prompt 10: AI-Powered 'At-Risk' Member Predictor
 "Develop a machine learning model that identifies loyalty members who haven't engaged in 60+ days but were previously active. Provide a 'Churn Risk Score' and trigger a specialized 'We Miss You' reward campaign for those users."
+
+---
+[← Previous: Roadmap & Future Enhancements](13-future-features.md) | [Back to Index](README.md) | [Next: Task Status →](15-task-status.md)

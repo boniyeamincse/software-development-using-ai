@@ -14,3 +14,6 @@ The real-time communication module that handles live web chats and social media 
 
 ## Analytics & Insights Module
 A reporting suite that tracks agent performance, customer satisfaction (CSAT), and support volume trends.
+
+---
+[← Previous: Core Features](02-features.md) | [Back to Index](README.md) | [Next: User Roles & Permissions →](04-user-roles.md)

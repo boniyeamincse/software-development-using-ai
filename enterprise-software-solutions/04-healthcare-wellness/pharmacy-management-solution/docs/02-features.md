@@ -29,3 +29,6 @@
 - **Centralized Purchasing**: Group-buying thresholds and automated vendor RFP generation.
 - **Internal Transfers**: Easily moving stock between pharmacy branches to meet local demand.
 - **Financial Dashboards**: Real-time gross margin and inventory turnover analytics.
+
+---
+[← Previous: System Overview](01-overview.md) | [Back to Index](README.md) | [Next: System Modules →](03-modules.md)

@@ -18,3 +18,6 @@ An integrated platform featuring RFID/Barcode tracking, a unified search (OPAC),
 - **Unified Cataloging**: A single source of truth for all physical and digital media.
 - **Enhance Discovery**: AI-driven recommendations based on student reading history.
 - **Reduce Delinquency**: Automated multi-channel reminders for overdue items.
+
+---
+[Back to Index](README.md) | [Next: Core Features →](02-features.md)

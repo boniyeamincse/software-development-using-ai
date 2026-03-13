@@ -12,3 +12,6 @@
 ## Modern Experiences
 - **AR Project War-Room**: A virtual space for remote teams to visually organize their "Infinite Whiteboard" tasks in 3D.
 - **Voice-First Tasking**: Full support for updating task status and logging time via voice assistants.
+
+---
+[← Previous: Deployment Strategy](12-deployment.md) | [Back to Index](README.md) | [Next: Development Prompts →](14-development-prompts.md)

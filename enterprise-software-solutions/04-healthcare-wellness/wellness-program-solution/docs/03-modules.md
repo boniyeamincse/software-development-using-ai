@@ -20,3 +20,6 @@ Syncs with payroll and insurance systems to distribute financial and corporate p
 
 ## Content & Media Library
 The CMS for managing mindfulness audio, nutritional videos, and health education articles.
+
+---
+[← Previous: Core Features](02-features.md) | [Back to Index](README.md) | [Next: User Roles & Permissions →](04-user-roles.md)

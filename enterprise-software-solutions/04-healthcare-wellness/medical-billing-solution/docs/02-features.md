@@ -29,3 +29,6 @@
 - **KPI Tracking**: Real-time visibility into Gross Collection Ratio, Days in AR, and Denial Rates.
 - **Payer Performance**: Comparison of reimbursement speed and accuracy across different insurance companies.
 - **Provider Productivity**: Analyzing billing volume and collection success per clinician.
+
+---
+[← Previous: System Overview](01-overview.md) | [Back to Index](README.md) | [Next: System Modules →](03-modules.md)

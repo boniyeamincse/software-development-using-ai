@@ -20,3 +20,6 @@ A motivating interface for frontline staff to see their impact and patient prais
 
 ## Regulatory Reporting Vault
 Generates the standardized datasets required for government and insurance quality audits.
+
+---
+[← Previous: Core Features](02-features.md) | [Back to Index](README.md) | [Next: User Roles & Permissions →](04-user-roles.md)

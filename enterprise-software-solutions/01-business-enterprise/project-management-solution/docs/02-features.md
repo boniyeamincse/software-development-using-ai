@@ -29,3 +29,6 @@
 - Customizable project dashboards showing health, velocity, and burn-down.
 - Automated weekly status reports generated and emailed to stakeholders.
 - Cross-project portfolio reporting for executive visibility.
+
+---
+[← Previous: System Overview](01-overview.md) | [Back to Index](README.md) | [Next: System Modules →](03-modules.md)

@@ -12,3 +12,6 @@
 - **Rate Limiting**: Protecting the real-time websocket layer from abusive automated updates.
 - **End-to-End Encryption**: Optional for highly sensitive project descriptions and attachments.
 - **SSO Integration**: SAML/OAuth integration for enterprise-wide user management.
+
+---
+[← Previous: Technology Stack](10-tech-stack.md) | [Back to Index](README.md) | [Next: Deployment Strategy →](12-deployment.md)

@@ -12,3 +12,6 @@ The system uses a **Hybrid Cloud Architecture** to support both global digital a
 ## Asset Tier
 - **Object Storage (S3)**: For digital manuscripts and e-books with version control.
 - **Distributed Cache (Redis)**: For high-speed session management at the circulation desk.
+
+---
+[← Previous: User Roles & Permissions](04-user-roles.md) | [Back to Index](README.md) | [Next: Database Design →](06-database-design.md)

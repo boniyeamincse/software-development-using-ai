@@ -17,3 +17,6 @@
 - **Dynamic Access Tokens**: QR codes in the app rotate every 30 seconds to prevent "Entry Sharing."
 - **Encrypted Member PII**: Masking sensitive contact info from frontline staff.
 - **Hardware HMAC Signature**: All check-in data from IoT controllers must be signed by the local gateway.
+
+---
+[← Previous: Database Design](06-database-design.md) | [Back to Index](README.md) | [Next: UI Pages →](08-ui-pages.md)

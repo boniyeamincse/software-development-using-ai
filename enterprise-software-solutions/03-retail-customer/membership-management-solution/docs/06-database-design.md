@@ -18,3 +18,6 @@
 - **One-to-Many**: One Member has multiple Subscription records (over time).
 - **Many-to-One**: Many Members on the same Plan.
 - **One-to-Many**: One Member has many Entry Logs.
+
+---
+[← Previous: System Architecture](05-system-architecture.md) | [Back to Index](README.md) | [Next: API Design →](07-api-design.md)

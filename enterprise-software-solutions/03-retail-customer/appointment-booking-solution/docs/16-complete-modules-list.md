@@ -35,3 +35,6 @@
 - **Calendar Sync Bridge**: Real-time 2-way sync with Google/Outlook/iCal.
 - **Virtual Session Gateway**: Auto-generating Zoom/Teams links for online bookings.
 - **AI Schedule Optimizer**: Predicting peak times and suggesting shift changes.
+
+---
+[← Previous: Task Status](15-task-status.md) | [Back to Index](README.md)

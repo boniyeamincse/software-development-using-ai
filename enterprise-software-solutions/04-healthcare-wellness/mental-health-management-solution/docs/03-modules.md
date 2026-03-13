@@ -20,3 +20,6 @@ Manages therapy-specific CPT coding, session authorizations, and insurance claim
 
 ## Patient Wellness App
 The mobile interface for clients to track mood, complete homework, and access support.
+
+---
+[← Previous: Core Features](02-features.md) | [Back to Index](README.md) | [Next: User Roles & Permissions →](04-user-roles.md)

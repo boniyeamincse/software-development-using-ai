@@ -29,3 +29,6 @@
 - **EHR Linkage**: Mapping feedback to specific encounter IDs, visit reasons, and wait times for deep clinical context.
 - **Action-Plan Tracker**: Integrated project management for quality teams to track facility improvements (e.g., "Upgrade ER Seating").
 - **Closed-Loop Surveys**: Re-surveying patients after a resolution to measure "Recovery CSAT."
+
+---
+[← Previous: System Overview](01-overview.md) | [Back to Index](README.md) | [Next: System Modules →](03-modules.md)

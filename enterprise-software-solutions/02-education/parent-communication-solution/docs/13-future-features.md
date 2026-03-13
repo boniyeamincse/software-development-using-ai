@@ -10,3 +10,6 @@
 
 ## Enhanced Media
 - **Live Streaming**: Integrated support for viewing graduation ceremonies or sports games directly in the app.
+
+---
+[← Previous: Deployment Strategy](12-deployment.md) | [Back to Index](README.md) | [Next: Development Prompts →](14-development-prompts.md)

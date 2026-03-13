@@ -23,3 +23,6 @@
 ## 5. Secure Delivery
 - End-to-end encrypted question paper delivery.
 - One-time password (OTP) access for invigilators.
+
+---
+[← Previous: System Overview](01-overview.md) | [Back to Index](README.md) | [Next: System Modules →](03-modules.md)

@@ -22,3 +22,6 @@
 - **One-to-Many**: One Account has multiple Contacts.
 - **One-to-Many**: One Account has multiple Opportunities.
 - **Many-to-One**: Many Activities linked to one Opportunity or Contact.
+
+---
+[← Previous: System Architecture](05-system-architecture.md) | [Back to Index](README.md) | [Next: API Design →](07-api-design.md)

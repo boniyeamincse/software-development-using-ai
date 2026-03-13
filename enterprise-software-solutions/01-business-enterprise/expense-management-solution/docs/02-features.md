@@ -29,3 +29,6 @@
 - Visual dashboards showing spend by Category, Department, or Individual.
 - Trend analysis identifying high-cost vendors for potential volume negotiations.
 - Fraud detection alerts for overlapping receipts or unusual spending patterns.
+
+---
+[← Previous: System Overview](01-overview.md) | [Back to Index](README.md) | [Next: System Modules →](03-modules.md)

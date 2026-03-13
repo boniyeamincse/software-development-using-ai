@@ -18,3 +18,6 @@ An engaging, mobile-first wellness ecosystem that integrates with wearable devic
 - **Actionable Insights**: Providing HR and insurers with anonymized data to optimize health benefits.
 - **Preventative Focus**: Driving participation in health screenings, vaccinations, and mental health checks.
 - **Seamless Integration**: Automated data sync from thousands of wearable devices and health apps.
+
+---
+[Back to Index](README.md) | [Next: Core Features →](02-features.md)

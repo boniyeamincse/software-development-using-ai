@@ -29,3 +29,6 @@
 - **Whistleblower Hot-line**: Secure, anonymous portal for reporting ethical or compliance breaches.
 - **Remediation Tracking**: Workflow for assigning and closing tasks related to compliance failures.
 - **Executive Reporting**: High-level summaries for the Board of Directors.
+
+---
+[← Previous: System Overview](01-overview.md) | [Back to Index](README.md) | [Next: System Modules →](03-modules.md)

@@ -34,3 +34,6 @@
 
 ### Prompt 10: Scholarship Renewal Checker
 "Implement a background service that annually verifies if current scholarship recipients still meet the 'Renewal Criteria' (e.g., maintaining a specific GPA or staying enrolled in a specific program). Trigger alerts for students at risk of losing funding."
+
+---
+[← Previous: Roadmap & Future Enhancements](13-future-features.md) | [Back to Index](README.md) | [Next: Task Status →](15-task-status.md)

@@ -18,3 +18,6 @@ An automated, multi-channel booking engine that offers real-time availability, i
 - **Resource Optimization**: Real-time management of staff, rooms, and equipment.
 - **Attendance Maximization**: Automated SMS/Email reminders to reduce no-shows.
 - **Seamless Payments**: Secure deposit and full-payment handling at the time of booking.
+
+---
+[Back to Index](README.md) | [Next: Core Features →](02-features.md)

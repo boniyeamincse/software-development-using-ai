@@ -16,3 +16,6 @@
 ## Security
 - **API Keys**: For external websites to embed the booking widget.
 - **CSRF Protection**: For the public-facing booking portal.
+
+---
+[← Previous: Database Design](06-database-design.md) | [Back to Index](README.md) | [Next: UI Pages →](08-ui-pages.md)

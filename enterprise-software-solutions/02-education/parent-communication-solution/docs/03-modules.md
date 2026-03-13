@@ -14,3 +14,6 @@ The background service that manages real-time message translation and cultural l
 
 ## Event Management Module
 Handles the creation of school events, RSVP tracking, and automated interview slot allocations.
+
+---
+[← Previous: Core Features](02-features.md) | [Back to Index](README.md) | [Next: User Roles & Permissions →](04-user-roles.md)

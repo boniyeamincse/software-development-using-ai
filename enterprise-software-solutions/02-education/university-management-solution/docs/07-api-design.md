@@ -14,3 +14,6 @@
 ## Integration Protocols
 - **SAML 2.0 / SSO**: Central authentication for all campus services.
 - **LTI (Learning Tools Interoperability)**: Standard for hooking in external lab simulators or e-books.
+
+---
+[← Previous: Database Design](06-database-design.md) | [Back to Index](README.md) | [Next: UI Pages →](08-ui-pages.md)

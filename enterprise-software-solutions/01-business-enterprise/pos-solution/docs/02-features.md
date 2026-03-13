@@ -29,3 +29,6 @@
 - **Flexible Pricing**: On-the-fly discounts, markdowns, and price-overrides.
 - **Shift Management**: Cash drawer reconciliation and "Blind Drops."
 - **Staff Tracking**: Detailed sales-per-employee reporting.
+
+---
+[← Previous: System Overview](01-overview.md) | [Back to Index](README.md) | [Next: System Modules →](03-modules.md)

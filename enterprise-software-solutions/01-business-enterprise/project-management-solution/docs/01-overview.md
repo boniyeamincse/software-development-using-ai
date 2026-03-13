@@ -18,3 +18,6 @@ A highly flexible, cloud-native project orchestrator that combines agile and wat
 - **Real-Time Visibility**: Instant insights into project health, milestones, and roadblocks.
 - **Collaborative Excellence**: Centralized communication and document sharing for every task.
 - **Data-Driven Success**: Comprehensive analytics on team velocity, budget burn, and project ROI.
+
+---
+[Back to Index](README.md) | [Next: Core Features →](02-features.md)

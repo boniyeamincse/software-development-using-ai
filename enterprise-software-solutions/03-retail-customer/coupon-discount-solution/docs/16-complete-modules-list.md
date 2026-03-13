@@ -35,3 +35,6 @@
 - **Campaign ROI Suite**: Performance metrics for different marketing channels.
 - **AI Discount Recommender**: predicting the minimal discount needed to convert.
 - **A/B Testing for Promotions**: testing different offers on specific user groups.
+
+---
+[← Previous: Task Status](15-task-status.md) | [Back to Index](README.md)

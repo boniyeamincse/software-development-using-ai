@@ -14,3 +14,6 @@
 - **Hosting**: AWS or Google Cloud.
 - **Monitoring**: Datadog (uptime of physical terminal devices).
 - **Payments**: Adyen, Stripe (Terminal), or Toast-integrated API.
+
+---
+[← Previous: System Workflows](09-workflow.md) | [Back to Index](README.md) | [Next: Security & Compliance →](11-security.md)

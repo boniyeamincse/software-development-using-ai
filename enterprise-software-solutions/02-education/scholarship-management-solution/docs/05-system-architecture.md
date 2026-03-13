@@ -12,3 +12,6 @@ The system follows a **Three-Tier Architecture** with a heavy emphasis on data i
 ## Security Tier
 - **Vault Integration**: Managing the secure keys for financial account integrations.
 - **Audit DB**: Every status change (e.g., Pending -> Awarded) is recorded in an immutable ledger.
+
+---
+[← Previous: User Roles & Permissions](04-user-roles.md) | [Back to Index](README.md) | [Next: Database Design →](06-database-design.md)

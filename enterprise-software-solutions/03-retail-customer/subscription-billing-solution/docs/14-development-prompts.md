@@ -34,3 +34,6 @@
 
 ### Prompt 10: AI-Powered Price Optimization
 "Develop a service that analyzes subscription conversion rates across different price points and regions. Provide recommendations for 'Optimal Pricing' to maximize revenue while maintaining a healthy growth rate."
+
+---
+[← Previous: Roadmap & Future Enhancements](13-future-features.md) | [Back to Index](README.md) | [Next: Task Status →](15-task-status.md)

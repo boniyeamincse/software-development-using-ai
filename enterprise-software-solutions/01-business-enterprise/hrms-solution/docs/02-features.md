@@ -29,3 +29,6 @@
 - Predictive turnover analysis and employee satisfaction heatmaps.
 - Diversity, Equity, and Inclusion (DEI) metrics.
 - Resource cost analysis for budget planning.
+
+---
+[← Previous: System Overview](01-overview.md) | [Back to Index](README.md) | [Next: System Modules →](03-modules.md)

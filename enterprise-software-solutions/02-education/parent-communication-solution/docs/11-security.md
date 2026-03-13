@@ -12,3 +12,6 @@
 ## Compliance
 - **GDPR / FERPA**: Adherence to international student and family privacy laws.
 - **Audit Logging**: Full history of broadcast announcements for institutional accountability.
+
+---
+[← Previous: Technology Stack](10-tech-stack.md) | [Back to Index](README.md) | [Next: Deployment Strategy →](12-deployment.md)

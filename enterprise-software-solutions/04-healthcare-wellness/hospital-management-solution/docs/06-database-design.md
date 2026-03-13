@@ -28,3 +28,6 @@
 - **One-to-Many**: One Encounter has many Clinical Observations and Orders.
 - **Many-to-Many**: Doctors and Patients can interact across multiple specialized Wards.
 - **One-to-One**: One Bed is assigned to exactly one Patient during an active inpatient session.
+
+---
+[← Previous: System Architecture](05-system-architecture.md) | [Back to Index](README.md) | [Next: API Design →](07-api-design.md)

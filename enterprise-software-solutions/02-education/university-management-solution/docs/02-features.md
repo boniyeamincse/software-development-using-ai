@@ -23,3 +23,6 @@
 ## 6. Financial Services
 - Complex fee structures (International vs. Domestic tuition).
 - Integration with scholarship and financial aid disbursements.
+
+---
+[← Previous: System Overview](01-overview.md) | [Back to Index](README.md) | [Next: System Modules →](03-modules.md)

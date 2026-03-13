@@ -11,3 +11,6 @@
 ## Automated Pipelines
 - **Smoke Tests**: Verifying the booking lock logic after every deployment.
 - **Canary Rollouts**: Testing new UI changes with 5% of traffic initially.
+
+---
+[← Previous: Security & Compliance](11-security.md) | [Back to Index](README.md) | [Next: Roadmap & Future Enhancements →](13-future-features.md)

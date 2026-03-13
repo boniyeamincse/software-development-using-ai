@@ -17,3 +17,6 @@
 
 ## 5. Procurement Portal
 - Shopping-cart style interface for librarians to request books from publishers.
+
+---
+[← Previous: API Design](07-api-design.md) | [Back to Index](README.md) | [Next: System Workflows →](09-workflow.md)

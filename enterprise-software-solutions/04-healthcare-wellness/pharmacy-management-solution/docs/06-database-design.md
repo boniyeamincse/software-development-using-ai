@@ -25,3 +25,6 @@
 - **Many-to-One**: Many Stock Batches link to one Drug Master record.
 - **Many-to-Many**: Insurance Payers cover many Drugs with different copay tiers.
 - **One-to-One**: Every Narcotic dispense event must link to a unique Ledger entry.
+
+---
+[← Previous: System Architecture](05-system-architecture.md) | [Back to Index](README.md) | [Next: API Design →](07-api-design.md)

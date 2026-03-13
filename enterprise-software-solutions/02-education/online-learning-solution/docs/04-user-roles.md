@@ -285,3 +285,5 @@ System Administrator
 - Write: All data
 - Delete: User accounts, courses, data (with audit trail)
 
+---
+[← Previous: System Modules](03-modules.md) | [Back to Index](README.md) | [Next: System Architecture →](05-system-architecture.md)

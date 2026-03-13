@@ -14,3 +14,6 @@
 - **Database**: PostgreSQL (Relational) + Redis (Cache).
 - **Hardware Integration**: ESP32 or Raspberry Pi gateways at physical entry points.
 - **Monitoring**: Datadog (uptime and billing logs).
+
+---
+[← Previous: System Workflows](09-workflow.md) | [Back to Index](README.md) | [Next: Security & Compliance →](11-security.md)

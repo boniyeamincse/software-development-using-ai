@@ -561,3 +561,5 @@ holiday:calendar:{year} → Holiday calendar
 
 The School Management System architecture is designed with separation of concerns, scalability, and security in mind. The layered architecture allows for independent development, testing, and deployment of different components. The service layer pattern ensures that business logic is reusable and testable, while the repository pattern abstracts data access operations.
 
+---
+[← Previous: User Roles & Permissions](04-user-roles.md) | [Back to Index](README.md) | [Next: Database Design →](06-database-design.md)

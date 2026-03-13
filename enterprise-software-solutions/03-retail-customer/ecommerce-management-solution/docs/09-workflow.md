@@ -14,3 +14,6 @@
 3. Customer ships item back; Logistics confirms receipt.
 4. System triggers automated refund via original payment gateway.
 5. Inventory restocked automatically.
+
+---
+[← Previous: UI Pages](08-ui-pages.md) | [Back to Index](README.md) | [Next: Technology Stack →](10-tech-stack.md)

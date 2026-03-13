@@ -14,3 +14,6 @@
 - **Hosting**: Hybrid-Cloud (AWS + On-Premise synchronization).
 - **Messaging**: Apache Kafka.
 - **Monitoring**: Datadog (Transactional tracking and hardware metrics).
+
+---
+[← Previous: System Workflows](09-workflow.md) | [Back to Index](README.md) | [Next: Security & Compliance →](11-security.md)

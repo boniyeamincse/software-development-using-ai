@@ -18,3 +18,6 @@ A comprehensive, cloud-native CRM engine that bridges the gap between marketing,
 - **Sales Automation**: Workflows that handle repetitive tasks like follow-up emails and lead assignment.
 - **Pipeline Visibility**: Real-time tracking of deal stages, probability, and weighted revenue.
 - **Actionable Intelligence**: Data-driven recommendations for the "Next Best Action" to take with a customer.
+
+---
+[Back to Index](README.md) | [Next: Core Features →](02-features.md)

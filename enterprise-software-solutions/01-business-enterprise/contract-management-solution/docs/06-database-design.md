@@ -24,3 +24,6 @@
 - **One-to-Many**: One Contract has multiple Revisions.
 - **Many-to-Many**: One Contract can have multiple active Parties.
 - **One-to-Many**: One Master Agreement has many Statements of Work (SOWs).
+
+---
+[← Previous: System Architecture](05-system-architecture.md) | [Back to Index](README.md) | [Next: API Design →](07-api-design.md)

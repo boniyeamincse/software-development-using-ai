@@ -12,3 +12,6 @@
 - **Off-Site Backups**: Compliance data is backed up to a physically separate, high-security data center.
 - **RTO/RPO Metrics**: Guaranteed recovery within 1 hour to maintain audit continuity.
 - **Legal Hold Logic**: Preventing the deletion of any data related to active investigations or regulatory audits.
+
+---
+[← Previous: Technology Stack](10-tech-stack.md) | [Back to Index](README.md) | [Next: Deployment Strategy →](12-deployment.md)

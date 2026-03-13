@@ -23,3 +23,6 @@
 - **One-to-Many**: One Sale has multiple Line Items.
 - **One-to-Many**: One Store has many Registers and Shifts.
 - **Many-to-Many**: Products can belong to multiple Stores with different stock levels.
+
+---
+[← Previous: System Architecture](05-system-architecture.md) | [Back to Index](README.md) | [Next: API Design →](07-api-design.md)

@@ -22,3 +22,6 @@
 3. Facilitator marks attendance via the visual group seating chart.
 4. Collaborative group summary is written; Individual-specific impacts are noted separately.
 5. Billing system automatically generates individual charges for each participant.
+
+---
+[← Previous: UI Pages](08-ui-pages.md) | [Back to Index](README.md) | [Next: Technology Stack →](10-tech-stack.md)

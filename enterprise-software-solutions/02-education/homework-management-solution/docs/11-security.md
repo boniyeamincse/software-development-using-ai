@@ -10,3 +10,6 @@
 
 ## Authentication
 - **OAuth 2.0 Integration**: Support for "Login with Google/Microsoft for Education."
+
+---
+[← Previous: Technology Stack](10-tech-stack.md) | [Back to Index](README.md) | [Next: Deployment Strategy →](12-deployment.md)

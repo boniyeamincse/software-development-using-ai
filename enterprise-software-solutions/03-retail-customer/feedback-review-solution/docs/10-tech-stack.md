@@ -14,3 +14,6 @@
 - **Object Storage**: AWS S3 (for photos/videos).
 - **CDN**: Cloudflare (for fast widget delivery).
 - **Containerization**: Docker & Kubernetes (GKE or EKS).
+
+---
+[← Previous: System Workflows](09-workflow.md) | [Back to Index](README.md) | [Next: Security & Compliance →](11-security.md)

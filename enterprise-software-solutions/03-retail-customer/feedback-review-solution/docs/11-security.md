@@ -11,3 +11,6 @@
 ## Privacy
 - **GDPR compliance**: Providing customers the ability to delete their review history.
 - **Encryption**: AES-256 at rest for all stored sensitive data.
+
+---
+[← Previous: Technology Stack](10-tech-stack.md) | [Back to Index](README.md) | [Next: Deployment Strategy →](12-deployment.md)

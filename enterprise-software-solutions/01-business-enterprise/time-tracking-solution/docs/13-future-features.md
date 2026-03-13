@@ -12,3 +12,6 @@
 ## Modern Productivity
 - **Focus Mode SDK**: Integration with productivity apps to block distractions while the "Enterprise Core" timer is active.
 - **Team Flow Monitoring**: Identifying "Deep Work" patterns to help managers schedule meetings without breaking team focus.
+
+---
+[← Previous: Deployment Strategy](12-deployment.md) | [Back to Index](README.md) | [Next: Development Prompts →](14-development-prompts.md)

@@ -11,3 +11,6 @@
 ## Community & Social
 - **Peer-to-Peer Gifting**: Allowing friends to transfer loyalty points to one another.
 - **Communal Goals**: Group challenges (e.g., "If the community reaches 1M points, everyone gets a free coffee").
+
+---
+[← Previous: Deployment Strategy](12-deployment.md) | [Back to Index](README.md) | [Next: Development Prompts →](14-development-prompts.md)

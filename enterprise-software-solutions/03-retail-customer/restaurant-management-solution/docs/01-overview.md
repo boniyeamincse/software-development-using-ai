@@ -18,3 +18,6 @@ A cloud-native Point of Sale (POS) and Kitchen Display System (KDS) that central
 - **Kitchen Efficiency**: Digital KDS and "Bump" stations to reduce ticket times.
 - **Real-Time Food Costing**: Tracking every gram of inventory from the loading dock to the plate.
 - **Guest Loyalty**: Integrated CRM for personalized dining experiences and rewards.
+
+---
+[Back to Index](README.md) | [Next: Core Features →](02-features.md)

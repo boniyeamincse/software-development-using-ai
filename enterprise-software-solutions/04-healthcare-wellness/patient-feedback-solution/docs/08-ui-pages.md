@@ -23,3 +23,6 @@
 ## 6. Regulatory Export Center
 - One-click dataset generation for HCAHPS and insurance-specific quality metrics.
 - Compliance tracker showing progress toward survey-volume benchmarks.
+
+---
+[← Previous: API Design](07-api-design.md) | [Back to Index](README.md) | [Next: System Workflows →](09-workflow.md)

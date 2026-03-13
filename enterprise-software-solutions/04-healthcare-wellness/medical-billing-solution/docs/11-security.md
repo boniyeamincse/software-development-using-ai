@@ -14,3 +14,6 @@
 - **Vulnerability Scanning**: Weekly automated scans for dependency and cloud config vulnerabilities.
 - **EDI Validation**: Ensuring no malicious code is injected into inbound 835 or 271 files.
 - **Encrypted EDI Tunnels**: All transmissions to clearinghouses occur over encrypted, authenticated channels.
+
+---
+[← Previous: Technology Stack](10-tech-stack.md) | [Back to Index](README.md) | [Next: Deployment Strategy →](12-deployment.md)

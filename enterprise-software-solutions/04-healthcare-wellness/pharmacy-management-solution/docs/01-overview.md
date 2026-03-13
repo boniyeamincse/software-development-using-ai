@@ -18,3 +18,6 @@ An integrated, secure pharmacy ecosystem that automates clinical checks, streaml
 - **Operational Precision**: Lean inventory management with automated reordering and waste reduction.
 - **Regulatory Compliance**: Total auditability of controlled substances and adherence to HIPAA/GDPR standards.
 - **Financial Performance**: Fast insurance reconciliation and optimized procurement cycles.
+
+---
+[Back to Index](README.md) | [Next: Core Features →](02-features.md)

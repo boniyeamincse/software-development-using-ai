@@ -13,3 +13,6 @@
 
 ## Observability
 - **Prometheus & Grafana**: Tracking system load during high-concurrency events (like Results day).
+
+---
+[← Previous: System Workflows](09-workflow.md) | [Back to Index](README.md) | [Next: Security & Compliance →](11-security.md)

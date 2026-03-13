@@ -17,3 +17,6 @@
 - **Dynamic Scoping**: HR Admins CANNOT access individual `hra_data`. Access is limited to aggregated, anonymized metrics.
 - **HMAC Signatures**: Verification of all device-originating activity data.
 - **AES-256 GCM**: Encryption for all HRA and clinical coaching message payloads.
+
+---
+[← Previous: Database Design](06-database-design.md) | [Back to Index](README.md) | [Next: UI Pages →](08-ui-pages.md)

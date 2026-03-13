@@ -11,3 +11,6 @@
 ## Smart-Facility Logic
 - **Occupancy Management**: Real-time facility occupancy display on the member portal (e.g., "The gym is currently at 40% capacity").
 - **Smart Locker Integration**: Assigning lockers automatically via the member app upon arrival.
+
+---
+[← Previous: Deployment Strategy](12-deployment.md) | [Back to Index](README.md) | [Next: Development Prompts →](14-development-prompts.md)

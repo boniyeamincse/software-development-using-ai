@@ -11,3 +11,6 @@
 ## Compliance
 - **SOC 2 Type II**: Adhering to strict data protection and availability protocols.
 - **Labor Law Automation**: Pre-built logic modules that enforce local overtime and break regulations automatically.
+
+---
+[← Previous: Technology Stack](10-tech-stack.md) | [Back to Index](README.md) | [Next: Deployment Strategy →](12-deployment.md)

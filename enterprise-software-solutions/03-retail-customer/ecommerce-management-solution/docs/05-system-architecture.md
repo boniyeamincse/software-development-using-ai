@@ -12,3 +12,6 @@ The solution uses a **Decoupled Architecture** where the commerce core is expose
 - **Document Store (MongoDB)**: For flexible product catalogs with varying attributes.
 - **Relational DB (PostgreSQL)**: To ensure data integrity for financial transactions and orders.
 - **Search Cluster (Elasticsearch)**: Powering millisecond-range product filtering and searches.
+
+---
+[← Previous: User Roles & Permissions](04-user-roles.md) | [Back to Index](README.md) | [Next: Database Design →](06-database-design.md)

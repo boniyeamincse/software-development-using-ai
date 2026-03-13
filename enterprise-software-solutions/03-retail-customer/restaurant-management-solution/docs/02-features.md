@@ -24,3 +24,6 @@
 ## 6. Labor & Shift Scheduling
 - Digital clock-in/out with photo verification to prevent "buddy punching."
 - Forecasting tools that suggest staffing levels based on historic sales data.
+
+---
+[← Previous: System Overview](01-overview.md) | [Back to Index](README.md) | [Next: System Modules →](03-modules.md)

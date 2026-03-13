@@ -22,3 +22,6 @@
 3. System posts the quote to the Nurse Unit breakroom display.
 4. Sarah receives a digital "Compassion Badge" on her employee profile.
 5. Manager includes the patient praise in Sarah's annual performance review.
+
+---
+[← Previous: UI Pages](08-ui-pages.md) | [Back to Index](README.md) | [Next: Technology Stack →](10-tech-stack.md)

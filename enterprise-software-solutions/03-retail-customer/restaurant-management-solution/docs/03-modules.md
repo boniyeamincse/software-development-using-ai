@@ -14,3 +14,6 @@ A middleware service that consolidates orders from the website and 3rd-party del
 
 ## Enterprise Analytics Engine
 Generates deep-dive reports on "Best Selling Items," "Labor Cost Percentage," and "Table Turnover Rate."
+
+---
+[← Previous: Core Features](02-features.md) | [Back to Index](README.md) | [Next: User Roles & Permissions →](04-user-roles.md)

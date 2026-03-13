@@ -21,3 +21,6 @@
 3. Secure, threaded communication occurs between investigator and whistleblower (anonymously).
 4. Evidence is gathered and linked to the case.
 5. Investigation concludes; Remediation actions tracked to completion.
+
+---
+[← Previous: UI Pages](08-ui-pages.md) | [Back to Index](README.md) | [Next: Technology Stack →](10-tech-stack.md)

@@ -18,3 +18,6 @@ A centralized feedback hub that automates review solicitation via post-purchase 
 - **Unified Management**: A "Single Pane of Glass" for responding to reviews across Google, Facebook, and Internal sites.
 - **Social Proof Integration**: Dynamic widgets that showcase top reviews on the website to drive trust.
 - **Sentiment Intelligence**: AI tools that distill thousands of reviews into actionable product improvements.
+
+---
+[Back to Index](README.md) | [Next: Core Features →](02-features.md)

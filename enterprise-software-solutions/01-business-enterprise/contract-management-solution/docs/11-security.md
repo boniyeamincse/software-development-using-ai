@@ -12,3 +12,6 @@
 - **SOC 2 Type II**: Adhering to strict data protection and availability protocols.
 - **E-SIGN Act Compliance**: Ensuring every digital signature meets the legal standards for enforceability.
 - **Audit Trails**: Non-destructive logging of who accessed which clause and what redlines were made.
+
+---
+[← Previous: Technology Stack](10-tech-stack.md) | [Back to Index](README.md) | [Next: Deployment Strategy →](12-deployment.md)

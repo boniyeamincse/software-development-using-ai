@@ -14,3 +14,6 @@ The system uses a **Real-Time Synchronous Architecture** to ensure that every ta
 - **Cache Store (Redis)**: Storing transient real-time states and active notification queues.
 - **Search (Elasticsearch)**: Enabling sub-second search across all task descriptions, comments, and files.
 - **Object Storage (S3)**: For massive file storage and image assets.
+
+---
+[← Previous: User Roles & Permissions](04-user-roles.md) | [Back to Index](README.md) | [Next: Database Design →](06-database-design.md)

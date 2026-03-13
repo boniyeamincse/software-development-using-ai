@@ -34,3 +34,6 @@
 
 ### Prompt 10: Parent Progress Digest
 "Develop a weekly automation that compiles a 'Homework Digest' for parents. Include list of completed assignments, upcoming deadlines, and specific areas where the teacher has noted the student needs improvement."
+
+---
+[← Previous: Roadmap & Future Enhancements](13-future-features.md) | [Back to Index](README.md) | [Next: Task Status →](15-task-status.md)

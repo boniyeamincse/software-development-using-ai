@@ -29,3 +29,6 @@
 - **Full-Text OCR Search**: Find phrases across every PDF and Docx in the repository.
 - **Dynamic Metadata Filters**: Filter by Expiry Date, Jurisdiction, or Counter-party.
 - **Hierarchical Linking**: Link Amendments and Statements of Work to their Master Agreement.
+
+---
+[← Previous: System Overview](01-overview.md) | [Back to Index](README.md) | [Next: System Modules →](03-modules.md)

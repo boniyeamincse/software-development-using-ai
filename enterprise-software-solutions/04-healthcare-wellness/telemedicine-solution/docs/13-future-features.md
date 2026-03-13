@@ -13,3 +13,6 @@
 - **AR Clinical Overlays**: Allowing doctors to "Mark Up" the patient's video feed in 3D for surgical or physiotherapy guidance.
 - **Voice-Activated Clinic**: "Alexa, start my virtual consultation with Dr. Smith."
 - **Metaverse Consultations**: High-immersion VR therapy sessions for mental health and rehabilitation.
+
+---
+[← Previous: Deployment Strategy](12-deployment.md) | [Back to Index](README.md) | [Next: Development Prompts →](14-development-prompts.md)

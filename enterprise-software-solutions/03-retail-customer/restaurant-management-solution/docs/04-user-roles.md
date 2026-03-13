@@ -8,3 +8,6 @@
 | **Server / Bartender**| Operational | Taking orders, processing payments, table management. |
 | **Expeditor** | Workflow Access | Final QC of orders, bumping tickets between prep stations. |
 | **Courier** | External Access | Picking up delivery orders (via Driver App integration). |
+
+---
+[← Previous: System Modules](03-modules.md) | [Back to Index](README.md) | [Next: System Architecture →](05-system-architecture.md)

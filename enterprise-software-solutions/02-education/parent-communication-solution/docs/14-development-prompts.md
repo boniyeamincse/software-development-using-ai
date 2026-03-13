@@ -34,3 +34,6 @@
 
 ### Prompt 10: Geo-fenced Attendance Notifications
 "Develop a service that sends an immediate notification to parents when a student enters or leaves the school campus, based on RFID or GPS geofencing. Include timestamp and exit/entry point details."
+
+---
+[← Previous: Roadmap & Future Enhancements](13-future-features.md) | [Back to Index](README.md) | [Next: Task Status →](15-task-status.md)

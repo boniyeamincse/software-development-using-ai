@@ -11,3 +11,6 @@
 ## Staged Verification
 - **Beta Group**: Testing major UI changes on the HR-Admin team first before rolling out to general employees.
 - **Payroll Shadowing**: Running the new payroll logic in parallel with the old system for one cycle to ensure 100% mathematical accuracy.
+
+---
+[← Previous: Security & Compliance](11-security.md) | [Back to Index](README.md) | [Next: Roadmap & Future Enhancements →](13-future-features.md)

@@ -12,3 +12,6 @@
 ## Management Endpoints
 - `GET /api/coe/stats/:exam_id`: Real-time view of student submission status.
 - `PUT /api/evaluation/submit-grade`: For manual evaluators to post scores.
+
+---
+[← Previous: Database Design](06-database-design.md) | [Back to Index](README.md) | [Next: UI Pages →](08-ui-pages.md)

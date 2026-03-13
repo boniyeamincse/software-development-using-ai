@@ -9,3 +9,6 @@
 | **Pharmacist** | Inventory Access | Prescription validation, dispensing, narcotics tracking. |
 | **Billing Specialist** | Financial | Insurance claims, patient invoices, reconciliation. |
 | **Patient (Portal)** | Portal Access | Viewing results, paying bills, booking follow-ups. |
+
+---
+[← Previous: System Modules](03-modules.md) | [Back to Index](README.md) | [Next: System Architecture →](05-system-architecture.md)

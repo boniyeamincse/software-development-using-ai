@@ -505,3 +505,5 @@ Examples:
 - Code splitting (frontend)
 - Lazy loading
 
+---
+[← Previous: User Roles & Permissions](04-user-roles.md) | [Back to Index](README.md) | [Next: Database Design →](06-database-design.md)

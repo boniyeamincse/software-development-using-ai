@@ -12,3 +12,6 @@
 - **Load Testing**: Simulating "New Year's Resolution" spikes (1,000% increase in check-in volume).
 - **Mobile Regression**: Testing the member app across 100+ iOS and Android devices to ensure universal access.
 - **Offline Resiliency Audit**: Cutting internet to the local gateway and verifying that "Active" members can still enter.
+
+---
+[← Previous: Security & Compliance](11-security.md) | [Back to Index](README.md) | [Next: Roadmap & Future Enhancements →](13-future-features.md)

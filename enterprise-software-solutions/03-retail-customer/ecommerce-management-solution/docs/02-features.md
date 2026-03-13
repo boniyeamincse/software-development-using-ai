@@ -26,3 +26,6 @@
 ## 6. Globalization
 - Multi-currency support with real-time exchange rate updates.
 - Multi-language localization for global reach.
+
+---
+[← Previous: System Overview](01-overview.md) | [Back to Index](README.md) | [Next: System Modules →](03-modules.md)

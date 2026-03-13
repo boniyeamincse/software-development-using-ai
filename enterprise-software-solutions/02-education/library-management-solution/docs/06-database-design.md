@@ -18,3 +18,6 @@
 ## Key Relationships
 - **One-to-Many**: One Book (Title) can have many Item Instances (Physical Copies).
 - **One-to-Many**: One Member can have multiple active Loans.
+
+---
+[← Previous: System Architecture](05-system-architecture.md) | [Back to Index](README.md) | [Next: API Design →](07-api-design.md)

@@ -14,3 +14,6 @@ The connective tissue that syncs loyalty data with Point-of-Sale (POS) and E-com
 
 ## Predictive Analytics Dashboard
 A reporting suite that calculates Customer Lifetime Value (CLV) and predicts future spending based on loyalty data.
+
+---
+[← Previous: Core Features](02-features.md) | [Back to Index](README.md) | [Next: User Roles & Permissions →](04-user-roles.md)

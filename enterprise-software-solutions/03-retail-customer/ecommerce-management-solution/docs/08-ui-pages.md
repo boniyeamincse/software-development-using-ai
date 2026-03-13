@@ -19,3 +19,6 @@
 
 ## 5. Vendor Portal
 - Self-registration and KYC (Know Your Customer) upload interface.
+
+---
+[← Previous: API Design](07-api-design.md) | [Back to Index](README.md) | [Next: System Workflows →](09-workflow.md)

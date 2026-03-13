@@ -856,3 +856,5 @@ audit_logs
 - Partial index on active enrollments (WHERE status = 'enrolled')
 - Partitioned indexes for large tables (lesson_completion, engagement_metrics)
 
+---
+[← Previous: System Architecture](05-system-architecture.md) | [Back to Index](README.md) | [Next: API Design →](07-api-design.md)

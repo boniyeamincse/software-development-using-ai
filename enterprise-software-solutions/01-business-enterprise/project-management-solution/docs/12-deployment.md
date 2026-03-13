@@ -11,3 +11,6 @@
 ## Automated Verification
 - **Performance Stress Tests**: Simulated 500 simultaneous users editing the same Kanban board to ensure state-sync integrity.
 - **E2E Visual Regression**: Testing complex UI components (like the Gantt chart) across all modern browsers automatically.
+
+---
+[← Previous: Security & Compliance](11-security.md) | [Back to Index](README.md) | [Next: Roadmap & Future Enhancements →](13-future-features.md)

@@ -26,3 +26,6 @@
 - **One-to-Many**: One Claim has a detailed historical Audit Trail.
 - **Many-to-One**: Many Claims are grouped into one EDI Batch for submission.
 - **One-to-One**: One 835 Remittance detail ideally matches one 837 Claim line-item.
+
+---
+[← Previous: System Architecture](05-system-architecture.md) | [Back to Index](README.md) | [Next: API Design →](07-api-design.md)

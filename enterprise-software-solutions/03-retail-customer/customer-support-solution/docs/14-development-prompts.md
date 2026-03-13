@@ -34,3 +34,6 @@
 
 ### Prompt 10: Agent Workload & Drift Analysis
 "Create a reporting tool for support managers that analyzes agent 'Drift' (time spent in different status states like Available, Busy, After-Call Work). Provide recommendations for shift adjustments based on volume predictions."
+
+---
+[← Previous: Roadmap & Future Enhancements](13-future-features.md) | [Back to Index](README.md) | [Next: Task Status →](15-task-status.md)

@@ -259,3 +259,5 @@
 
 The School Management System provides a comprehensive suite of features to automate and streamline all aspects of school operations. Features are designed with user experience in mind, offering both administrative power and intuitive interfaces for different user types.
 
+---
+[← Previous: System Overview](01-overview.md) | [Back to Index](README.md) | [Next: System Modules →](03-modules.md)

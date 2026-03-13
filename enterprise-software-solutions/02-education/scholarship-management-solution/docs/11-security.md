@@ -11,3 +11,6 @@
 ## Regulatory Compliance
 - **SOC2 / GDPR**: Adherence to data protection and institutional accountability.
 - **Fair Housing/Equal Opportunity**: Built-in bias checking tools for selection criteria.
+
+---
+[← Previous: Technology Stack](10-tech-stack.md) | [Back to Index](README.md) | [Next: Deployment Strategy →](12-deployment.md)

@@ -12,3 +12,6 @@ The system is built on a **Globally Distributed WebSocket Architecture** to ensu
 ## Performance Tier
 - **Redis Pub/Sub**: To scale WebSocket connections across multiple server instances.
 - **Elasticsearch**: For high-speed keyword search inside private and group message histories.
+
+---
+[← Previous: User Roles & Permissions](04-user-roles.md) | [Back to Index](README.md) | [Next: Database Design →](06-database-design.md)

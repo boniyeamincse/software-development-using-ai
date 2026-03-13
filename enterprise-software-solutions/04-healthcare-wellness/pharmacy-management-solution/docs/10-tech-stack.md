@@ -19,3 +19,6 @@
 - **Platform**: Multi-zone Cloud with local "ER-Sync" server for offline readiness.
 - **Security**: HashiCorp Vault for medication encryption keys.
 - **Monitoring**: Datadog for system health + Grafana for clinical analytics.
+
+---
+[← Previous: System Workflows](09-workflow.md) | [Back to Index](README.md) | [Next: Security & Compliance →](11-security.md)

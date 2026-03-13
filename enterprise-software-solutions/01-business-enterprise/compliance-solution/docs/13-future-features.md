@@ -12,3 +12,6 @@
 ## Modern Governance
 - **DAO Governance Modes**: Support for decentralized policy voting and approval via smart-contracts.
 - **ESG Maturity Tracking**: Detailed metrics for Environmental, Social, and Governance compliance for modern ethical investing standards.
+
+---
+[← Previous: Deployment Strategy](12-deployment.md) | [Back to Index](README.md) | [Next: Development Prompts →](14-development-prompts.md)

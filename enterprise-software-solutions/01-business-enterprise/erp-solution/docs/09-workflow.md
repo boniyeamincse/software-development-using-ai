@@ -14,3 +14,6 @@
 3. **Reservation**: Components marked as "Reserved"; Shortages triggered if necessary.
 4. **Assembly**: Production order sent to manufacturing line; Daily progress logged.
 5. **Finalization**: Finished goods move to "Sellable Inventory"; Manufacturing order closed.
+
+---
+[← Previous: UI Pages](08-ui-pages.md) | [Back to Index](README.md) | [Next: Technology Stack →](10-tech-stack.md)

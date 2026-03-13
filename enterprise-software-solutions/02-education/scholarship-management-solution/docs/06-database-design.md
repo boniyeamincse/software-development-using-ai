@@ -17,3 +17,6 @@
 ## Key Relationships
 - **One-to-Many**: One Fund supports many Applications.
 - **Many-to-Many**: Applications assigned to multiple Reviewers.
+
+---
+[← Previous: System Architecture](05-system-architecture.md) | [Back to Index](README.md) | [Next: API Design →](07-api-design.md)

@@ -11,3 +11,6 @@
 ## Compliance
 - **PCI-DSS**: Ensuring card data never hits the internal server (Stripe Elements).
 - **HIPAA (Optional)**: If used for medical appointments, stricter data access controls are activated.
+
+---
+[← Previous: Technology Stack](10-tech-stack.md) | [Back to Index](README.md) | [Next: Deployment Strategy →](12-deployment.md)

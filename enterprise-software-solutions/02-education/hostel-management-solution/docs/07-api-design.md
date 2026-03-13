@@ -249,3 +249,6 @@ RESTful API with 100+ endpoints organized by resource type.
 ---
 
 **100+ endpoints for complete API coverage! 🔌**
+
+---
+[← Previous: Database Design](06-database-design.md) | [Back to Index](README.md) | [Next: UI Pages →](08-ui-pages.md)

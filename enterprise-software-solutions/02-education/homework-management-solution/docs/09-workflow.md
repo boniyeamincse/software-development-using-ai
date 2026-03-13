@@ -12,3 +12,6 @@
 1. Deadline passes; Submission status changes to "Late."
 2. System automatically applies a configurable penalty (e.g., -5% per day).
 3. Notification sent to teacher flagging the late entry.
+
+---
+[← Previous: UI Pages](08-ui-pages.md) | [Back to Index](README.md) | [Next: Technology Stack →](10-tech-stack.md)

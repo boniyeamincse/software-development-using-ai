@@ -17,3 +17,6 @@ The visualization layer for analyzing enterprise-wide productivity and project p
 
 ## Integration Bridge
 Coordinates the bi-directional data flow between Time Tracking, Project Management, and Payroll/Accounting.
+
+---
+[← Previous: Core Features](02-features.md) | [Back to Index](README.md) | [Next: User Roles & Permissions →](04-user-roles.md)

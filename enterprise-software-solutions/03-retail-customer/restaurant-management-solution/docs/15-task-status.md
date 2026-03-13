@@ -31,3 +31,6 @@
 | ANL-01 | Menu Engineering Profitability Report | High | ⏳ Pending | Data Team |
 | AI-01 | AI-based Inventory Waste Predictor | Medium | ⏳ Pending | AI Team |
 | ANL-02 | Real-time Operations Dashboard | High | ⏳ Pending | Frontend |
+
+---
+[← Previous: Development Prompts](14-development-prompts.md) | [Back to Index](README.md) | [Next: Complete Modules List →](16-complete-modules-list.md)

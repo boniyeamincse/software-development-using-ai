@@ -14,3 +14,6 @@
 - **Databases**: PostgreSQL (Relational) + Redis (Session Cache).
 - **Documents**: AWS S3.
 - **Identity**: OAuth2 with Microsoft & Google integrations.
+
+---
+[← Previous: System Workflows](09-workflow.md) | [Back to Index](README.md) | [Next: Security & Compliance →](11-security.md)

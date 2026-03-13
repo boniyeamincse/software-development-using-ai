@@ -29,3 +29,6 @@
 | SEC-01 | Digital Consent & Photo Release Hub | Medium | ⏳ Pending | Backend |
 | SEC-02 | Sensitive Data Scoping (FERPA) | Critical | ⏳ Pending | Security |
 | SEC-03 | Biometric Login for Mobile App | High | ⏳ Pending | Mobile Team |
+
+---
+[← Previous: Development Prompts](14-development-prompts.md) | [Back to Index](README.md) | [Next: Complete Modules List →](16-complete-modules-list.md)

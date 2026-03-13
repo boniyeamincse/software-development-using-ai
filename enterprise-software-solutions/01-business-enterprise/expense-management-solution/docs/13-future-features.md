@@ -12,3 +12,6 @@
 ## Modern Compliance
 - **Blockchain Receipt Verification**: Partnering with major vendors for encrypted, digital receipts provided directly via smart-contracts to eliminate fraud.
 - **ESG Spend Tracking**: Tracking the carbon footprint of corporate travel and suggest ECO-offsets during the reimbursement phase.
+
+---
+[← Previous: Deployment Strategy](12-deployment.md) | [Back to Index](README.md) | [Next: Development Prompts →](14-development-prompts.md)

@@ -14,3 +14,6 @@ The high-level reporting module for management to visualize revenue trends and t
 
 ## Integration & Automation Bridge
 The "Engine Room" where workflows are defined and connections to external ERP, Marketing, and Support tools are managed.
+
+---
+[← Previous: Core Features](02-features.md) | [Back to Index](README.md) | [Next: User Roles & Permissions →](04-user-roles.md)

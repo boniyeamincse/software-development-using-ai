@@ -34,3 +34,6 @@
 
 ### Prompt 10: AI Inventory Waste Predictor
 "Develop a service that analyzes historical sales and weather data to predict daily ingredient needs. Provide 'Ordering Recommendations' to minimize food waste while ensuring high-demand items never run out."
+
+---
+[← Previous: Roadmap & Future Enhancements](13-future-features.md) | [Back to Index](README.md) | [Next: Task Status →](15-task-status.md)

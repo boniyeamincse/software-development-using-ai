@@ -12,3 +12,6 @@ The system uses a **Fast-Path Rule Architecture** to ensure that adding complex 
 ## Data Layer
 - **Relational DB (PostgreSQL)**: Storing campaign definitions and historical redemption logs.
 - **Distributed Cache (Redis)**: Storing the "Hot-Set" of valid unique codes and their current usage counts.
+
+---
+[← Previous: User Roles & Permissions](04-user-roles.md) | [Back to Index](README.md) | [Next: Database Design →](06-database-design.md)

@@ -10,3 +10,6 @@
 
 ## Integrated Marketplaces
 - **Support-to-Sales Bridge**: Allowing agents to suggest related products directly within the support chat based on past purchase history.
+
+---
+[← Previous: Deployment Strategy](12-deployment.md) | [Back to Index](README.md) | [Next: Development Prompts →](14-development-prompts.md)

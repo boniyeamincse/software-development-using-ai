@@ -16,3 +16,6 @@
 - **Idempotency Headers**: Required for all transaction creation to prevent double-entries.
 - **HMAC Signatures**: For all incoming calls from external payment or billing partners.
 - **Mutual TLS**: Used for all communication with banking institutions.
+
+---
+[← Previous: Database Design](06-database-design.md) | [Back to Index](README.md) | [Next: UI Pages →](08-ui-pages.md)

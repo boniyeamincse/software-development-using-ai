@@ -11,3 +11,6 @@
 ## Financial Tools
 - **Automated Tax Filing**: One-click filing for multi-state sales tax and international VAT directly from the billing dashboard.
 - **AR Financing Integration**: Using the platform's predictable ARR data to unlock instant working-capital loans.
+
+---
+[← Previous: Deployment Strategy](12-deployment.md) | [Back to Index](README.md) | [Next: Development Prompts →](14-development-prompts.md)

@@ -35,3 +35,6 @@
 - **Predictive Churn Model**: identifying users likely to disengage.
 - **LTV Analytics Suite**: measuring the impact of loyalty on customer spend.
 - **A/B Testing for Rewards**: optimizing reward types based on performance.
+
+---
+[← Previous: Task Status](15-task-status.md) | [Back to Index](README.md)

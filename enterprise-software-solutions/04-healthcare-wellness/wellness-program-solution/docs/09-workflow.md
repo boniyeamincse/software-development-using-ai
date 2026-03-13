@@ -22,3 +22,6 @@
 3. System generates an API trigger to the Insurance/Payroll platform.
 4. Confirmation sent to the user; HR dashboard reflects the corporate saving.
 5. Transaction finalized in the immutable audit vault.
+
+---
+[← Previous: UI Pages](08-ui-pages.md) | [Back to Index](README.md) | [Next: Technology Stack →](10-tech-stack.md)

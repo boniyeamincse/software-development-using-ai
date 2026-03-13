@@ -24,3 +24,6 @@
 - **One-to-Many**: One Employee has multiple Leave Requests.
 - **One-to-Many**: One Employee has multiple Payslips over time.
 - **Self-Referential**: Managers are also Employees (`manager_id` links to `employee_id`).
+
+---
+[← Previous: System Architecture](05-system-architecture.md) | [Back to Index](README.md) | [Next: API Design →](07-api-design.md)

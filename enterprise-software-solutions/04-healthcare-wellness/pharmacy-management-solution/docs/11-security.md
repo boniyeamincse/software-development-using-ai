@@ -14,3 +14,6 @@
 - **Off-Grid Dispensing**: Ability to finish active fills using a local-cache database during an internet outage.
 - **Redundant Insurance Links**: Multiple clearinghouse connections to prevent billing downtime.
 - **Strict Role-Based Scoping**: Technicians can "Pack" but never "Final-Check" a clinical dispense.
+
+---
+[← Previous: Technology Stack](10-tech-stack.md) | [Back to Index](README.md) | [Next: Deployment Strategy →](12-deployment.md)

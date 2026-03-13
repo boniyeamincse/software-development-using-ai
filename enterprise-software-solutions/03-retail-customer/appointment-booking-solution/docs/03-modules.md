@@ -14,3 +14,6 @@ An automated service that orchestrates all outbound communications based on trig
 
 ## Analytics & Utilization Reporter
 Generates reports on "Peak Booking Hours," "Staff Performance," and "No-Show Trends" to help business owners optimize operations.
+
+---
+[← Previous: Core Features](02-features.md) | [Back to Index](README.md) | [Next: User Roles & Permissions →](04-user-roles.md)

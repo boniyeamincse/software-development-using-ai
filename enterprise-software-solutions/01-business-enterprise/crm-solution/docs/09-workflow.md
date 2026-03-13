@@ -13,3 +13,6 @@
 2. System checks Sales Team availability and territory mapping.
 3. Lead assigned to "John Doe"; Slack notification sent instantly.
 4. If "John Doe" doesn't open the lead in 4 hours, it is automatically re-assigned.
+
+---
+[← Previous: UI Pages](08-ui-pages.md) | [Back to Index](README.md) | [Next: Technology Stack →](10-tech-stack.md)

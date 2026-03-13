@@ -32,3 +32,6 @@
 5. Payout batch page
 6. Category and pricing configuration
 7. Marketplace analytics dashboard
+
+---
+[← Previous: API Design](07-api-design.md) | [Back to Index](README.md) | [Next: System Workflows →](09-workflow.md)

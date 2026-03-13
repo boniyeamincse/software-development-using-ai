@@ -14,3 +14,6 @@ The system uses a **Global Micro-frontend Architecture** to allow different facu
 ## Intelligent Data Tier
 - **Elasticsearch**: For high-speed search across thousands of courses and research papers.
 - **Managed RDBMS**: High-availability clusters for core transaction data.
+
+---
+[← Previous: User Roles & Permissions](04-user-roles.md) | [Back to Index](README.md) | [Next: Database Design →](06-database-design.md)

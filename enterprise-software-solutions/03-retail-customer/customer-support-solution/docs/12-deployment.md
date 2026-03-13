@@ -11,3 +11,6 @@
 ## Monitoring
 - **Error Tracking**: Sentry integration for real-time fault detection in the SPA.
 - **Throughput Monitoring**: Real-time tracking of message-processing lag in the queue.
+
+---
+[← Previous: Security & Compliance](11-security.md) | [Back to Index](README.md) | [Next: Roadmap & Future Enhancements →](13-future-features.md)

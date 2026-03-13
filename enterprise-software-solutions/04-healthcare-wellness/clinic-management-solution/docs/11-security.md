@@ -14,3 +14,6 @@
 - **AES-256 Encryption**: Every clinical word and patient ID is encrypted at rest.
 - **Point-in-Time Recovery**: Database backups allow restoration to any second in the last 35 days.
 - **Audit Reports**: Instant generation of "Who accessed this patient?" reports for privacy officers.
+
+---
+[← Previous: Technology Stack](10-tech-stack.md) | [Back to Index](README.md) | [Next: Deployment Strategy →](12-deployment.md)

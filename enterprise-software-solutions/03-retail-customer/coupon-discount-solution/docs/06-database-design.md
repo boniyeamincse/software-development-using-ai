@@ -18,3 +18,6 @@
 - **One-to-Many**: One Campaign can have multiple Rules (Logical AND/OR).
 - **One-to-Many**: One Campaign can have millions of Codes.
 - **One-to-Many**: One Code can have multiple Redemptions (if multi-use).
+
+---
+[← Previous: System Architecture](05-system-architecture.md) | [Back to Index](README.md) | [Next: API Design →](07-api-design.md)

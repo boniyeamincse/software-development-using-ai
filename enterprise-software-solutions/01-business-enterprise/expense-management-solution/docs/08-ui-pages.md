@@ -19,3 +19,6 @@
 ## 5. Executive Spend Analytics
 - High-level charts: "Category Breakdown," "Departmental Burn," and "Travel ROI."
 - Fraud alert center highlighting duplicate receipts or weekend spend.
+
+---
+[← Previous: API Design](07-api-design.md) | [Back to Index](README.md) | [Next: System Workflows →](09-workflow.md)

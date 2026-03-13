@@ -21,3 +21,6 @@
 ## 5. Rewards & Perk Shop
 - Amazon-style catalog for redeeming "Wellness Points."
 - Integration showing "Insurance Premium Savings" based on active program standing.
+
+---
+[← Previous: API Design](07-api-design.md) | [Back to Index](README.md) | [Next: System Workflows →](09-workflow.md)

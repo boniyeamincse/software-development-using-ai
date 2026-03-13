@@ -18,3 +18,6 @@ A robust digital ecosystem that supports multiple exam formats (MCQ, Descriptive
 - **Automate Grading**: OMR scanning and auto-marking for objective tests.
 - **Scalability**: Support for high-concurrency entrance exams with thousands of simultaneous users.
 - **Accessibility**: Multi-language support and ADA-compliant interfaces.
+
+---
+[Back to Index](README.md) | [Next: Core Features →](02-features.md)

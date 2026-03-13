@@ -22,3 +22,6 @@
 - **Many-to-Many**: One Requirement can be met by multiple Controls; One Control can satisfy multiple Requirements.
 - **One-to-Many**: One Policy has many historical Versions.
 - **Many-to-One**: Many Incident reports can stem from one identified Compliance Risk.
+
+---
+[← Previous: System Architecture](05-system-architecture.md) | [Back to Index](README.md) | [Next: API Design →](07-api-design.md)

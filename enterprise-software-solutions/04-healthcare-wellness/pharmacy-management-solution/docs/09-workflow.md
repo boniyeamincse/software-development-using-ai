@@ -22,3 +22,6 @@
 3. Inventory Manager reviews and clicks "Approve."
 4. PO sent to Vendor; Tracking number ingested via API.
 5. Shipment arrives; Barcode scan auto-populates batch data and stock quantity.
+
+---
+[← Previous: UI Pages](08-ui-pages.md) | [Back to Index](README.md) | [Next: Technology Stack →](10-tech-stack.md)

@@ -13,3 +13,6 @@
 2. Rule: "Buy 2 T-shirts, get Jeans 50% off."
 3. Engine identifies the T-shirt pair -> flags the Jeans for discount.
 4. If a 3rd T-shirt is added, the engine ignores it unless a "Stackable" rule applies.
+
+---
+[← Previous: UI Pages](08-ui-pages.md) | [Back to Index](README.md) | [Next: Technology Stack →](10-tech-stack.md)

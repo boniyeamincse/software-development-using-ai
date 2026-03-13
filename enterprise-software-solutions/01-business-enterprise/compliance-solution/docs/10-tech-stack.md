@@ -14,3 +14,6 @@
 - **Hosting**: Sovereign Cloud regions for highly sensitive government compliance (e.g., AWS GovCloud).
 - **Encryption**: Customer-Managed Keys (CMK) via KMS for all compliance-related data.
 - **Logging**: Dedicated ELK/Splunk cluster for immutable audit trail capture.
+
+---
+[← Previous: System Workflows](09-workflow.md) | [Back to Index](README.md) | [Next: Security & Compliance →](11-security.md)

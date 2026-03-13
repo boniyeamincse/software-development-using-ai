@@ -18,3 +18,6 @@ An intelligent, AI-powered helpdesk that features automated ticketing, real-time
 - **Resolution Speed**: Automated SLA tracking and intelligent ticket routing.
 - **Agent Productivity**: Canned responses, internal notes, and AI-suggested solutions.
 - **Customer Empowerment**: A robust self-service portal to deflect common queries.
+
+---
+[Back to Index](README.md) | [Next: Core Features →](02-features.md)

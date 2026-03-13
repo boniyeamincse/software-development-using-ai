@@ -13,3 +13,6 @@ The ERP is built on a **Service-Oriented Architecture (SOA)**, allowing individu
 - **Primary Database (PostgreSQL)**: Storing the transactional "Source of Truth" with strict ACID compliance.
 - **Data Warehouse (Snowflake)**: For long-term historical analysis and business intelligence.
 - **Object Storage (S3)**: Storing invoices, legal documents, and large binary media.
+
+---
+[← Previous: User Roles & Permissions](04-user-roles.md) | [Back to Index](README.md) | [Next: Database Design →](06-database-design.md)

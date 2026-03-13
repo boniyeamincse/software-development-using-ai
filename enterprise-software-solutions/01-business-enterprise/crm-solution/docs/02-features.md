@@ -28,3 +28,6 @@
 ## 6. Marketing Integration
 - Seamless sync with marketing automation tools for "Lead-to-Revenue" tracking.
 - Campaign attribution: Identifying which marketing efforts drove specific deals.
+
+---
+[← Previous: System Overview](01-overview.md) | [Back to Index](README.md) | [Next: System Modules →](03-modules.md)

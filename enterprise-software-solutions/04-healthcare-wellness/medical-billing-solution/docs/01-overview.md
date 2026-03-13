@@ -18,3 +18,6 @@ An intelligent, integrated billing ecosystem that automates the "Scrubbing" of c
 - **Cycle Acceleration**: Reducing the time from clinical encounter to final payment.
 - **Payer Transparency**: Real-time tracking of claim status across all major insurance clearinghouses.
 - **Compliance Integrity**: Adhering to HIPAA, OIG (Office of Inspector General), and financial auditing standards.
+
+---
+[Back to Index](README.md) | [Next: Core Features →](02-features.md)

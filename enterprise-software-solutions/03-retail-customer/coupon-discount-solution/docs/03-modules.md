@@ -14,3 +14,6 @@ The bridge that allows the E-commerce checkout and POS systems to request discou
 
 ## Campaign Analytics Portal
 Visualized reporting on campaign health, attribution, and profitability.
+
+---
+[← Previous: Core Features](02-features.md) | [Back to Index](README.md) | [Next: User Roles & Permissions →](04-user-roles.md)

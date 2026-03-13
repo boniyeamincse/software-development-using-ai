@@ -14,3 +14,6 @@ The Patient Feedback Solution utilizes a **Serverless Event-Driven Design** to e
 - **NoSQL (MongoDB / DynamoDB)**: Storing the flexible, high-volume survey response documents.
 - **Search Layer**: Elasticsearch for sub-second keyword and theme discovery across millions of comments.
 - **Cache Layer**: Redis for real-time facility-level NPS score calculation.
+
+---
+[← Previous: User Roles & Permissions](04-user-roles.md) | [Back to Index](README.md) | [Next: Database Design →](06-database-design.md)

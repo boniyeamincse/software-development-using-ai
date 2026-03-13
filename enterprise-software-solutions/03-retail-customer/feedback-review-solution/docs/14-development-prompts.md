@@ -34,3 +34,6 @@
 
 ### Prompt 10: Product Improvement Recommendations
 "Develop an AI service that analyzes thousands of reviews and provides actionable advice for product development (e.g., '80% of negative reviews for the Large size say it runs small; recommend updating the size guide')."
+
+---
+[← Previous: Roadmap & Future Enhancements](13-future-features.md) | [Back to Index](README.md) | [Next: Task Status →](15-task-status.md)

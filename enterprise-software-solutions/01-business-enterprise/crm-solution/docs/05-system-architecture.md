@@ -13,3 +13,6 @@ The system follows a **Microservices Architecture** to ensure that data ingestio
 - **Relational DB (PostgreSQL)**: The core engine for structured deal and contact data.
 - **Activity Store (Elasticsearch)**: For ultra-fast searching across millions of activity logs and notes.
 - **Object Storage (S3)**: For storing customer-related documents, proposals, and call recordings.
+
+---
+[← Previous: User Roles & Permissions](04-user-roles.md) | [Back to Index](README.md) | [Next: Database Design →](06-database-design.md)

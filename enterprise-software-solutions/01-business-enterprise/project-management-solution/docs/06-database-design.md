@@ -22,3 +22,6 @@
 - **One-to-Many**: One Project contains many Tasks.
 - **Self-Referential**: Tasks can be parents of other Tasks (Sub-tasks).
 - **Many-to-Many**: Users can be assigned to multiple Tasks; Tasks can have multiple Users.
+
+---
+[← Previous: System Architecture](05-system-architecture.md) | [Back to Index](README.md) | [Next: API Design →](07-api-design.md)

@@ -21,3 +21,6 @@
 3. Specialist reviews message during admin hours; Responds with clinical plan.
 4. Patient notified; Views response and educational material in the portal.
 5. Loop closed; Message archived in the medical record.
+
+---
+[← Previous: UI Pages](08-ui-pages.md) | [Back to Index](README.md) | [Next: Technology Stack →](10-tech-stack.md)

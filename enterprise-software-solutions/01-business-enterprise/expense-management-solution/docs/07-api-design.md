@@ -16,3 +16,6 @@
 - **JWT Authentication**: Secure user access for mobile and web.
 - **Signed S3 URLs**: Ensuring receipt images are only accessible to authorized approvers.
 - **Idempotency**: Preventing double-submission of expense items on mobile retries.
+
+---
+[← Previous: Database Design](06-database-design.md) | [Back to Index](README.md) | [Next: UI Pages →](08-ui-pages.md)

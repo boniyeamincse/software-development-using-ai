@@ -13,3 +13,6 @@
 - **Endpoint Lockdown**: Hardware restricted to a "Kiosk Mode" to prevent employees from browsing the web or installing external apps.
 - **Network Isolation**: POS VLAN separating transactional traffic from store guest Wi-Fi.
 - **Audit Logging**: Immutable history of every price change, void, and manual drawer opening.
+
+---
+[← Previous: Technology Stack](10-tech-stack.md) | [Back to Index](README.md) | [Next: Deployment Strategy →](12-deployment.md)

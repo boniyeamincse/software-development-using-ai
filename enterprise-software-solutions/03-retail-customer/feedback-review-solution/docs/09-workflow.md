@@ -13,3 +13,6 @@
 2. Review status changes to "Hidden - Under Investigation."
 3. Moderator evaluates content; "Approves" (re-publishes) or "Rejects" (permanently hides).
 4. System notifies the reviewer if content was rejected for policy violations.
+
+---
+[← Previous: UI Pages](08-ui-pages.md) | [Back to Index](README.md) | [Next: Technology Stack →](10-tech-stack.md)

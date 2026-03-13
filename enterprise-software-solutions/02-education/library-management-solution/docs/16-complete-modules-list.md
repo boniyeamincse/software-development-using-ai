@@ -30,3 +30,6 @@
 - **Campus ID Integration**: Using existing student/staff cards for access.
 - **Role-Based Privilege Scoping**: defining what each user class can borrow.
 - **Disaster Recovery Vault**: Secure backups of the entire catalog and circulation history.
+
+---
+[← Previous: Task Status](15-task-status.md) | [Back to Index](README.md)

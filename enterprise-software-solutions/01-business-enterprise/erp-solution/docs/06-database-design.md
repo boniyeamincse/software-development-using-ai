@@ -21,3 +21,6 @@
 - **One-to-Many**: One Ledger Entry can contain multiple line items.
 - **Many-to-Many**: Products are composed of multiple raw materials (BOM).
 - **One-to-Many**: One Purchase Order can contain multiple items from a vendor.
+
+---
+[← Previous: System Architecture](05-system-architecture.md) | [Back to Index](README.md) | [Next: API Design →](07-api-design.md)

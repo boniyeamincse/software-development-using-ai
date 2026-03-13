@@ -10,3 +10,6 @@
 
 ## Monitoring
 - **Point Balance Audit**: A daily background task that reconciles the total points issued vs. total outstanding/spent to ensure zero "leaks."
+
+---
+[← Previous: Security & Compliance](11-security.md) | [Back to Index](README.md) | [Next: Roadmap & Future Enhancements →](13-future-features.md)

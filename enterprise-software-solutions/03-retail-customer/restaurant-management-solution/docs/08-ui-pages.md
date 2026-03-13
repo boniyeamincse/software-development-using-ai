@@ -19,3 +19,6 @@
 ## 5. End-of-Day (EOD) Report
 - Rapid reconciliation of cash, card tips, and total sales.
 - Automated "Z-Report" generation and emailing to management.
+
+---
+[← Previous: API Design](07-api-design.md) | [Back to Index](README.md) | [Next: System Workflows →](09-workflow.md)

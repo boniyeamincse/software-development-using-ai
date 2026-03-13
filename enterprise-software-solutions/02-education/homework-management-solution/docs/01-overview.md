@@ -18,3 +18,6 @@ A centralized digital hub where assignments are distributed, submitted, and grad
 - **Speed Up Feedback**: Real-time grading and annotation tools for teachers.
 - **Increase Transparency**: Real-time dashboards for parents to monitor progress.
 - **Resource Enrichment**: Attach videos, PDFs, and interactive links to every assignment.
+
+---
+[Back to Index](README.md) | [Next: Core Features →](02-features.md)

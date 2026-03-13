@@ -34,3 +34,6 @@
 
 ### Prompt 10: AI-Powered Discount Recommender
 "Develop a machine learning model that suggests the 'Minimum Effective Discount' to convert a specific user. For example, if a user is likely to buy with 5% off, do not offer them 20% off. Optimize for overall margin."
+
+---
+[← Previous: Roadmap & Future Enhancements](13-future-features.md) | [Back to Index](README.md) | [Next: Task Status →](15-task-status.md)

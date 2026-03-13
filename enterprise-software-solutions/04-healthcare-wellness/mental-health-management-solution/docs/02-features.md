@@ -29,3 +29,6 @@
 - **Behavioral Health E/M Coding**: Automated suggestion of CPT codes specific to therapy duration and complexity.
 - **Superbill Generation**: Professional invoices for out-of-network patients to submit for reimbursement.
 - **Auth Management**: Tracking insurance-approved session counts and expiration dates.
+
+---
+[← Previous: System Overview](01-overview.md) | [Back to Index](README.md) | [Next: System Modules →](03-modules.md)

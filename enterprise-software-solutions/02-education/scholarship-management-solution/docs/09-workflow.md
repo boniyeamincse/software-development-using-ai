@@ -13,3 +13,6 @@
 1. End of Semester; System checks if recipient maintained GPA requirements.
 2. If GPA is met, next disbursement scheduled.
 3. If GPA is low, "Warning" sent to student and Counselor.
+
+---
+[← Previous: UI Pages](08-ui-pages.md) | [Back to Index](README.md) | [Next: Technology Stack →](10-tech-stack.md)

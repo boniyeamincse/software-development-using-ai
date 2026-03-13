@@ -17,3 +17,6 @@
 - **Short-Lived Media Tokens**: Room access tokens expire 10 minutes after session end.
 - **HMAC Signatures**: Required for all device-to-cloud RPM data transmissions.
 - **JWE (JSON Web Encryption)**: For clinical chat payloads to ensure zero-knowledge in the database.
+
+---
+[← Previous: Database Design](06-database-design.md) | [Back to Index](README.md) | [Next: UI Pages →](08-ui-pages.md)

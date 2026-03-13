@@ -19,3 +19,6 @@
 ## 5. Payroll Processing Center
 - High-level sanity-check dashboard showing "Net Change in Salary Spend" vs. last month.
 - One-click file generation for bank transfers.
+
+---
+[← Previous: API Design](07-api-design.md) | [Back to Index](README.md) | [Next: System Workflows →](09-workflow.md)

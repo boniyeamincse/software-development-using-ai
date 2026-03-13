@@ -11,3 +11,6 @@
 ## External Security
 - **Secure Webhooks**: Signature verification for all incoming marketing and sales integrations.
 - **OAuth Scope Lockdown**: Ensuring the CRM only has the minimum necessary access to user email boxes.
+
+---
+[← Previous: Technology Stack](10-tech-stack.md) | [Back to Index](README.md) | [Next: Deployment Strategy →](12-deployment.md)

@@ -13,3 +13,6 @@
 2. System verifies if the new slot is open.
 3. If open, old slot is released and the new one is locked.
 4. Notification sent to staff member regarding the change.
+
+---
+[← Previous: UI Pages](08-ui-pages.md) | [Back to Index](README.md) | [Next: Technology Stack →](10-tech-stack.md)

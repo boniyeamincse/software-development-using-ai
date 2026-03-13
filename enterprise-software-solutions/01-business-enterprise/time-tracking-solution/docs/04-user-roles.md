@@ -8,3 +8,6 @@
 | **Payroll Admin** | Financial Access | Extracting approved hours for wage calculation, audit review. |
 | **Client (External)** | Portal Access | Viewing billable logs and summary reports for their projects. |
 | **Auditor** | Read-Only | Periodic review of time log history for compliance. |
+
+---
+[← Previous: System Modules](03-modules.md) | [Back to Index](README.md) | [Next: System Architecture →](05-system-architecture.md)

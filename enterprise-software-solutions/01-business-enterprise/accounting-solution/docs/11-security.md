@@ -12,3 +12,6 @@
 ## Audit Resilience
 - **Shadow Logging**: Every read and write to the ledger is logged to an independent, tamper-proof external server.
 - **SOC 1 Type II Compliance**: The system is designed to meet the rigorous standards for financial reporting controls.
+
+---
+[← Previous: Technology Stack](10-tech-stack.md) | [Back to Index](README.md) | [Next: Deployment Strategy →](12-deployment.md)

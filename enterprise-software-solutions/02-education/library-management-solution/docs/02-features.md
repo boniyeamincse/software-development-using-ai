@@ -24,3 +24,6 @@
 
 ## 6. Smart Notifications
 - Multi-channel alerts (SMS, Email, Mobile Push) for overdue items and hold availability.
+
+---
+[← Previous: System Overview](01-overview.md) | [Back to Index](README.md) | [Next: System Modules →](03-modules.md)

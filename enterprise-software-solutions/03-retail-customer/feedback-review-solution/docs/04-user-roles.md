@@ -7,3 +7,6 @@
 | **Store Manager** | Local Access | Viewing and responding to reviews for their specific location. |
 | **Customer** | Entry-Only | Submitting reviews, editing past feedback, interacting with Q&A. |
 | **Compliance Officer** | Audit Access | Reviewing flagged content for legal or safety violations. |
+
+---
+[← Previous: System Modules](03-modules.md) | [Back to Index](README.md) | [Next: System Architecture →](05-system-architecture.md)

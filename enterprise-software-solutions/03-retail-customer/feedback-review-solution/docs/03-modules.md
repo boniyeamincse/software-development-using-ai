@@ -14,3 +14,6 @@ A backend microservice that processes raw text to determine mood and extract top
 
 ## Integration Hub
 Connects with external platforms (Google, Facebook) and internal systems (Loyalty, CDP) for data synchronization.
+
+---
+[← Previous: Core Features](02-features.md) | [Back to Index](README.md) | [Next: User Roles & Permissions →](04-user-roles.md)

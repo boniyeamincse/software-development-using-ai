@@ -792,3 +792,5 @@ The UI comprises 50+ pages organized across different modules:
 
 All pages follow consistent design patterns, usability best practices, and responsive design principles.
 
+---
+[← Previous: API Design](07-api-design.md) | [Back to Index](README.md) | [Next: System Workflows →](09-workflow.md)

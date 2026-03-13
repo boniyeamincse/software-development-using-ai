@@ -8,3 +8,6 @@
 | **Donor** | Guest / Impact View | Viewing fund status and student thank-you letters. |
 | **Student** | Applicant Access | Submitting applications, uploading docs. |
 | **External Verifier** | Verification Only | Checking valid transcripts/tax documents. |
+
+---
+[← Previous: System Modules](03-modules.md) | [Back to Index](README.md) | [Next: System Architecture →](05-system-architecture.md)

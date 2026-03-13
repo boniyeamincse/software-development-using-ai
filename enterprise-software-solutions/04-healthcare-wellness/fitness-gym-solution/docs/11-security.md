@@ -14,3 +14,6 @@
 - **Local Fallback**: Turnstiles continue to work using a local "Whitelist" during internet outages.
 - **Secure Hardware Tunnels**: IoT gateways communicate over encrypted, VPN-protected links only.
 - **PCI-DSS Compliance**: No raw credit card data is ever stored on gym servers.
+
+---
+[← Previous: Technology Stack](10-tech-stack.md) | [Back to Index](README.md) | [Next: Deployment Strategy →](12-deployment.md)

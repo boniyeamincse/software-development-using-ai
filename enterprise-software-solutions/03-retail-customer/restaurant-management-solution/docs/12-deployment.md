@@ -12,3 +12,6 @@ Restaurant hours often extend late.
 ## Automated Testing
 - **Printing Regression**: Simulating complex order modifiers and testing the resulting thermal print-layout.
 - **Load Testing**: Simulating 1,000 checkout events per minute for holiday rushes.
+
+---
+[← Previous: Security & Compliance](11-security.md) | [Back to Index](README.md) | [Next: Roadmap & Future Enhancements →](13-future-features.md)
