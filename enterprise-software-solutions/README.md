@@ -58,6 +58,7 @@ Each of the 40 solutions follows a standardized **16-module documentation struct
 
 ## Resources
 - [Master Documentation Index](docs/MASTER-INDEX.md)
+- [Global Module Inventory](docs/GLOBAL-MODULE-INVENTORY.md)
 - [Solution Upgrade Walkthrough](docs/walkthrough.md)
 
 ---
