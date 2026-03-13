@@ -1,6 +1,6 @@
 # ERP Solution - Documentation
 
-Detailed technical and operational guide for the enterprise resource planning platform.
+Comprehensive technical and operational guide for the enterprise resource planning platform.
 
 ## Documentation Modules
 
@@ -17,6 +17,9 @@ Detailed technical and operational guide for the enterprise resource planning pl
 11. [Security & Compliance](11-security.md)
 12. [Deployment Strategy](12-deployment.md)
 13. [Roadmap & Future Enhancements](13-future-features.md)
+14. [Development Prompts](14-development-prompts.md)
+15. [Task Status](15-task-status.md)
+16. [Complete Modules List](16-complete-modules-list.md)
 
 ---
 *Last updated: March 2026*
