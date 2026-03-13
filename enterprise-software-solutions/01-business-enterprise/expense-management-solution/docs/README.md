@@ -1,6 +1,6 @@
 # Expense Management Solution - Documentation
 
-Detailed technical and operational guide for the enterprise spending and reimbursement platform.
+Comprehensive technical and operational guide for the enterprise expense tracking and reimbursement platform.
 
 ## Documentation Modules
 
@@ -14,9 +14,12 @@ Detailed technical and operational guide for the enterprise spending and reimbur
 8. [UI Pages](08-ui-pages.md)
 9. [System Workflows](09-workflow.md)
 10. [Technology Stack](10-tech-stack.md)
-11. [Security & Fraud Prevention](11-security.md)
+11. [Security & Compliance](11-security.md)
 12. [Deployment Strategy](12-deployment.md)
 13. [Roadmap & Future Enhancements](13-future-features.md)
+14. [Development Prompts](14-development-prompts.md)
+15. [Task Status](15-task-status.md)
+16. [Complete Modules List](16-complete-modules-list.md)
 
 ---
 *Last updated: March 2026*
