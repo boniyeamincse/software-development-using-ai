@@ -16,7 +16,7 @@ Every solution in this portfolio is built with the following **Standard Core Mod
 | Solution | Key Modules |
 | :--- | :--- |
 | **CRM** | Relationship Core, Sales Lifecycle, AI Suite, Comm Gateway |
-| **ERP** | Resource Planning, Inventory Control, Financial Engine, Logistics |
+| **ERP** | Resource Planning, Inventory Control, Financial Engine, QMS, EAM |
 | **HRMS** | Employee Lifecycle, Payroll Engine, Performance AI, Talent Hub |
 | **Accounting** | Ledger Core, Tax Compliance, Accounts Payable/Receivable, Treasury |
 | **Project Mgmt** | Task Orchestration, Resource Allocator, Time Tracking, Kanban AI |
@@ -30,7 +30,7 @@ Every solution in this portfolio is built with the following **Standard Core Mod
 
 | Solution | Key Modules |
 | :--- | :--- |
-| **School Mgmt** | Student Lifecycle, Faculty Hub, Attendance AI, Fee Engine |
+| **School Mgmt** | Student Lifecycle, Faculty Hub, Attendance AI, Alumni Hub |
 | **University Mgmt** | enrollment Hub, Academic Records, Research Grants, alumni Bridge |
 | **Exam & Test** | Question Bank, AI Proctoring, Grade Processor, Analytics Hub |
 | **Tutoring** | Marketplace Core, Booking Engine, Feedback Loop, Payment Escrow |
@@ -45,7 +45,7 @@ Every solution in this portfolio is built with the following **Standard Core Mod
 
 | Solution | Key Modules |
 | :--- | :--- |
-| **Ecommerce** | Storefront CMS, Cart Engine, Promo Logic, Order Fulfillment |
+| **Ecommerce** | Storefront CMS, Cart Engine, Promo Logic, Vendor Portal |
 | **Appointment** | Booking Hub, Schedule Optimizer, Reminder Engine, Deposit Bridge |
 | **Customer Support** | Ticket Desk, Live Chat Hub, Knowledge Base AI, Sentiment Tracker |
 | **Delivery Mgmt** | Fleet Hub, Route Optimizer, Real-time Dispatch, PoD Suite |
@@ -60,7 +60,7 @@ Every solution in this portfolio is built with the following **Standard Core Mod
 
 | Solution | Key Modules |
 | :--- | :--- |
-| **Hospital Mgmt** | EHR Hub, OT Scheduler, Bed Census, Revenue Cycle (RCM) |
+| **Hospital Mgmt** | EHR Hub, OT Scheduler, Bed Census, PACS, Compliance Vault |
 | **Clinic Mgmt** | Patient Flow, EMR Lite, Prescription Engine, lab Bridge |
 | **Telemedicine** | Video Streamer, Virtual Lobby, EHR Integration, Payment Hub |
 | **Pharmacy Mgmt** | Narcotic Tracker, Inventory Sync, POS Bridge, Rx Approval |
