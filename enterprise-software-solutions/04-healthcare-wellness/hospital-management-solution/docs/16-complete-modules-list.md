@@ -34,7 +34,9 @@
 - **HIPAA Privacy & PHI Vault**: permanent logs of every health record access.
 - **centralized RBAC Controller**: defining granular clinical versus admin permissions.
 - **Immutable clinical Audit Vault**: WORM-compliant storage for every medical order.
-- **Regional Compliance Hub**: managing local healthcare laws and reporting rules.
+-37. **Regional Compliance Hub**: managing local healthcare laws and reporting rules.
+38. **Medical Imaging (PACS)**: [DICOM-standard imaging hub](17-medical-imaging-pacs.md).
+39. **Legal Compliance Vault**: [WORM-compliant legal storage](18-legal-compliance-vault.md).
 
 ---
 [← Previous: Task Status](15-task-status.md) | [Back to Index](README.md)

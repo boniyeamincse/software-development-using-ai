@@ -35,6 +35,8 @@
 - **SOX & legal Audit Vault**: permanent, tamper-proof compliance logging.
 - **Global RBAC & Privacy Hub**: security scoped down to regional and row level.
 - **IoT & Industry 4.0 Connector**: bridging shop-floor data with business logic.
+- **Quality Management (QMS)**: [ISO-compliant quality control](17-quality-management.md).
+- **Asset Management (EAM)**: [Global lifecycle tracking](18-enterprise-asset-management.md).
 
 ---
 [← Previous: Task Status](15-task-status.md) | [Back to Index](README.md)

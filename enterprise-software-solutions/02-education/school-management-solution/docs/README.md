@@ -31,6 +31,7 @@ Complete professional documentation for the School Management System project.
 - **[14-development-prompts.md](14-development-prompts.md)** - 100+ AI-assisted development prompts with detailed requirements
 - **[15-task-status.md](15-task-status.md)** - 40 development tasks with status tracking and milestones
 - **[16-complete-modules-list.md](16-complete-modules-list.md)** - 26 core modules + 9 optional modules with complete specifications
+- **[17-alumni-endowment.md](17-alumni-endowment.md)** - Alumni & endowment management features
 
 ---
 

@@ -20,6 +20,7 @@ Comprehensive technical and operational guide for the enterprise retail platform
 14. [Development Prompts](14-development-prompts.md)
 15. [Task Status](15-task-status.md)
 16. [Complete Modules List](16-complete-modules-list.md)
+17. [Marketplace Vendor Portal](17-marketplace-vendor-portal.md)
 
 ---
 *Last updated: March 2026*

@@ -20,6 +20,8 @@ Comprehensive technical and operational guide for the enterprise resource planni
 14. [Development Prompts](14-development-prompts.md)
 15. [Task Status](15-task-status.md)
 16. [Complete Modules List](16-complete-modules-list.md)
+17. [Quality Management (QMS)](17-quality-management.md)
+18. [Asset Management (EAM)](18-enterprise-asset-management.md)
 
 ---
 *Last updated: March 2026*

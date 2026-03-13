@@ -20,6 +20,8 @@ Comprehensive technical and operational guide for the enterprise healthcare foun
 14. [Development Prompts](14-development-prompts.md)
 15. [Task Status](15-task-status.md)
 16. [Complete Modules List](16-complete-modules-list.md)
+17. [Medical Imaging (PACS)](17-medical-imaging-pacs.md)
+18. [Legal Compliance Vault](18-legal-compliance-vault.md)
 
 ---
 *Last updated: March 2026*
